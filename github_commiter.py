@@ -12,32 +12,34 @@ import os
 import time
 
 FILENAME = 'times'
+LOGFILE = 'log'
+TIME = str(time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime()))
 
 def _edit_file(filename):
-    with open('times', 'w') as f:
-        f.write(str(time.time()))
+    with open('times', 'a') as f:
+        f.write(TIME)
+
+
+def _flush_log( msg ):
+    with open(LOGFILE, 'a') as f:
+        f.write(msg)
+
 
 def do_the_magic(filename):
     try:
-        print "1"
         os.system("git pull origin daily")
         time.sleep(5)
-        print "2"
         os.system("git checkout daily")
-        print "3"
         _edit_file(filename)
-        print "4"
         os.system("git add -A")
-        print "5"
         os.system("git commit -m \"Daily Commit\" ")
-        print "6"
         os.system("git push origin daily")
-
+        _flush_log(TIME + ': Success\n')
     except Exception, ex:
-        print "Error : %s" % str(ex)
+        _flush_log(TIME + ': Failure = ' + str(ex))
 
 
 
 if __name__ == '__main__':
     do_the_magic(FILENAME)
-    #_edit_file(FILENAME)
+    
