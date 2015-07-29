@@ -14,14 +14,13 @@ import time
 FILENAME = 'times'
 
 def _edit_file(filename):
-    fd = os.open(filename)
-    os.write(fd, str(time.time()))
-    os.close(fd)
+    with open('times', 'w') as f:
+        f.write(str(time.time()))
 
 def do_the_magic(filename):
     try:
         print "1"
-        os.system("git pull")
+        os.system("git pull origin daily")
         time.sleep(5)
         print "2"
         os.system("git checkout daily")
@@ -41,3 +40,4 @@ def do_the_magic(filename):
 
 if __name__ == '__main__':
     do_the_magic(FILENAME)
+    #_edit_file(FILENAME)
