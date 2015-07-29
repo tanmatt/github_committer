@@ -42,4 +42,3 @@ def do_the_magic(filename):
 
 if __name__ == '__main__':
     do_the_magic(FILENAME)
-    
