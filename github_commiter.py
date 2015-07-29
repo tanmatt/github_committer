@@ -17,7 +17,7 @@ TIME = str(time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime()))
 
 def _edit_file(filename):
     with open('times', 'a') as f:
-        f.write(TIME)
+        f.write("\n" + TIME)
 
 
 def _flush_log( msg ):
