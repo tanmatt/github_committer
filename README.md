@@ -7,4 +7,5 @@ Experiment with Python OS module to automatically change file contents and commi
 Python, RSA
 
 #### To Do:
-Grab daily data and store it for processing
+Grab daily data 
+and store it for processing
