@@ -5,3 +5,7 @@ Experiment with Python OS module to automatically change file contents and commi
 
 ###`Technology`- 
 Python, RSA
+
+#### To Do:
+Grab daily data 
+and store it for processing
