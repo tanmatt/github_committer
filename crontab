@@ -1,0 +1,5 @@
+# Every hour
+0 * * * * python github_committer.py
+
+# Every midnight
+0 0 * * * python randomness.py
