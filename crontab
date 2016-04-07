@@ -1,6 +1,6 @@
 # Every Hour
-0 * * * * /usr/bin/python /home/tanmaythakur2/github_committer/github_committer.py
+@hourly /usr/bin/python /home/tanmaythakur2/github_committer/github_committer.py
 
 # Every Midnight
-0 0 * * * /usr/bin/python /home/tanmaythakur2/github_committer/randomness.py
+@daily /usr/bin/python /home/tanmaythakur2/github_committer/randomness.py
 
