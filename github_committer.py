@@ -21,8 +21,11 @@ GIT_BRANCH = 'earthquake'
 
 log_message = "\n" + str(time.strftime("%Y-%m-%d:", TIME)) + "\t"
 home_dir = subprocess.check_output(["pwd"]).strip()
-FILENAME = home_dir + "/github_committer/" + FILENAME
-LOGFILE = home_dir + "/github_committer/" + LOGFILE
+project_dir = home_dir + '/github_committer/'
+os.chdir(project_dir)
+
+FILENAME = project_dir + FILENAME
+LOGFILE = project_dir + LOGFILE
 
 
 def _flush_log():
@@ -32,14 +35,13 @@ def _flush_log():
 
 def download_csv():
     # check / create folders
-    project_dir = home_dir + '/github_committer'
-    put_in_dir = project_dir + "/csvfiles/" + YEAR + "/" + MONTH + "/" + DATE + "/"
+    put_in_dir = project_dir + "csvfiles/" + YEAR + "/" + MONTH + "/" + DATE + "/"
     global log_message
     if not os.path.isdir(put_in_dir):
         os.makedirs(put_in_dir)
         print wget.download(DOWNLOAD_LINK)
         time.sleep(5)
-        os.rename(project_dir + "/" + DOWNLOADED_FILE, put_in_dir + DOWNLOADED_FILE)
+        os.rename(project_dir + DOWNLOADED_FILE, put_in_dir + DOWNLOADED_FILE)
         log_message += "Downloaded file for today\t"
     else:
         log_message += "Already downloaded the file for today\t"
@@ -53,11 +55,9 @@ def do_the_magic():
         download_csv()
 
         # send it back to github
-        os.chdir(home_dir + '/github_committer')
         os.system("git add -A")
         os.system("git commit -m \"Updated with new file on " + str(HOUR) + "\" ")
         os.system("git push origin " + GIT_BRANCH)
-        os.chdir(home_dir)
     except Exception, ex:
         log_message += str(ex) + "\t"
 

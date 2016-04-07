@@ -4,9 +4,12 @@ crontab at 23:59:59 everyday
 
 import random
 import subprocess
+import os
 
 home_dir = subprocess.check_output(["pwd"]).strip()
-FILENAME = home_dir + '/github_committer/todays_random_hours.txt'
+project_dir = home_dir + '/github_committer/'
+os.chdir(project_dir)
+FILENAME = project_dir + 'todays_random_hours.txt'
 
 
 def write_to_file(hour_list):
