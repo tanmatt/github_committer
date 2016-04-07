@@ -20,6 +20,9 @@ HOUR = int(time.strftime("%H", TIME))
 GIT_BRANCH = 'earthquake'
 
 log_message = "\n" + str(time.strftime("%Y-%m-%d:", TIME)) + "\t"
+project_dir = subprocess.check_output(["pwd"]).strip()
+FILENAME = project_dir + "/" + FILENAME
+LOGFILE = project_dir + "/" + LOGFILE
 
 
 def _flush_log():
@@ -29,7 +32,7 @@ def _flush_log():
 
 def download_csv():
     # check / create folders
-    project_dir = subprocess.check_output(["pwd"]).strip()
+    global project_dir
     put_in_dir = project_dir + "/csvfiles/" + YEAR + "/" + MONTH + "/" + DATE + "/"
     global log_message
     if not os.path.isdir(put_in_dir):
