@@ -53,9 +53,11 @@ def do_the_magic():
         download_csv()
 
         # send it back to github
+        os.chdir(home_dir + '/github_committer')
         os.system("git add -A")
         os.system("git commit -m \"Updated with new file on " + str(HOUR) + "\" ")
         os.system("git push origin " + GIT_BRANCH)
+        os.chdir(home_dir)
     except Exception, ex:
         log_message += str(ex) + "\t"
 
