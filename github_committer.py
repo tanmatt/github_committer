@@ -49,11 +49,11 @@ def do_the_magic():
     try:
         global log_message
         # confirm the correct branch
-        os.system("git checkout " + GIT_BRANCH)
+        os.chdir(home_dir + '/github_committer')
+	os.system("git checkout " + GIT_BRANCH)
         download_csv()
 
         # send it back to github
-        os.chdir(home_dir + '/github_committer')
         os.system("git add -A")
         os.system("git commit -m \"Updated with new file on " + str(HOUR) + "\" ")
         os.system("git push origin " + GIT_BRANCH)
