@@ -1,0 +1,217 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2016-04-22T05:43:17.860Z,37.4910011,-118.8454971,11.44,1.47,md,19,113,0.09856,0.02,nc,nc72625990,2016-04-22T05:48:04.911Z,"20km SSE of Mammoth Lakes, California",earthquake,0.33,1.12,0.23,16,automatic,nc,nc
+2016-04-22T05:28:24.960Z,40.5262,144.6629,28.24,4.5,mb,,134,1.87,0.45,us,us20005krv,2016-04-22T05:54:23.040Z,"251km ENE of Miyako, Japan",earthquake,4.8,6.4,0.113,23,reviewed,us,us
+2016-04-22T04:54:53.090Z,37.5186653,-118.7848358,6.74,1.92,md,28,94,0.059,0.04,nc,nc72625965,2016-04-22T05:49:48.826Z,"21km SE of Mammoth Lakes, California",earthquake,0.26,0.71,0.2,25,automatic,nc,nc
+2016-04-22T04:47:49.010Z,-7.042,129.6734,154.21,5,mb,,43,4.832,0.92,us,us20005krh,2016-04-22T05:06:32.647Z,"207km WNW of Saumlaki, Indonesia",earthquake,8.1,3.9,0.068,69,reviewed,us,us
+2016-04-22T04:44:28.000Z,32.8231667,-115.5926667,11.26,2.02,ml,22,75,0.08259,0.23,ci,ci37335399,2016-04-22T04:59:37.710Z,"4km SW of Imperial, CA",earthquake,0.49,0.79,0.194,27,automatic,ci,ci
+2016-04-22T04:32:48.000Z,57.9775,-155.6033,100,3.1,ml,,,,,ak,ak13490227,2016-04-22T05:23:24.519Z,"100km SE of King Salmon, Alaska",earthquake,,,,,automatic,ak,ak
+2016-04-22T04:31:34.060Z,-0.4151,-80.5863,10.98,5,mb,,97,2.09,1.12,us,us20005krb,2016-04-22T04:50:54.010Z,"27km NW of Bahia de Caraquez, Ecuador",earthquake,6.5,4.3,0.032,316,reviewed,us,us
+2016-04-22T04:27:23.000Z,63.4153,-151.3402,4.3,0.9,ml,,,,0.36,ak,ak13490204,2016-04-22T05:22:28.167Z,"119km W of Cantwell, Alaska",earthquake,0.4,1,,,automatic,ak,ak
+2016-04-22T04:24:03.000Z,59.8786,-148.5081,0,2.1,ml,,,,0.84,ak,ak13490202,2016-04-22T05:22:30.493Z,"57km ESE of Seward, Alaska",earthquake,0.9,0.4,,,automatic,ak,ak
+2016-04-22T04:19:18.000Z,61.1846,-150.0374,1,1.3,ml,,,,0.65,ak,ak13490201,2016-04-22T05:22:29.785Z,"8km WSW of Anchorage, Alaska",earthquake,0.3,0.4,,,automatic,ak,ak
+2016-04-22T04:14:27.860Z,33.9018333,-117.7761667,9.85,1.17,ml,28,53,0.07393,0.22,ci,ci37335391,2016-04-22T04:19:25.955Z,"4km ENE of Yorba Linda, CA",earthquake,0.43,1.03,0.173,29,automatic,ci,ci
+2016-04-22T03:45:32.910Z,38.8376656,-122.8378296,2.03,1.81,md,28,61,0.02039,0.03,nc,nc72625930,2016-04-22T04:05:05.701Z,"9km NW of The Geysers, California",earthquake,0.18,0.36,0.06,11,automatic,nc,nc
+2016-04-22T03:20:13.330Z,-0.2879,-80.5089,10,5.8,mwp,,77,2.03,0.76,us,us20005kqp,2016-04-22T05:26:15.196Z,"36km NNW of Bahia de Caraquez, Ecuador",earthquake,6,1.9,,,reviewed,us,us
+2016-04-22T03:03:43.850Z,32.8161667,-115.5948333,4.82,1.49,ml,12,120,0.08978,0.18,ci,ci37335383,2016-04-22T03:08:43.619Z,"4km SW of Imperial, CA",earthquake,0.47,1.38,0.173,24,automatic,ci,ci
+2016-04-22T03:03:41.610Z,-0.3283,-80.5427,10,6,mwp,,77,2.069,1.09,us,us20005kqh,2016-04-22T05:10:43.081Z,"33km NNW of Bahia de Caraquez, Ecuador",earthquake,6.3,1.8,0.018,334,reviewed,us,us
+2016-04-22T03:00:39.910Z,36.856,-97.6244,5,2.8,mb_lg,,38,0.188,0.47,us,us20005kqf,2016-04-22T03:09:19.246Z,"11km ENE of Medford, Oklahoma",earthquake,1.6,2,0.066,60,reviewed,us,us
+2016-04-22T02:55:23.370Z,38.836834,-122.8378296,1.59,0.9,md,10,119,0.002533,0.02,nc,nc72625905,2016-04-22T03:28:04.619Z,"9km NW of The Geysers, California",earthquake,0.3,0.74,,1,automatic,nc,nc
+2016-04-22T02:47:56.870Z,38.8134995,-122.8199997,2.25,1.79,md,27,80,0.01517,0.03,nc,nc72625895,2016-04-22T05:18:04.848Z,"6km NW of The Geysers, California",earthquake,0.22,0.42,0.06,9,automatic,nc,nc
+2016-04-22T02:43:06.900Z,10.0464,93.8693,44.12,4.6,mb,,211,1.944,0.74,us,us20005kqe,2016-04-22T03:48:15.489Z,"217km SE of Port Blair, India",earthquake,8.7,11.4,0.141,15,reviewed,us,us
+2016-04-22T02:40:04.250Z,34.3421667,-117.008,4.41,1.21,ml,42,58,0.08501,0.16,ci,ci37335375,2016-04-22T03:33:36.885Z,"12km SSW of Lucerne Valley, CA",earthquake,0.2,0.44,0.109,33,reviewed,ci,ci
+2016-04-22T02:39:49.000Z,34.3415,-117.0156667,1.53,1.04,ml,28,67,0.08475,0.24,ci,ci37335367,2016-04-22T02:44:29.016Z,"12km SSW of Lucerne Valley, CA",earthquake,0.35,0.67,0.167,22,automatic,ci,ci
+2016-04-22T02:35:56.000Z,62.9844,-151.5433,0,1.4,ml,,,,0.49,ak,ak13490147,2016-04-22T03:21:56.006Z,"104km NW of Talkeetna, Alaska",earthquake,0.3,0.4,,,automatic,ak,ak
+2016-04-22T02:35:42.129Z,37.1677,-114.7722,0,1,ml,8,113.76,0.326,0.1352,nn,nn00541408,2016-04-22T03:56:16.519Z,"41km ESE of Alamo, Nevada",earthquake,,0,0.43,5,reviewed,nn,nn
+2016-04-22T02:31:33.000Z,62.9764,-151.655,0,1.5,ml,,,,0.56,ak,ak13490145,2016-04-22T03:21:54.954Z,"107km NW of Talkeetna, Alaska",earthquake,0.3,0.3,,,automatic,ak,ak
+2016-04-22T02:18:48.000Z,60.9747,-150.9183,55.5,2.1,ml,,,,0.71,ak,ak13490139,2016-04-22T03:21:57.431Z,"37km NNE of Nikiski, Alaska",earthquake,0.3,0.7,,,automatic,ak,ak
+2016-04-22T02:17:26.510Z,33.459,-116.5396667,11.14,0.64,ml,28,85,0.06324,0.1,ci,ci37335359,2016-04-22T02:55:59.365Z,"16km SE of Anza, CA",earthquake,0.17,0.3,0.105,15,reviewed,ci,ci
+2016-04-22T02:14:50.180Z,33.9186667,-116.7906667,16.27,1.13,ml,52,46,0.08504,0.11,ci,ci37335351,2016-04-22T03:18:55.610Z,"0km WNW of Cabazon, CA",earthquake,0.12,0.35,0.125,40,reviewed,ci,ci
+2016-04-22T02:10:02.000Z,61.4136,-140.2109,0,1.3,ml,,,,0.73,ak,ak13490137,2016-04-22T03:21:56.719Z,"163km WNW of Haines Junction, Canada",earthquake,0.2,0.6,,,automatic,ak,ak
+2016-04-22T02:06:53.340Z,36.7998352,-121.2191696,9.05,2.06,md,37,86,0.1076,0.08,nc,nc72625865,2016-04-22T04:41:05.779Z,"13km E of Ridgemark, California",earthquake,0.21,0.86,0.15,31,automatic,nc,nc
+2016-04-22T01:42:34.660Z,32.8196667,-115.5946667,11.21,1.34,ml,16,118,0.08644,0.15,ci,ci37335343,2016-04-22T02:39:54.697Z,"4km SW of Imperial, CA",earthquake,0.33,0.6,0.163,21,reviewed,ci,ci
+2016-04-22T01:41:48.400Z,19.1912,-64.4363,44,3.1,Md,8,316.8,0.91179001,0.38,pr,pr16113000,2016-04-22T04:27:52.212Z,"87km NNE of Road Town, British Virgin Islands",earthquake,9.1,22.8,0,5,reviewed,pr,pr
+2016-04-22T01:31:20.490Z,38.8248329,-122.8566666,2.6,1.03,md,15,74,0.002713,0.03,nc,nc72625845,2016-04-22T01:49:05.395Z,"10km WNW of The Geysers, California",earthquake,0.35,0.56,0.01,4,automatic,nc,nc
+2016-04-22T01:24:33.360Z,32.8195,-115.5916667,13.38,2.4,ml,51,66,0.08579,0.22,ci,ci37335335,2016-04-22T01:44:34.520Z,"4km SW of Imperial, CA",earthquake,0.21,0.42,0.18,24,reviewed,ci,ci
+2016-04-22T01:11:48.000Z,61.406,-140.0336,14.6,1.2,ml,,,,0.4,ak,ak13490118,2016-04-22T01:57:32.060Z,"154km WNW of Haines Junction, Canada",earthquake,0.3,0.2,,,automatic,ak,ak
+2016-04-22T00:53:42.160Z,34.1226667,-116.9721667,5.3,1.09,ml,29,63,0.04183,0.11,ci,ci37335327,2016-04-22T01:04:59.220Z,"12km NNE of Yucaipa, CA",earthquake,0.16,0.3,0.095,21,reviewed,ci,ci
+2016-04-22T00:43:57.230Z,38.8339996,-122.8063354,-0.08,0.56,md,11,98,0.01098,0.02,nc,nc72625830,2016-04-22T01:37:04.375Z,"7km W of Cobb, California",earthquake,0.21,0.85,0.14,2,automatic,nc,nc
+2016-04-22T00:36:05.170Z,37.6038322,-121.6431656,6.13,1.28,md,9,133,0.0922,0.05,nc,nc72625825,2016-04-22T04:26:03.743Z,"14km SE of Livermore, California",earthquake,0.47,3.57,0.25,3,automatic,nc,nc
+2016-04-22T00:28:22.160Z,26.3163,140.6831,396.46,4.2,mb,,90,1.551,0.87,us,us20005kpx,2016-04-22T01:26:23.319Z,"174km WSW of Chichi-shima, Japan",earthquake,12.2,7.7,0.069,58,reviewed,us,us
+2016-04-22T00:14:54.940Z,37.5761681,-122.0316696,-0.21,1.27,md,7,133,0.06203,0.2,nc,nc72625815,2016-04-22T00:17:17.794Z,"2km SSW of Union City, California",earthquake,1.88,6.38,0.04,4,automatic,nc,nc
+2016-04-21T23:40:12.100Z,33.4986667,-116.7885,6.05,0.86,ml,27,38,0.07911,0.12,ci,ci37335311,2016-04-22T00:59:53.211Z,"9km NE of Aguanga, CA",earthquake,0.17,0.6,0.102,22,reviewed,ci,ci
+2016-04-21T23:24:13.250Z,34.0606667,-117.2638333,17.56,1.05,ml,37,61,0.102,0.09,ci,ci37335287,2016-04-22T00:56:26.965Z,"1km N of Loma Linda, CA",earthquake,0.13,0.29,0.115,17,reviewed,ci,ci
+2016-04-21T23:20:06.660Z,33.3325,-116.1926667,7.76,1.24,ml,42,46,0.1462,0.19,ci,ci37335279,2016-04-22T00:33:26.516Z,"17km SSW of Oasis, CA",earthquake,0.2,1.01,0.176,24,reviewed,ci,ci
+2016-04-21T22:55:01.390Z,19.8456667,-155.5625,23.546,3.05,ml,25,112,0.0901,0.12,hv,hv61237451,2016-04-21T23:52:25.618Z,"22km SSE of Waimea, Hawaii",earthquake,0.56,0.92,0.225,10,reviewed,hv,hv
+2016-04-21T22:54:58.970Z,36.1035004,-120.6804962,1.58,2.09,md,29,70,0.03586,0.07,nc,nc72625765,2016-04-22T02:23:05.479Z,"29km W of Coalinga, California",earthquake,0.32,0.86,0.3,15,automatic,nc,nc
+2016-04-21T22:39:26.000Z,60.4016,-140.9947,12.6,1.3,ml,,,,0.93,ak,ak13490100,2016-04-21T23:22:46.853Z,"87km ENE of Cape Yakataga, Alaska",earthquake,0.6,0.2,,,automatic,ak,ak
+2016-04-21T22:28:04.870Z,51.5949,-178.0854,11.11,3.9,mb,,315,0.634,0.89,us,us20005kp6,2016-04-21T23:26:18.737Z,"32km S of Tanaga Volcano, Alaska",earthquake,11.2,9.1,0.073,50,reviewed,us,us
+2016-04-21T22:15:12.270Z,47.6733333,-113.8043333,7.8,0.33,md,5,235,0.21,0.08,mb,mb80137369,2016-04-21T22:55:57.460Z,"25km ENE of Pablo, Montana",earthquake,1.14,2.86,0.073,2,reviewed,mb,mb
+2016-04-21T21:57:25.000Z,62.07,-149.7356,28.9,1.7,ml,,,,0.73,ak,ak13490088,2016-04-21T22:36:37.413Z,"11km SSE of Y, Alaska",earthquake,0.8,1.4,,,automatic,ak,ak
+2016-04-21T21:57:16.000Z,62.8408,-152.4276,45.6,2.1,ml,,,,1.05,ak,ak13490086,2016-04-21T22:36:38.107Z,"132km WNW of Talkeetna, Alaska",earthquake,3.1,6.8,,,automatic,ak,ak
+2016-04-21T21:51:00.839Z,41.1311,-116.4384,0,2.2,ml,6,290.15,0.119,0.3202,nn,nn00541380,2016-04-22T04:16:14.065Z,"54km NNW of Carlin, Nevada",explosion,,0,0.89,5,reviewed,nn,nn
+2016-04-21T21:33:27.000Z,63.3504,-149.9341,93.4,1.4,ml,,,,0.72,ak,ak13490073,2016-04-21T22:36:34.503Z,"49km W of Cantwell, Alaska",earthquake,1.4,1.4,,,automatic,ak,ak
+2016-04-21T21:30:11.730Z,47.7088333,-113.8546667,5.69,-0.24,md,4,241,0.187,0.04,mb,mb80137389,2016-04-21T23:04:42.170Z,"23km E of Polson, Montana",earthquake,0.78,5.42,,1,reviewed,mb,mb
+2016-04-21T21:28:44.560Z,46.1943333,-122.1708333,4.49,-0.08,ml,7,154,0.01392,0.06,uw,uw61129262,2016-04-21T22:20:27.220Z,"38km NE of Amboy, Washington",earthquake,0.5,0.82,0.024,3,reviewed,uw,uw
+2016-04-21T21:20:51.280Z,45.2296667,-112.3165,-2,0.57,ml,6,136,0.195,0.12,mb,mb80137354,2016-04-21T22:52:49.090Z,"25km E of Dillon, Montana",quarry blast,0.61,31.61,0.207,2,reviewed,mb,mb
+2016-04-21T21:16:53.810Z,51.493,155.0504,255.88,4.3,mb,,101,2.293,0.6,us,us20005knh,2016-04-21T21:38:08.720Z,"101km W of Ozernovskiy, Russia",earthquake,11.3,8.8,0.064,68,reviewed,us,us
+2016-04-21T21:11:54.330Z,38.8148346,-122.8199997,2.94,1.02,md,18,76,0.009323,0.03,nc,nc72625655,2016-04-21T21:31:04.401Z,"6km NW of The Geysers, California",earthquake,0.27,0.53,0.05,5,automatic,nc,nc
+2016-04-21T20:42:29.140Z,46.936,-113.0053333,11.05,1.37,ml,19,83,0.129,0.22,mb,mb80137334,2016-04-21T21:40:51.920Z,"24km W of Lincoln, Montana",earthquake,0.4,0.91,0.067,4,reviewed,mb,mb
+2016-04-21T20:38:26.170Z,36.0416667,-120.6025,3.21,0.53,md,19,121,0.02756,0.05,nc,nc72625650,2016-04-22T01:14:05.330Z,"24km WSW of Coalinga, California",earthquake,0.33,0.76,0.167,8,reviewed,nc,nc
+2016-04-21T20:30:55.030Z,33.8733333,-117.5076667,-0.53,0.79,ml,19,72,0.07634,0.21,ci,ci37335239,2016-04-21T21:08:16.103Z,"1km ESE of Home Gardens, CA",quarry blast,0.49,31.61,0.098,11,reviewed,ci,ci
+2016-04-21T20:30:46.620Z,44.0395,-121.2203333,-1.52,1.96,ml,16,155,0.08213,0.48,uw,uw61129217,2016-04-21T22:18:50.770Z,"7km ESE of Bend, Oregon",explosion,2.11,31.61,0.143,14,reviewed,uw,uw
+2016-04-21T20:29:52.711Z,38.2259,-119.0957,0,1,ml,7,206.77,0.186,0.1183,nn,nn00541393,2016-04-22T04:14:02.750Z,"12km ESE of Bridgeport, California",earthquake,3.84,,0,1,reviewed,nn,nn
+2016-04-21T20:27:51.730Z,46.7136,150.5646,192.81,4.2,mb,,173,5.361,0.66,us,us20005kmp,2016-04-21T21:55:37.723Z,"265km NE of Kuril'sk, Russia",earthquake,11.4,9.7,0.072,54,reviewed,us,us
+2016-04-21T20:21:13.450Z,38.8258324,-122.8013306,2.48,0.55,md,8,86,0.01845,0.03,nc,nc72625630,2016-04-21T20:33:05.654Z,"6km W of Cobb, California",earthquake,0.52,1.71,,1,automatic,nc,nc
+2016-04-21T20:20:28.000Z,64.7449,-149.2691,22.8,1,ml,,,,0.27,ak,ak13490050,2016-04-21T21:07:44.495Z,"19km NNW of North Nenana, Alaska",earthquake,0.2,0.2,,,automatic,ak,ak
+2016-04-21T20:12:08.280Z,38.8209991,-122.7985001,2.65,1.09,md,19,78,0.009352,0.02,nc,nc72625625,2016-04-21T20:26:04.636Z,"6km W of Cobb, California",earthquake,0.24,0.48,0.07,4,automatic,nc,nc
+2016-04-21T20:11:45.000Z,64.5258,-148.8986,15.2,1,ml,,,,0.73,ak,ak13490047,2016-04-21T21:07:40.679Z,"11km ESE of North Nenana, Alaska",earthquake,0.3,0.2,,,automatic,ak,ak
+2016-04-21T19:47:38.140Z,38.8025017,-122.7549973,0.56,1.25,md,15,77,0.01992,0.02,nc,nc72625615,2016-04-21T21:31:05.402Z,"2km N of The Geysers, California",earthquake,0.2,0.53,0.07,4,automatic,nc,nc
+2016-04-21T19:43:38.970Z,36.5228,-98.6881,4.35,2.7,mb_lg,,55,0.041,0.33,us,us20005kla,2016-04-21T20:07:34.040Z,"31km S of Alva, Oklahoma",earthquake,0.7,2.5,0.142,13,reviewed,us,us
+2016-04-21T19:43:22.000Z,62.2224,-149.6784,46.2,1.8,ml,,,,0.63,ak,ak13490044,2016-04-21T20:26:03.692Z,"11km NE of Y, Alaska",earthquake,0.3,0.7,,,automatic,ak,ak
+2016-04-21T19:42:03.830Z,38.8046684,-122.7464981,0.24,0.83,md,11,92,0.01531,0.08,nc,nc72625605,2016-04-21T19:43:40.361Z,"2km SW of Cobb, California",earthquake,0.4,1.01,0.07,4,automatic,nc,nc
+2016-04-21T19:41:08.270Z,38.8045006,-122.7519989,0.16,1.74,md,25,51,0.01703,0.04,nc,nc72625595,2016-04-21T21:19:06.373Z,"3km SW of Cobb, California",earthquake,0.16,0.45,0.16,10,automatic,nc,nc
+2016-04-21T19:39:50.080Z,38.8416672,-122.87883,2.05,0.79,md,9,141,0.004986,0.03,nc,nc72625600,2016-04-21T20:07:04.578Z,"12km ENE of Cloverdale, California",earthquake,0.34,0.53,0.17,2,automatic,nc,nc
+2016-04-21T19:38:48.720Z,38.8050003,-122.7516632,-0.25,1.74,md,26,52,0.01646,0.06,nc,nc72625565,2016-04-21T21:07:06.347Z,"3km SW of Cobb, California",earthquake,0.17,0.51,0.18,10,automatic,nc,nc
+2016-04-21T19:38:07.130Z,38.8048325,-122.7549973,-0.08,1.5,md,21,52,0.01797,0.06,nc,nc72625585,2016-04-21T20:55:05.711Z,"3km SW of Cobb, California",earthquake,0.18,0.51,0.17,6,automatic,nc,nc
+2016-04-21T19:37:43.230Z,38.8055,-122.7581635,0.57,2.3,md,13,87,0.01901,0.02,nc,nc72625575,2016-04-21T23:47:05.376Z,"3km WSW of Cobb, California",earthquake,0.27,0.55,0.34,4,automatic,nc,nc
+2016-04-21T19:37:05.910Z,38.8370018,-122.7726669,-0.96,,,37,73,0.006867,0.78,nc,nc72625560,2016-04-22T00:02:04.426Z,"4km WNW of Cobb, California",earthquake,1.03,1.8,,,automatic,nc,nc
+2016-04-21T19:32:56.660Z,49.0153333,-122.1406667,-0.92,0.69,md,4,281,0.02716,0.01,uw,uw61129187,2016-04-22T05:14:29.200Z,"8km N of Peaceful Valley, Washington",explosion,2.08,31.61,0.065,2,reviewed,uw,uw
+2016-04-21T19:20:43.500Z,36.446,-118.2073333,8.42,1.53,ml,18,190,0.1027,0.15,ci,ci37335207,2016-04-21T20:23:17.006Z,"20km SW of Lone Pine, CA",earthquake,0.32,0.63,0.234,9,reviewed,ci,ci
+2016-04-21T19:15:55.590Z,37.3238333,-122.1046667,-0.36,1.38,md,17,62,0.01398,0.05,nc,nc72625540,2016-04-21T23:49:32.486Z,"11km E of Quarry near Portola Valley, CA",quarry blast,0.16,31.61,0.2,18,reviewed,nc,nc
+2016-04-21T19:08:26.000Z,62.9711,-151.6946,13.7,1.1,ml,,,,0.63,ak,ak13489946,2016-04-21T20:26:36.691Z,"108km NW of Talkeetna, Alaska",earthquake,1,0.3,,,automatic,ak,ak
+2016-04-21T18:56:40.670Z,32.8218333,-115.591,10.07,1.35,ml,14,142,0.08341,0.16,ci,ci37335183,2016-04-21T19:03:11.751Z,"4km SW of Imperial, CA",earthquake,0.54,0.84,0.203,18,reviewed,ci,ci
+2016-04-21T18:53:02.350Z,-14.5507,166.3773,10,5.1,mb,,92,1.196,0.76,us,us20005kk9,2016-04-21T20:21:49.966Z,"91km NW of Port-Olry, Vanuatu",earthquake,8.7,1.8,0.058,97,reviewed,us,us
+2016-04-21T18:50:34.900Z,34.3126667,-117.0146667,2.25,1.06,ml,27,61,0.0561,0.25,ci,ci37335175,2016-04-21T19:02:44.140Z,"12km NW of Big Bear Lake, CA",earthquake,0.46,1.33,0.196,26,reviewed,ci,ci
+2016-04-21T18:42:29.190Z,34.3336667,-116.884,-1.74,1.11,ml,12,99,0.04893,0.25,ci,ci37335167,2016-04-21T19:02:22.110Z,"9km NNW of Big Bear City, CA",quarry blast,0.8,31.61,0.093,7,reviewed,ci,ci
+2016-04-21T18:41:43.690Z,33.9371667,-116.8163333,6.48,0.87,ml,41,56,0.03556,0.14,ci,ci37335151,2016-04-21T18:58:23.129Z,"4km NW of Cabazon, CA",earthquake,0.16,0.34,0.196,19,reviewed,ci,ci
+2016-04-21T18:35:23.210Z,36.6476669,-121.2360001,0.54,1.77,md,12,143,0.1432,0.08,nc,nc72625515,2016-04-21T22:41:05.598Z,"21km SSE of Ridgemark, California",earthquake,0.52,7.01,0.1,12,automatic,nc,nc
+2016-04-21T18:33:15.990Z,32.81,-115.5843333,13.58,1.15,ml,10,102,0.09336,0.26,ci,ci37335143,2016-04-21T18:48:13.696Z,"4km NW of El Centro, CA",earthquake,0.8,1.47,0.332,5,reviewed,ci,ci
+2016-04-21T18:32:43.020Z,36.5456,-98.6721,7.73,3.6,mb_lg,,55,0.051,0.41,us,us20005kji,2016-04-21T20:33:55.545Z,"28km S of Alva, Oklahoma",earthquake,2.9,4.8,0.053,92,reviewed,us,us
+2016-04-21T18:24:32.440Z,32.8196667,-115.5963333,9.92,1.56,ml,23,115,0.08691,0.15,ci,ci37335135,2016-04-21T18:44:41.118Z,"4km SW of Imperial, CA",earthquake,0.29,0.55,0.153,22,reviewed,ci,ci
+2016-04-21T18:22:01.150Z,36.9213333,-121.3661652,6.3,1.25,md,13,148,0.04296,0.07,nc,nc72625510,2016-04-21T22:14:04.524Z,"8km NNE of Hollister, California",earthquake,0.39,0.67,0.17,11,automatic,nc,nc
+2016-04-21T18:16:51.160Z,34.0531667,-117.3571667,3.23,1.01,ml,27,94,0.05182,0.21,ci,ci37335127,2016-04-21T18:39:02.958Z,"4km ESE of Bloomington, CA",earthquake,0.46,0.58,0.117,5,reviewed,ci,ci
+2016-04-21T18:14:22.870Z,32.825,-115.5965,15.85,3.39,ml,76,65,0.08199,0.29,ci,ci37335119,2016-04-22T01:28:53.119Z,"4km SW of Imperial, CA",earthquake,0.22,0.33,0.14,270,reviewed,ci,ci
+2016-04-21T18:11:04.000Z,65.9898,-148.2307,7.3,2.5,ml,,,,1.09,ak,ak13489928,2016-04-21T18:57:24.319Z,"127km N of College, Alaska",earthquake,0.6,0.3,,,automatic,ak,ak
+2016-04-21T18:10:13.000Z,66.0135,-148.1773,0.1,2.2,ml,,,,0.91,ak,ak13489926,2016-04-21T18:56:30.021Z,"130km N of College, Alaska",earthquake,0.5,0.3,,,automatic,ak,ak
+2016-04-21T18:09:13.000Z,65.991,-148.2913,0,1.7,ml,,,,1.06,ak,ak13489924,2016-04-21T18:56:32.886Z,"128km N of College, Alaska",earthquake,0.5,0.4,,,automatic,ak,ak
+2016-04-21T18:07:43.430Z,-22.3423,-67.4533,159.9,4.9,mb,,26,1.374,0.96,us,us20005kj2,2016-04-21T21:33:31.706Z,"101km NE of San Pedro de Atacama, Chile",earthquake,7.3,6.5,0.032,316,reviewed,us,us
+2016-04-21T18:06:06.500Z,19.2537,-64.49,58,2.2,Md,4,334.8,0.95490915,0.11,pr,pr16112005,2016-04-21T19:44:38.881Z,"93km N of Road Town, British Virgin Islands",earthquake,5.1,8.9,0,3,reviewed,pr,pr
+2016-04-21T18:04:34.700Z,18.7082,-65.2942,74,2.5,Md,5,255.6,0.39885199,0.12,pr,pr16112004,2016-04-21T21:02:02.040Z,"44km N of Culebra, Puerto Rico",earthquake,3.2,2.3,0,5,reviewed,pr,pr
+2016-04-21T17:57:52.000Z,57.4032,-154.0426,43.8,2.7,ml,,,,0.74,ak,ak13489922,2016-04-21T18:57:12.226Z,"15km SSW of Larsen Bay, Alaska",earthquake,0.5,1.6,,,automatic,ak,ak
+2016-04-21T17:41:42.600Z,40.8751678,-124.8623352,8.03,3.18,ml,40,275,0.5645,0.19,nc,nc72625485,2016-04-21T20:24:04.634Z,"58km WNW of Bayview, California",earthquake,2.91,3.18,0.268,8,automatic,nc,nc
+2016-04-21T17:37:51.000Z,60.5047,-141.8536,23.9,0.8,ml,,,,0.07,ak,ak13489917,2016-04-21T18:15:05.597Z,"58km NNE of Cape Yakataga, Alaska",earthquake,1,0.8,,,automatic,ak,ak
+2016-04-21T17:32:10.000Z,63.2229,-149.7493,96.7,0.8,ml,,,,0.1,ak,ak13489916,2016-04-21T21:51:44.541Z,"44km WSW of Cantwell, Alaska",earthquake,2.9,1.9,,,reviewed,ak,ak
+2016-04-21T17:26:58.240Z,39.2491667,-122.8136667,6.78,1.55,md,10,76,0.1747,0.06,nc,nc72625480,2016-04-21T21:05:05.743Z,"12km NE of Upper Lake, California",earthquake,0.37,2.21,0.214,12,reviewed,nc,nc
+2016-04-21T17:24:16.460Z,44.709,-113.6486667,7.42,1.35,ml,5,216,0.429,0.04,mb,mb80137249,2016-04-21T17:49:28.800Z,"51km ENE of Challis, Idaho",earthquake,0.92,1.48,0.092,6,reviewed,mb,mb
+2016-04-21T17:23:52.350Z,19.4121666,-155.2758331,13.5,0.8,md,14,120,0.01506,0.35,hv,hv61237251,2016-04-21T19:20:41.220Z,"4km WSW of Volcano, Hawaii",earthquake,1.32,0.68,,1,reviewed,hv,hv
+2016-04-21T17:23:16.000Z,64.5888,-148.0561,10.4,0.4,ml,,,,0.04,ak,ak13489913,2016-04-21T18:15:04.401Z,"28km S of Ester, Alaska",earthquake,0.5,0.8,,,automatic,ak,ak
+2016-04-21T17:19:08.940Z,45.6635,-110.3686667,10.5,1.64,ml,10,125,0.035,0.16,mb,mb80137224,2016-04-21T22:40:24.650Z,"14km E of Livingston, Montana",earthquake,0.58,0.75,0.179,6,reviewed,mb,mb
+2016-04-21T17:07:26.223Z,38.6682,-118.7801,9.7,0.9,ml,7,159.03,0.205,0.073,nn,nn00541383,2016-04-22T04:13:57.069Z,"20km NW of Hawthorne, Nevada",earthquake,1.68,5.4,0.5,3,reviewed,nn,nn
+2016-04-21T16:53:49.640Z,19.431,-155.0381667,3.351,0.7,md,5,187,0.03191,0.06,hv,hv61237236,2016-04-21T19:11:04.500Z,"10km SSE of Fern Acres, Hawaii",earthquake,4.87,3.28,0.182,2,reviewed,hv,hv
+2016-04-21T16:48:49.100Z,41.8667,-119.6154,6,1.8,ml,4,222.57,0.159,0.1582,nn,nn00541334,2016-04-22T04:11:20.920Z,"70km ESE of Lakeview, Oregon",earthquake,5.11,7.5,0.15,2,reviewed,nn,nn
+2016-04-21T16:36:00.010Z,38.8320007,-122.7985001,1.69,0.85,md,9,98,0.01247,0.03,nc,nc72625475,2016-04-21T18:10:05.262Z,"6km W of Cobb, California",earthquake,0.39,0.9,0.07,3,automatic,nc,nc
+2016-04-21T16:28:17.510Z,33.4996667,-116.7903333,5.75,0.1,ml,10,107,0.07912,0.05,ci,ci37335095,2016-04-21T16:37:40.702Z,"9km NE of Aguanga, CA",earthquake,0.21,0.76,0.06,4,reviewed,ci,ci
+2016-04-21T16:20:12.640Z,40.6281,-119.481,11.6,1.1,ml,3,313.77,0.733,0.1222,nn,nn00541382,2016-04-22T04:13:51.434Z,"10km WNW of Gerlach-Empire, Nevada",earthquake,7.6,4,0,1,reviewed,nn,nn
+2016-04-21T16:12:40.910Z,33.3733333,-116.2765,9.8,1.11,ml,43,104,0.08897,0.17,ci,ci37335087,2016-04-21T16:36:58.260Z,"16km NE of Borrego Springs, CA",earthquake,0.19,0.49,0.165,32,reviewed,ci,ci
+2016-04-21T16:09:39.090Z,39.043,-123.402,2.66,0.92,md,6,102,0.1083,0.03,nc,nc72625465,2016-04-21T18:24:07.286Z,"4km NW of Boonville, California",earthquake,0.6,6.1,0.055,5,reviewed,nc,nc
+2016-04-21T16:01:00.300Z,34.7038333,-116.2485,4.06,1.52,ml,22,61,0.0827,0.21,ci,ci37335079,2016-04-21T16:16:52.895Z,"8km WSW of Ludlow, CA",earthquake,0.28,0.85,0.145,24,reviewed,ci,ci
+2016-04-21T15:46:12.200Z,18.243,-66.9663,20,2.2,Md,7,90,0.13115403,0.23,pr,pr16112002,2016-04-21T16:24:07.004Z,"2km ESE of Las Marias, Puerto Rico",earthquake,0.5,1.9,0,5,reviewed,pr,pr
+2016-04-21T15:40:18.770Z,38.7291679,-122.6218338,4.44,1.52,md,7,117,0.072,0.06,nc,nc72625460,2016-04-21T17:02:06.072Z,"2km SSW of Middletown, California",earthquake,1.51,1.98,0.32,4,automatic,nc,nc
+2016-04-21T15:39:52.000Z,59.7588,-153.1824,100.9,2.8,ml,,,,0.63,ak,ak13489745,2016-04-21T21:12:36.040Z,"75km W of Anchor Point, Alaska",earthquake,0.8,0.6,,,automatic,ak,ak
+2016-04-21T15:38:41.140Z,33.4261667,-116.6126667,8.4,0.49,ml,20,99,0.06891,0.16,ci,ci37552256,2016-04-21T15:48:03.233Z,"15km SSE of Anza, CA",earthquake,0.31,0.68,0.149,17,reviewed,ci,ci
+2016-04-21T15:19:56.740Z,45.9978333,-111.4068333,5.89,0.9,md,7,145,0.205,0.07,mb,mb80137194,2016-04-21T18:21:21.160Z,"16km NE of Three Forks, Montana",earthquake,0.52,5.69,0.225,4,reviewed,mb,mb
+2016-04-21T15:04:29.486Z,36.4988,-113.9854,0,1,ml,6,161.82,0.653,0.1451,nn,nn00541322,2016-04-22T04:11:26.811Z,"32km SSE of Bunkerville, Nevada",earthquake,3.96,,0.29,3,reviewed,nn,nn
+2016-04-21T14:55:01.464Z,40.6387,-119.47,12.7,1.3,ml,3,314.38,0.745,0.0041,nn,nn00541369,2016-04-22T04:13:45.635Z,"10km NW of Gerlach-Empire, Nevada",earthquake,5.56,3.2,0.05,3,reviewed,nn,nn
+2016-04-21T14:52:47.180Z,47.4623333,-113.9645,18.25,0.63,md,15,124,0.052,0.18,mb,mb80137164,2016-04-21T15:32:15.430Z,"12km SE of Ronan, Montana",earthquake,0.57,0.98,0.143,5,reviewed,mb,mb
+2016-04-21T14:51:55.710Z,19.3485,-155.1115,7.483,2.35,ml,43,137,0.03658,0.11,hv,hv61237196,2016-04-21T15:46:46.340Z,"16km SE of Volcano, Hawaii",earthquake,0.47,0.58,0.26,14,reviewed,hv,hv
+2016-04-21T14:38:28.000Z,63.1356,-150.8467,134.6,1.5,ml,,,,0.6,ak,ak13489580,2016-04-21T15:10:38.698Z,"98km NNW of Talkeetna, Alaska",earthquake,0.6,0.8,,,automatic,ak,ak
+2016-04-21T14:34:19.210Z,45.9888333,-111.3938333,5.9,0.47,md,7,88,0.206,0.06,mb,mb80137274,2016-04-21T18:19:45.170Z,"15km NNW of Manhattan, Montana",earthquake,0.53,6.15,0.215,4,reviewed,mb,mb
+2016-04-21T14:32:13.000Z,59.8584,-151.4049,55.7,1,ml,,,,0.06,ak,ak13489578,2016-04-21T21:51:43.591Z,"14km NNW of Fritz Creek, Alaska",earthquake,1.6,2.4,,,reviewed,ak,ak
+2016-04-21T14:30:15.430Z,37.6353333,-118.9701667,4.95,0.27,md,16,73,0.01998,0.03,nc,nc72625440,2016-04-21T20:09:06.582Z,"1km S of Mammoth Lakes, California",earthquake,0.29,0.5,0.191,14,reviewed,nc,nc
+2016-04-21T14:28:14.100Z,-3.7285,142.7483,59.22,5.3,mb,,44,4.906,1.37,us,us20005khc,2016-04-21T14:43:46.379Z,"57km N of Ambunti, Papua New Guinea",earthquake,9.2,8.2,0.092,39,reviewed,us,us
+2016-04-21T14:25:46.138Z,38.6665,-118.7773,10,1.4,ml,14,86.67,0.203,0.1357,nn,nn00541320,2016-04-22T04:11:08.774Z,"20km NW of Hawthorne, Nevada",earthquake,0.96,2.4,0.42,5,reviewed,nn,nn
+2016-04-21T14:19:27.890Z,38.7606659,-122.7343369,1.59,0.97,md,11,126,0.01836,0.02,nc,nc72625435,2016-04-21T16:09:14.303Z,"2km SE of The Geysers, California",earthquake,0.39,0.62,0.02,3,automatic,nc,nc
+2016-04-21T14:17:28.850Z,48.2233333,-121.7046667,2.12,0.99,ml,4,318,0.2582,0.07,uw,uw61129062,2016-04-21T15:37:24.510Z,"8km WSW of Darrington, Washington",earthquake,3.52,9.28,0.192,3,reviewed,uw,uw
+2016-04-21T14:13:40.500Z,45.9786667,-111.3983333,-0.83,0.09,md,7,89,0.216,0.13,mb,mb80137329,2016-04-21T20:35:40.990Z,"14km NNW of Manhattan, Montana",earthquake,0.7,2.38,0.373,2,reviewed,mb,mb
+2016-04-21T14:01:23.461Z,39.2405,-120.0943,8.2,0,ml,3,176.28,0.041,0.033,nn,nn00541367,2016-04-22T04:13:34.249Z,"3km W of Tahoe Vista, California",earthquake,3.43,4,0.33,3,reviewed,nn,nn
+2016-04-21T13:59:44.350Z,46.0025,-111.4168333,5,0.56,md,7,85,0.206,0.11,mb,mb80137269,2016-04-21T18:16:10.600Z,"16km NE of Three Forks, Montana",earthquake,0.6,31.61,0.253,5,reviewed,mb,mb
+2016-04-21T13:59:37.467Z,36.9923,-115.9553,0,,,4,311.43,0.073,0.0964,nn,nn00541364,2016-04-22T04:13:22.832Z,"72km E of Beatty, Nevada",earthquake,4.12,,,,reviewed,nn,nn
+2016-04-21T13:53:42.060Z,-0.3353,-80.523,10,4.2,mb,,159,2.051,0.83,us,us20005kh1,2016-04-21T15:27:30.347Z,"31km NNW of Bahia de Caraquez, Ecuador",earthquake,5.3,2,0.175,9,reviewed,us,us
+2016-04-21T13:49:20.870Z,46.0075,-111.4228333,5,1.1,ml,10,84,0.206,0.11,mb,mb80137134,2016-04-21T18:11:34.632Z,"16km NE of Three Forks, Montana",earthquake,0.42,31.61,0.215,3,reviewed,mb,mb
+2016-04-21T13:47:57.000Z,63.6985,-148.3986,12,1,ml,,,,0.55,ak,ak13489577,2016-04-21T14:31:34.709Z,"33km ESE of Healy, Alaska",earthquake,0.5,0.3,,,automatic,ak,ak
+2016-04-21T13:46:47.670Z,33.2098333,-116.689,7.82,0.63,ml,27,68,0.03657,0.16,ci,ci37552232,2016-04-21T15:54:46.504Z,"8km ESE of Lake Henshaw, CA",earthquake,0.23,0.41,0.099,8,reviewed,ci,ci
+2016-04-21T13:38:21.000Z,60.2629,-141.3634,0,1.3,ml,,,,0.88,ak,ak13489576,2016-04-21T14:31:31.687Z,"63km ENE of Cape Yakataga, Alaska",earthquake,1.3,0.8,,,automatic,ak,ak
+2016-04-21T13:33:49.520Z,12.6577,-89.1655,45.34,4.4,mb,,197,1.025,0.97,us,us20005kgt,2016-04-21T15:50:27.634Z,"93km S of La Libertad, El Salvador",earthquake,5.6,16.1,0.162,11,reviewed,us,us
+2016-04-21T13:19:47.000Z,59.1705,-152.116,32.8,2.2,ml,,,,0.61,ak,ak13489572,2016-04-21T13:54:48.366Z,"61km SSW of Homer, Alaska",earthquake,0.5,0.3,,,automatic,ak,ak
+2016-04-21T13:18:04.839Z,41.8698,-119.6174,7.2,1.6,ml,5,222.02,0.156,0.1668,nn,nn00541342,2016-04-22T04:11:32.518Z,"69km ESE of Lakeview, Oregon",earthquake,5.33,6,0.27,3,reviewed,nn,nn
+2016-04-21T13:11:39.400Z,18.9281,-64.2918,24,3,Md,5,313.2,0.84890794,0.3,pr,pr16112003,2016-04-21T17:30:59.693Z,"66km NNE of Road Town, British Virgin Islands",earthquake,3.6,23.2,0,4,reviewed,pr,pr
+2016-04-21T13:09:30.000Z,61.0834,-148.7111,14.8,1.5,ml,,,,0.83,ak,ak13489569,2016-04-21T13:54:50.514Z,"34km N of Whittier, Alaska",earthquake,0.3,0.2,,,automatic,ak,ak
+2016-04-21T13:05:54.000Z,64.1491,-148.6927,129.4,1.4,ml,,,,0.41,ak,ak13489567,2016-04-21T13:54:49.486Z,"35km NNE of Healy, Alaska",earthquake,0.6,0.8,,,automatic,ak,ak
+2016-04-21T13:04:25.340Z,38.7589989,-122.7241669,1.8,1.92,md,23,56,0.01524,0.05,nc,nc72625425,2016-04-21T15:43:05.212Z,"3km SE of The Geysers, California",earthquake,0.3,0.33,0.09,10,automatic,nc,nc
+2016-04-21T13:02:04.100Z,18.7975,-67.1498,30,2.8,Md,9,252,0.32968171,0.34,pr,pr16112001,2016-04-21T13:20:24.040Z,"34km N of San Antonio, Puerto Rico",earthquake,1.5,3.9,0,9,reviewed,pr,pr
+2016-04-21T13:00:58.000Z,59.7653,-153.119,97.8,2.4,ml,,,,0.51,ak,ak13489563,2016-04-21T13:54:52.048Z,"72km W of Anchor Point, Alaska",earthquake,1.4,0.9,,,automatic,ak,ak
+2016-04-21T12:57:10.210Z,38.8863335,-122.8583298,0.83,0.58,md,7,222,0.03089,0.02,nc,nc72625420,2016-04-21T13:33:05.917Z,"10km S of Kelseyville, California",earthquake,0.75,2.33,0.03,2,automatic,nc,nc
+2016-04-21T12:52:25.150Z,38.8404999,-122.8271637,1.78,1.54,md,23,48,0.006774,0.02,nc,nc72625410,2016-04-21T14:50:04.096Z,"9km WNW of Cobb, California",earthquake,0.21,0.36,0.19,7,automatic,nc,nc
+2016-04-21T12:47:00.000Z,61.3826,-140.2011,10.6,1.4,ml,,,,0.42,ak,ak13489410,2016-04-21T13:54:51.237Z,"161km WNW of Haines Junction, Canada",earthquake,0.3,0.4,,,automatic,ak,ak
+2016-04-21T12:41:58.271Z,40.6157,-119.4547,0,1.6,ml,5,167.55,0.728,0.1987,nn,nn00541319,2016-04-22T04:12:54.141Z,"7km WNW of Gerlach-Empire, Nevada",earthquake,7.5,,0.22,4,reviewed,nn,nn
+2016-04-21T12:41:02.360Z,45.9703333,-111.3725,5.81,0,md,6,174,0.212,0.03,mb,mb80137349,2016-04-21T21:10:50.180Z,"13km NNW of Manhattan, Montana",earthquake,0.75,5.27,0.385,2,reviewed,mb,mb
+2016-04-21T12:31:16.490Z,-0.1661,-80.2336,10,4.4,mb,,90,1.741,1.17,us,us20005kg9,2016-04-21T12:56:33.880Z,"34km SW of Pedernales, Ecuador",earthquake,7,1.9,0.112,23,reviewed,us,us
+2016-04-21T12:21:41.280Z,13.0957,50.8478,10,4.5,mb,,55,3.115,0.58,us,us20005kg7,2016-04-21T13:11:06.249Z,"137km N of Bereeda, Somalia",earthquake,6.7,1.9,0.093,34,reviewed,us,us
+2016-04-21T11:55:41.220Z,33.3798333,-116.3693333,4.26,0.6,ml,20,121,0.1183,0.12,ci,ci37552208,2016-04-21T13:15:43.902Z,"14km N of Borrego Springs, CA",earthquake,0.29,0.86,0.127,12,reviewed,ci,ci
+2016-04-21T11:43:00.390Z,36.3428333,-120.0098333,23.49,2.1,md,45,235,0.1864,0.15,nc,nc72625395,2016-04-21T20:39:06.668Z,"12km NW of Lemoore Station, California",earthquake,0.81,0.39,0.146,27,reviewed,nc,nc
+2016-04-21T11:40:14.229Z,40.6526,-119.5055,0,0.5,ml,4,314.46,0.749,0.1557,nn,nn00541365,2016-04-22T04:13:28.534Z,"13km NW of Gerlach-Empire, Nevada",earthquake,10.43,,0,1,reviewed,nn,nn
+2016-04-21T11:33:59.000Z,65.9109,-149.8872,2.5,1.2,ml,,,,0.59,ak,ak13489408,2016-04-21T11:59:36.796Z,"107km NNE of Manley Hot Springs, Alaska",earthquake,0.3,0.3,,,automatic,ak,ak
+2016-04-21T11:26:09.000Z,60.7104,-152.3749,27.9,1.7,ml,,,,0.94,ak,ak13489407,2016-04-21T11:59:38.556Z,"32km NE of Redoubt Volcano, Alaska",earthquake,0.8,0.7,,,automatic,ak,ak
+2016-04-21T11:24:25.300Z,38.8371658,-122.8318329,1.41,0.57,md,6,111,0.003188,0.01,nc,nc72625385,2016-04-21T11:50:04.654Z,"9km W of Cobb, California",earthquake,1.25,1.32,,1,automatic,nc,nc
+2016-04-21T11:22:38.300Z,36.4589,-96.8842,7.65,2.8,mb_lg,,68,0.32,0.35,us,us20005kfv,2016-04-21T12:10:54.015Z,"15km NNW of Pawnee, Oklahoma",earthquake,1.3,4.3,0.095,29,reviewed,us,us
+2016-04-21T11:16:44.518Z,38.4675,-118.3793,3.6,0.2,ml,5,135.92,0.046,0.0608,nn,nn00541363,2016-04-22T04:13:17.147Z,"22km ESE of Hawthorne, Nevada",earthquake,2.29,4.2,0.2,2,reviewed,nn,nn
+2016-04-21T11:12:42.000Z,63.0464,-150.9309,123.5,3.4,ml,,,,0.53,ak,ak13489393,2016-04-21T12:00:25.383Z,"90km NNW of Talkeetna, Alaska",earthquake,0.2,0.5,,,automatic,ak,ak
+2016-04-21T11:12:32.900Z,38.8246651,-122.8548355,2.02,1.35,md,23,57,0.003287,0.03,nc,nc72625380,2016-04-21T13:42:04.931Z,"10km WNW of The Geysers, California",earthquake,0.22,0.37,0.09,8,automatic,nc,nc
+2016-04-21T10:58:30.070Z,38.803833,-122.8008347,0.11,2.15,md,35,73,0.005977,0.06,nc,nc72625370,2016-04-21T12:50:05.813Z,"4km NW of The Geysers, California",earthquake,0.17,0.39,0.16,13,automatic,nc,nc
+2016-04-21T10:56:26.613Z,38.4635,-118.3867,4.1,0.3,ml,5,132.3,0.048,0.0491,nn,nn00541316,2016-04-22T04:11:02.983Z,"21km ESE of Hawthorne, Nevada",earthquake,1.7,7,0,1,reviewed,nn,nn
+2016-04-21T10:51:09.420Z,35.7551,-97.3554,5,2.5,mb_lg,,42,0.09,0.84,us,us20005kfn,2016-04-21T11:00:19.644Z,"15km NE of Edmond, Oklahoma",earthquake,0.8,1.9,0.102,25,reviewed,us,us
+2016-04-21T10:51:04.491Z,38.5746,-118.4536,6.6,0.2,ml,4,166.88,0.076,0.0363,nn,nn00541362,2016-04-22T04:13:11.393Z,"15km ENE of Hawthorne, Nevada",earthquake,10.25,12.8,0,1,reviewed,nn,nn
+2016-04-21T10:38:04.375Z,40.6975,-119.4942,0,1.4,ml,4,152.26,0.794,0.1241,nn,nn00541315,2016-04-22T04:12:42.463Z,"16km NW of Gerlach-Empire, Nevada",earthquake,9.87,,0.16,4,reviewed,nn,nn
+2016-04-21T10:37:39.000Z,37.5245,-118.8201667,4.66,0.35,md,12,242,0.0658,0.06,nc,nc72625365,2016-04-21T19:56:04.530Z,"19km SE of Mammoth Lakes, California",earthquake,0.68,1.3,0.249,9,reviewed,nc,nc
+2016-04-21T10:29:08.775Z,38.4455,-118.4001,0,0.1,ml,4,209.77,0.051,0.0529,nn,nn00541313,2016-04-22T04:10:56.838Z,"21km ESE of Hawthorne, Nevada",earthquake,5.38,,0,1,reviewed,nn,nn
+2016-04-21T10:14:00.000Z,63.0385,-151.5588,11.3,4.2,ml,,,,0.63,ak,ak13489226,2016-04-21T15:22:18.040Z,"107km NW of Talkeetna, Alaska",earthquake,0.2,0.2,,,reviewed,ak,ak
+2016-04-21T10:09:59.162Z,38.4542,-118.3883,3,0,ml,4,196.86,0.045,0.0489,nn,nn00541311,2016-04-22T04:10:51.043Z,"22km ESE of Hawthorne, Nevada",earthquake,7.26,10.9,,,reviewed,nn,nn
+2016-04-21T10:08:09.000Z,65.8328,-149.6567,14.6,0.6,ml,,,,0.7,ak,ak13489224,2016-04-21T10:43:06.109Z,"103km NNE of Manley Hot Springs, Alaska",earthquake,0.5,0.1,,,automatic,ak,ak
+2016-04-21T10:06:18.257Z,37.0821,-116.0568,7.4,,,4,153.19,0.02,0.0704,nn,nn00541368,2016-04-22T04:13:39.910Z,"65km ENE of Beatty, Nevada",earthquake,6.17,6.1,,,reviewed,nn,nn
+2016-04-21T10:02:37.020Z,38.7613335,-122.7111664,1.73,1.28,md,7,194,0.01153,0.02,nc,nc72625360,2016-04-21T12:34:04.782Z,"4km ESE of The Geysers, California",earthquake,0.43,0.61,0.06,5,automatic,nc,nc
+2016-04-21T10:01:59.000Z,63.0357,-151.5778,10.6,3.8,ml,,,,0.64,ak,ak13489210,2016-04-21T15:25:32.040Z,"108km NW of Talkeetna, Alaska",earthquake,0.2,0.2,,,reviewed,ak,ak
+2016-04-21T09:59:46.440Z,44.7871667,-111.5196667,10.33,0.48,ml,6,173,0.077,0.13,mb,mb80137324,2016-04-21T20:23:50.730Z,"35km WNW of West Yellowstone, Montana",earthquake,1.2,1.49,0.008,2,reviewed,mb,mb
+2016-04-21T09:52:52.000Z,38.7578316,-122.7161636,0.3,0.99,md,8,163,0.01543,0.03,nc,nc72625355,2016-04-21T12:08:03.694Z,"4km ESE of The Geysers, California",earthquake,0.37,1.24,0.13,3,automatic,nc,nc
+2016-04-21T09:51:42.930Z,38.6555,-122.3593333,8.89,2.46,md,72,66,0.05466,0.14,nc,nc72625350,2016-04-21T19:17:05.427Z,"11km NE of Angwin, California",earthquake,0.2,0.45,0.227,66,reviewed,nc,nc
+2016-04-21T09:49:50.704Z,36.694,-116.177,7.1,-0.3,ml,5,131.03,0.006,0.0411,nn,nn00541359,2016-04-22T04:13:05.559Z,"56km NNW of Pahrump, Nevada",earthquake,2.57,2.1,0.25,4,reviewed,nn,nn
+2016-04-21T09:36:38.960Z,38.8318329,-122.810997,2.16,0.56,md,9,138,0.008456,0.03,nc,nc72625345,2016-04-21T11:26:05.112Z,"7km W of Cobb, California",earthquake,0.46,1.44,,1,automatic,nc,nc
+2016-04-21T09:10:35.832Z,40.629,-119.4928,0,1,ml,3,313.63,0.73,0.1252,nn,nn00541358,2016-04-22T04:12:59.825Z,"11km WNW of Gerlach-Empire, Nevada",earthquake,5.97,,0,1,reviewed,nn,nn
+2016-04-21T09:01:26.290Z,38.8036652,-122.7996674,0.77,1.34,md,12,225,0.005485,0.03,nc,nc72625340,2016-04-21T11:00:06.523Z,"4km NW of The Geysers, California",earthquake,0.67,0.39,0.03,5,automatic,nc,nc
+2016-04-21T08:51:26.590Z,36.4765,-89.4598333,4.55,1.91,md,25,99,0.06038,0.07,nm,nm60138066,2016-04-21T13:02:24.530Z,"10km N of Tiptonville, Tennessee",earthquake,0.6,0.38,0.126,9,reviewed,nm,nm
+2016-04-21T08:48:14.440Z,40.6286,-119.456,0,0.8,ml,4,314.18,0.74,0.096,nn,nn00541357,2016-04-22T04:12:48.486Z,"8km NW of Gerlach-Empire, Nevada",earthquake,7.59,,0.03,2,reviewed,nn,nn
+2016-04-21T08:45:24.960Z,34.0518333,-117.2493333,15.78,0.7,ml,25,68,0.09544,0.13,ci,ci37552192,2016-04-21T15:47:59.563Z,"1km ENE of Loma Linda, CA",earthquake,0.21,0.51,0.107,14,reviewed,ci,ci
+2016-04-21T08:29:27.600Z,46.4753333,-122.3995,19.7,0.83,ml,8,149,0.1412,0.1,uw,uw61129027,2016-04-21T15:28:02.730Z,"13km SW of Morton, Washington",earthquake,0.89,1.22,0.092,10,reviewed,uw,uw
+2016-04-21T08:11:24.000Z,61.4992,-151.951,90.4,1.7,ml,,,,0.66,ak,ak13489206,2016-04-21T08:50:51.608Z,"96km NNW of Nikiski, Alaska",earthquake,0.9,0.8,,,automatic,ak,ak
+2016-04-21T08:02:19.380Z,38.8328323,-122.7939987,1.71,0.96,md,16,63,0.006258,0.03,nc,nc72625310,2016-04-21T10:34:04.450Z,"6km W of Cobb, California",earthquake,0.23,0.47,0.06,4,automatic,nc,nc
+2016-04-21T07:50:58.000Z,60.3926,-156.0814,13.7,3.3,ml,,,,0.89,ak,ak13489200,2016-04-21T08:15:26.600Z,"96km NW of Old Iliamna, Alaska",earthquake,0.4,0.2,,,automatic,ak,ak
+2016-04-21T07:49:46.000Z,64.7829,-149.1263,20.4,0.9,ml,,,,0.29,ak,ak13489198,2016-04-21T08:14:36.058Z,"22km N of North Nenana, Alaska",earthquake,0.3,0.3,,,automatic,ak,ak
+2016-04-21T07:44:48.320Z,38.795166,-122.7649994,1.57,0.28,md,7,126,0.01802,0.04,nc,nc72625305,2016-04-21T08:14:04.940Z,"2km NNW of The Geysers, California",earthquake,0.9,1.6,0.21,2,automatic,nc,nc
+2016-04-21T07:35:21.000Z,62.3295,-150.0605,22.6,1.2,ml,,,,0.32,ak,ak13489197,2016-04-21T08:14:34.062Z,"2km ENE of Talkeetna, Alaska",earthquake,0.5,0.3,,,automatic,ak,ak
+2016-04-21T07:33:10.710Z,33.7131667,-116.7496667,17.24,0.52,ml,20,73,0.03149,0.16,ci,ci37552184,2016-04-21T13:15:47.980Z,"4km SW of Idyllwild, CA",earthquake,0.4,0.69,0.184,11,reviewed,ci,ci
+2016-04-21T07:16:45.260Z,33.6536667,-116.6841667,17.52,0.48,ml,16,111,0.06456,0.12,ci,ci37552176,2016-04-21T13:16:16.036Z,"10km SSE of Idyllwild, CA",earthquake,0.34,0.51,0.192,16,reviewed,ci,ci
+2016-04-21T07:16:15.000Z,51.5023,-177.5562,34.9,1.4,ml,,,,0.3,ak,ak13489059,2016-04-21T21:07:39.565Z,"58km SE of Tanaga Volcano, Alaska",earthquake,2.1,1.7,,,reviewed,ak,ak
+2016-04-21T07:14:23.070Z,34.102,-117.448,4.65,0.89,ml,22,70,0.008041,0.2,ci,ci37552168,2016-04-21T13:16:22.471Z,"1km ENE of Fontana, CA",earthquake,0.36,0.54,0.218,28,reviewed,ci,ci
+2016-04-21T07:13:19.561Z,36.9784,-113.4855,12.2,0.4,ml,5,203.74,0.196,0.0725,nn,nn00541309,2016-04-22T04:11:38.310Z,"16km SSE of Saint George, Utah",earthquake,2.88,4.6,0.1,4,reviewed,nn,nn
+2016-04-21T07:00:56.800Z,36.1007,-96.7347,6.33,3,mb_lg,,47,0.073,0.66,us,us20005kdj,2016-04-21T07:58:01.940Z,"3km WSW of Yale, Oklahoma",earthquake,1.5,6.6,0.061,70,reviewed,us,us
+2016-04-21T06:58:07.775Z,36.8172,-115.9545,8.2,0.5,ml,17,119.14,0.092,0.1397,nn,nn00541308,2016-04-22T04:12:18.722Z,"67km N of Pahrump, Nevada",earthquake,1.08,1.8,0.17,7,reviewed,nn,nn
+2016-04-21T06:57:11.470Z,38.8219986,-122.8105011,2.54,1.29,md,26,59,0.001434,0.02,nc,nc72625270,2016-04-21T10:08:04.386Z,"6km NW of The Geysers, California",earthquake,0.22,0.39,0.08,7,automatic,nc,nc
+2016-04-21T06:54:06.000Z,61.9281,-144.0565,16.6,1.1,ml,,,,0.39,ak,ak13489057,2016-04-21T07:37:16.010Z,"50km NNE of Chitina, Alaska",earthquake,0.5,0.5,,,automatic,ak,ak
+2016-04-21T06:48:52.540Z,-23.0645,-66.2593,234.35,4.4,mb,,41,2.487,1,us,us20005kdd,2016-04-21T07:25:03.561Z,"60km WNW of El Aguilar, Argentina",earthquake,7.4,9.7,0.155,12,reviewed,us,us
+2016-04-21T06:48:27.010Z,33.934,-116.8455,2.72,0.63,ml,18,68,0.1056,0.12,ci,ci37552160,2016-04-21T13:16:28.488Z,"3km ENE of Banning, CA",earthquake,0.27,1.09,0.207,16,reviewed,ci,ci
+2016-04-21T06:39:18.890Z,38.8376656,-122.7779999,2.46,0.92,md,7,189,0.005085,0.02,nc,nc72625265,2016-04-21T09:17:03.895Z,"5km WNW of Cobb, California",earthquake,1.59,1.42,0.17,3,automatic,nc,nc
+2016-04-21T06:35:14.319Z,38.2872,-118.7648,10.9,0.3,ml,4,289.14,0.207,0.0196,nn,nn00541307,2016-04-22T04:10:44.871Z,"29km SSW of Hawthorne, Nevada",earthquake,9.43,12.2,0.19,2,reviewed,nn,nn
+2016-04-21T06:32:07.530Z,33.4958333,-116.7913333,5.35,0.68,ml,23,61,0.08277,0.11,ci,ci37552152,2016-04-21T13:16:32.517Z,"9km NE of Aguanga, CA",earthquake,0.17,0.88,0.114,23,reviewed,ci,ci
+2016-04-21T06:27:16.000Z,63.1086,-151.4427,0,2.1,ml,,,,0.76,ak,ak13489050,2016-04-21T07:37:14.863Z,"110km NW of Talkeetna, Alaska",earthquake,0.2,0.2,,,automatic,ak,ak
+2016-04-21T06:09:03.549Z,38.4638,-118.381,3.7,0,ml,4,185.83,0.045,0.0644,nn,nn00541356,2016-04-22T04:12:36.471Z,"22km ESE of Hawthorne, Nevada",earthquake,11.58,11.5,0,1,reviewed,nn,nn
+2016-04-21T06:00:31.830Z,45.5388333,-122.6691667,17.26,1.27,ml,12,123,0.0918,0.21,uw,uw61129012,2016-04-21T15:26:46.999Z,"1km NNE of Portland, Oregon",earthquake,0.42,0.58,0.184,10,reviewed,uw,uw
+2016-04-21T05:55:41.970Z,36.5287,-99.0562,5,2.6,mb_lg,,231,0.145,0.43,us,us20005kd7,2016-04-21T06:12:19.746Z,"16km NE of Mooreland, Oklahoma",earthquake,1.9,1.9,0.1,26,reviewed,us,us
