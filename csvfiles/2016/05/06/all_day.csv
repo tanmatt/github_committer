@@ -1,0 +1,219 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2016-05-06T00:28:02.000Z,61.4485,-140.8778,0,1.5,ml,,,,0.45,ak,ak13519043,2016-05-06T01:11:55.983Z,"175km NNE of Cape Yakataga, Alaska",earthquake,0.3,0.6,,,automatic,ak,ak
+2016-05-06T00:17:27.395Z,40.6223,-119.4867,9.5,1.8,ml,7,184.71,0.726,0.1583,nn,nn00543050,2016-05-06T01:05:25.600Z,"10km WNW of Gerlach-Empire, Nevada",earthquake,4.15,5.3,0.11,5,reviewed,nn,nn
+2016-05-06T00:16:22.303Z,40.6282,-119.5014,6.5,1.8,ml,6,183.62,0.727,0.192,nn,nn00543038,2016-05-06T01:05:18.377Z,"11km WNW of Gerlach-Empire, Nevada",earthquake,3.54,5.6,0.14,5,reviewed,nn,nn
+2016-05-06T00:16:03.350Z,-19.4504,168.7436,78.48,4.7,mb,,80,1.933,1.24,us,us10005e6s,2016-05-06T00:37:56.738Z,"56km WNW of Isangel, Vanuatu",earthquake,7.5,6.5,0.081,46,reviewed,us,us
+2016-05-06T00:14:35.444Z,40.6024,-119.4589,14.4,1.8,ml,7,151.4,0.715,0.1823,nn,nn00543037,2016-05-06T00:31:47.680Z,"7km WNW of Gerlach-Empire, Nevada",earthquake,,2.2,0.29,6,reviewed,nn,nn
+2016-05-06T00:07:50.884Z,40.6318,-119.4467,0.1,2,ml,6,152.89,0.746,0.2063,nn,nn00543034,2016-05-06T01:04:19.274Z,"8km NW of Gerlach-Empire, Nevada",earthquake,4.89,6.6,0.11,3,reviewed,nn,nn
+2016-05-06T00:06:22.897Z,40.6408,-119.4515,0,1.3,ml,4,187.7,0.753,0.1939,nn,nn00543032,2016-05-06T01:04:00.424Z,"9km NW of Gerlach-Empire, Nevada",earthquake,6.64,,0,1,reviewed,nn,nn
+2016-05-06T00:04:25.683Z,40.6238,-119.4669,0,1.4,ml,7,201.97,0.732,0.18,nn,nn00543030,2016-05-06T01:05:10.242Z,"8km WNW of Gerlach-Empire, Nevada",earthquake,4.69,,0.1,4,reviewed,nn,nn
+2016-05-06T00:02:50.170Z,35.8634,-97.3934,5,2.5,mb_lg,,29,0.083,0.39,us,us10005e6p,2016-05-06T00:30:36.773Z,"3km ESE of Guthrie, Oklahoma",earthquake,1.2,2,0.1,26,reviewed,us,us
+2016-05-05T23:50:05.850Z,-2.0861,118.7766,35,4.3,mb,,129,3.067,0.63,us,us10005e6n,2016-05-06T00:47:53.572Z,"46km W of Babana, Indonesia",earthquake,5,2,0.125,18,reviewed,us,us
+2016-05-05T23:44:56.641Z,41.8519,-119.6352,8.7,2.2,ml,5,122.4,0.157,0.1175,nn,nn00543026,2016-05-06T01:03:53.396Z,"69km ESE of Lakeview, Oregon",earthquake,4.59,5.3,0.47,5,reviewed,nn,nn
+2016-05-05T23:44:36.210Z,-34.009,-177.991,10,4.5,mb,,107,4.65,1.25,us,us10005e6m,2016-05-06T00:11:17.062Z,"298km SSE of L'Esperance Rock, New Zealand",earthquake,10.5,2,0.111,24,reviewed,us,us
+2016-05-05T23:42:06.336Z,40.615,-119.4802,0,1.2,ml,4,313.21,0.72,0.2631,nn,nn00543046,2016-05-06T01:05:02.014Z,"9km WNW of Gerlach-Empire, Nevada",earthquake,7.85,,0.04,2,reviewed,nn,nn
+2016-05-05T23:36:46.120Z,45.7008333,-122.3955,-0.61,1.24,ml,8,166,0.2323,0.15,uw,uw61134717,2016-05-06T00:43:12.970Z,"7km N of Fern Prairie, Washington",explosion,0.68,31.61,0.1,13,reviewed,uw,uw
+2016-05-05T23:33:25.000Z,40.6411,-119.4499,10.3,1.1,ml,4,314.78,0.753,0.2276,nn,nn00543045,2016-05-06T01:04:54.797Z,"8km NW of Gerlach-Empire, Nevada",earthquake,8.33,4.6,0.01,2,reviewed,nn,nn
+2016-05-05T23:27:56.589Z,40.6333,-119.4867,0,1.1,ml,4,313.9,0.736,0.2582,nn,nn00543044,2016-05-06T01:04:47.033Z,"10km WNW of Gerlach-Empire, Nevada",earthquake,10.97,,0.13,2,reviewed,nn,nn
+2016-05-05T23:20:43.561Z,40.6036,-119.4921,0,1.3,ml,4,312.53,0.707,0.2696,nn,nn00543043,2016-05-06T01:04:40.020Z,"9km WNW of Gerlach-Empire, Nevada",earthquake,6.71,,0.08,3,reviewed,nn,nn
+2016-05-05T23:18:27.606Z,40.6502,-119.4894,7.4,1.8,ml,4,314.57,0.751,0.1941,nn,nn00543042,2016-05-06T01:04:33.163Z,"12km NW of Gerlach-Empire, Nevada",earthquake,8.12,6.1,0,1,reviewed,nn,nn
+2016-05-05T23:17:28.662Z,40.6459,-119.4578,0,2.5,ml,10,123.35,0.756,0.2137,nn,nn00543019,2016-05-06T01:03:46.287Z,"9km NW of Gerlach-Empire, Nevada",earthquake,5.71,,0.05,7,reviewed,nn,nn
+2016-05-05T23:14:10.523Z,40.6327,-119.4501,3.7,,,4,314.44,0.746,0.1572,nn,nn00543040,2016-05-06T01:04:26.379Z,"8km NW of Gerlach-Empire, Nevada",earthquake,10.77,20.7,,,reviewed,nn,nn
+2016-05-05T23:11:45.008Z,40.6519,-119.5093,0,3.5,ml,18,67.12,0.677,0.1686,nn,nn00543016,2016-05-06T01:04:09.338Z,"12km WNW of Gerlach-Empire, Nevada",earthquake,3.38,,0.22,10,reviewed,nn,nn
+2016-05-05T23:09:05.890Z,33.3136667,-115.6921667,4.96,1.39,ml,35,87,0.05189,0.24,ci,ci37560312,2016-05-06T00:19:24.140Z,"6km SE of Bombay Beach, CA",earthquake,0.34,0.76,0.101,37,reviewed,ci,ci
+2016-05-05T23:06:59.910Z,38.8120003,-122.7874985,2.02,0.83,md,11,93,0.005469,0.02,nc,nc72631335,2016-05-05T23:08:41.854Z,"4km NW of The Geysers, California",earthquake,0.5,0.8,0.05,4,automatic,nc,nc
+2016-05-05T23:04:20.260Z,45.5066,142.5861,310.31,4.2,mb,,95,1.387,0.72,us,us10005e6h,2016-05-05T23:57:34.725Z,"61km ENE of Makubetsu, Japan",earthquake,5.8,6.7,0.041,161,reviewed,us,us
+2016-05-05T22:35:41.020Z,36.1061668,-120.2333298,1.26,1.6,md,7,229,0.1099,0.07,nc,nc72631290,2016-05-06T01:35:01.883Z,"12km ESE of Coalinga, California",earthquake,1.54,6.74,0.07,4,automatic,nc,nc
+2016-05-05T22:34:06.700Z,18.6672,-64.3292,57,2,Md,4,342,0.53629422,0.18,pr,pr16126016,2016-05-05T23:40:04.523Z,"41km NE of Road Town, British Virgin Islands",earthquake,7.3,3.2,0,3,reviewed,pr,pr
+2016-05-05T22:34:02.770Z,49.8071,156.0394,56.71,4.7,mb,,162,3.464,0.72,us,us10005e68,2016-05-05T23:00:33.599Z,"97km S of Severo-Kuril'sk, Russia",earthquake,11.1,8.6,0.053,107,reviewed,us,us
+2016-05-05T22:27:06.360Z,18.6274,-107.1585,10,5.6,mwp,,182,5.664,1.24,us,us10005e62,2016-05-06T00:33:31.225Z,"247km SW of Tomatlan, Mexico",earthquake,9.6,1.9,0.033,124,reviewed,us,us
+2016-05-05T22:23:14.030Z,36.0633333,-118.0021667,3.36,0.78,ml,15,116,0.1062,0.11,ci,ci37560296,2016-05-05T23:31:50.677Z,"5km WNW of Coso Junction, CA",earthquake,0.3,0.82,0.293,5,reviewed,ci,ci
+2016-05-05T21:57:47.090Z,33.3303333,-117.1533333,-0.64,1.24,ml,36,113,0.1174,0.21,ci,ci37560280,2016-05-05T23:24:51.703Z,"8km WSW of Pala, CA",quarry blast,0.44,31.61,0.229,26,reviewed,ci,ci
+2016-05-05T21:57:03.660Z,38.3753333,-122.4155,9.39,2.34,md,82,77,0.04516,0.14,nc,nc72631265,2016-05-06T00:48:04.053Z,"5km WSW of Yountville, California",earthquake,0.19,0.36,0.135,54,reviewed,nc,nc
+2016-05-05T21:53:29.230Z,-7.0023,130.4834,110.96,4.3,mb,,57,1.265,0.96,us,us10005e5w,2016-05-05T22:19:30.130Z,"139km NW of Saumlaki, Indonesia",earthquake,8.1,7.9,0.096,31,reviewed,us,us
+2016-05-05T21:31:17.200Z,34.6171667,-116.6285,5.58,1.66,ml,32,48,0.02683,0.14,ci,ci37560264,2016-05-06T00:16:32.659Z,"37km ENE of Lucerne Valley, CA",earthquake,0.19,0.34,0.164,65,reviewed,ci,ci
+2016-05-05T21:20:36.320Z,37.5656662,-118.8290024,3.98,1.66,md,21,131,0.02432,0.03,nc,nc72631230,2016-05-06T00:02:03.125Z,"15km SE of Mammoth Lakes, California",earthquake,0.25,0.5,0.2,18,automatic,nc,nc
+2016-05-05T21:10:41.400Z,37.387,-119.046,10.33,1,md,22,160,0.107,0.03,nc,nc72631225,2016-05-06T01:03:39.018Z,"28km SSW of Mammoth Lakes, California",earthquake,0.38,1.88,0.155,16,reviewed,nc,nc
+2016-05-05T20:39:28.000Z,64.8258,-149.715,12,0.9,ml,,,,0.55,ak,ak13518135,2016-05-05T21:24:09.695Z,"39km NW of North Nenana, Alaska",earthquake,0.2,0.2,,,automatic,ak,ak
+2016-05-05T20:39:15.950Z,1.4513,126.4871,35.53,5.1,mb,,33,1.108,1.03,us,us10005e5j,2016-05-05T22:42:47.447Z,"122km NW of Kota Ternate, Indonesia",earthquake,6.8,5.3,0.045,158,reviewed,us,us
+2016-05-05T20:26:30.680Z,38.1161667,-122.1746667,-0.07,1.23,md,9,125,0.02114,0.11,nc,nc72631205,2016-05-06T00:25:03.816Z,"0km SW of Quarry near Vallejo, CA",quarry blast,0.51,31.61,0.161,8,reviewed,nc,nc
+2016-05-05T20:18:54.860Z,33.3068333,-116.3195,11.16,0.76,ml,24,211,0.04455,0.18,ci,ci37560232,2016-05-05T20:55:11.451Z,"8km NE of Borrego Springs, CA",earthquake,0.49,0.67,0.212,8,reviewed,ci,ci
+2016-05-05T20:17:45.000Z,61.6658,-147.2691,53.2,1.3,ml,,,,0.89,ak,ak13518133,2016-05-05T20:57:32.787Z,"77km NW of Valdez, Alaska",earthquake,0.6,0.7,,,automatic,ak,ak
+2016-05-05T20:16:05.050Z,38.8084984,-122.7825012,0.35,0.75,md,8,100,0.004961,0.02,nc,nc72631190,2016-05-05T21:47:03.672Z,"4km NNW of The Geysers, California",earthquake,0.88,0.59,0.16,2,automatic,nc,nc
+2016-05-05T19:55:11.610Z,46.196,-122.1911667,1.49,0.57,md,8,134,0.004229,0.07,uw,uw61134652,2016-05-05T20:30:19.290Z,"37km NNE of Amboy, Washington",earthquake,0.54,0.45,0.048,4,reviewed,uw,uw
+2016-05-05T19:52:45.000Z,63.1112,-149.3869,76.7,1.7,ml,,,,0.67,ak,ak13518130,2016-05-05T20:29:10.529Z,"38km SW of Cantwell, Alaska",earthquake,0.3,0.5,,,automatic,ak,ak
+2016-05-05T19:52:24.420Z,34.3416667,-116.8823333,-1.41,1.5,ml,47,61,0.04584,0.2,ci,ci37560208,2016-05-05T20:10:46.594Z,"10km NNW of Big Bear City, CA",quarry blast,0.28,31.61,0.15,39,reviewed,ci,ci
+2016-05-05T19:40:01.060Z,45.04,-111.8608333,2.51,2.28,ml,35,49,0.231,0.16,mb,mb80143989,2016-05-05T20:58:37.970Z,"28km SSE of Virginia City, Montana",earthquake,0.28,1.2,0.196,18,reviewed,mb,mb
+2016-05-05T19:36:52.940Z,45.0423333,-111.8598333,8.88,1.76,ml,22,51,0.23,0.13,mb,mb80143984,2016-05-05T21:06:31.540Z,"28km SSE of Virginia City, Montana",earthquake,0.3,0.7,0.214,10,reviewed,mb,mb
+2016-05-05T19:30:37.900Z,46.1931667,-122.1888333,-1.23,0.36,ml,10,91,0.007151,0.1,uw,uw61134632,2016-05-05T20:31:57.410Z,"37km NNE of Amboy, Washington",earthquake,0.35,0.71,0.097,6,reviewed,uw,uw
+2016-05-05T19:26:34.000Z,34.3396667,-116.8536667,-1.41,1.76,ml,53,66,0.02323,0.19,ci,ci37560192,2016-05-06T01:03:31.686Z,"9km N of Big Bear City, CA",quarry blast,0.27,31.61,0.105,38,reviewed,ci,ci
+2016-05-05T19:11:43.000Z,59.9905,-152.6619,98,3,ml,,,,0.48,ak,ak13518032,2016-05-05T20:15:29.113Z,"52km WNW of Anchor Point, Alaska",earthquake,0.4,0.4,,,automatic,ak,ak
+2016-05-05T19:09:25.000Z,64.9089,-147.4404,4.6,1.6,ml,,,,0.5,ak,ak13518030,2016-05-05T19:33:00.688Z,"12km NNE of Badger, Alaska",earthquake,0.5,0.4,,,automatic,ak,ak
+2016-05-05T18:52:48.370Z,49.1043333,-122.2091667,-0.92,1.19,ml,4,338,0.105,0.05,uw,uw61134617,2016-05-05T20:35:14.370Z,"6km NNE of Abbotsford, Canada",explosion,2.67,31.61,0.037,3,reviewed,uw,uw
+2016-05-05T18:39:37.300Z,33.5383333,-116.6971667,5.69,-0.03,ml,19,77,0.03986,0.12,ci,ci37560184,2016-05-05T19:28:27.594Z,"3km SW of Anza, CA",earthquake,0.21,0.41,0.112,5,reviewed,ci,ci
+2016-05-05T18:37:16.560Z,37.3446667,-120.014,21.66,1.55,md,5,120,0.2279,0.18,nc,nc72631140,2016-05-06T01:09:03.803Z,"16km SSW of Mariposa, California",earthquake,0.46,0.83,0.274,5,reviewed,nc,nc
+2016-05-05T18:34:24.800Z,18.694,-64.4124,24,2.6,Md,4,327.6,0.49587004,0.15,pr,pr16126015,2016-05-05T22:08:17.040Z,"37km NE of Road Town, British Virgin Islands",earthquake,3.2,12.5,0,4,reviewed,pr,pr
+2016-05-05T18:33:34.400Z,19.0104,-66.875,39,3,Md,12,248.4,0.58390493,0.38,pr,pr16126012,2016-05-05T22:06:22.040Z,"58km N of Hatillo, Puerto Rico",earthquake,1.6,5.7,0,8,reviewed,pr,pr
+2016-05-05T18:28:43.970Z,37.3898333,-119.0428333,6.14,1.47,md,29,154,0.1098,0.07,nc,nc72631135,2016-05-05T21:20:03.585Z,"29km SSW of Mammoth Lakes, California",earthquake,0.31,1.27,0.254,28,reviewed,nc,nc
+2016-05-05T18:21:57.690Z,13.6353,51.9229,10,4.4,mb,,121,2.297,1.36,us,us10005e3m,2016-05-05T22:04:06.696Z,"163km NNW of Kilmia, Yemen",earthquake,8.1,1.9,0.101,28,reviewed,us,us
+2016-05-05T18:18:54.000Z,63.5597,-147.3248,0,1.6,ml,,,,0.65,ak,ak13517725,2016-05-05T19:07:36.583Z,"83km ENE of Cantwell, Alaska",earthquake,0.5,0.6,,,automatic,ak,ak
+2016-05-05T18:09:16.950Z,36.1211667,-117.8131667,-1.38,1.06,ml,14,130,0.03391,0.17,ci,ci37560160,2016-05-05T19:39:36.404Z,"15km NE of Coso Junction, CA",chemical explosion,0.58,31.61,0.088,4,reviewed,ci,ci
+2016-05-05T17:38:23.490Z,33.3526667,-116.3198333,12.79,0.83,ml,35,105,0.0473,0.22,ci,ci37560136,2016-05-05T18:06:28.282Z,"12km NNE of Borrego Springs, CA",earthquake,0.3,0.76,0.129,21,reviewed,ci,ci
+2016-05-05T17:37:10.330Z,35.4276667,-120.7205,3.67,0.79,md,15,114,0.03662,0.04,nc,nc72631125,2016-05-05T23:46:04.861Z,"8km SSW of Atascadero, California",earthquake,0.34,0.55,0.18,12,reviewed,nc,nc
+2016-05-05T17:30:37.000Z,61.8886,-150.9008,45.7,1.8,ml,,,,0.78,ak,ak13517601,2016-05-05T18:09:37.486Z,"48km WNW of Willow, Alaska",earthquake,0.4,0.9,,,automatic,ak,ak
+2016-05-05T17:27:27.000Z,59.6369,-152.7583,82.4,2.3,ml,,,,0.28,ak,ak13517594,2016-05-05T18:09:36.432Z,"54km WSW of Anchor Point, Alaska",earthquake,0.7,0.9,,,automatic,ak,ak
+2016-05-05T17:21:23.240Z,51.7077,177.7466,65.37,4.8,mb,,142,2.464,0.88,us,us10005e38,2016-05-05T21:35:35.831Z,"45km SSE of Kiska Volcano, Alaska",earthquake,8.6,7,0.031,329,reviewed,us,us
+2016-05-05T17:10:04.800Z,18.4803,-65.0511,18,1.4,Md,3,244.8,0.27847774,0.1,pr,pr16126014,2016-05-05T20:24:28.403Z,"19km NW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2,0.8,0,3,reviewed,pr,pr
+2016-05-05T17:06:46.000Z,62.7941,-143.4645,8.2,1.2,ml,,,,0.56,ak,ak13517581,2016-05-05T17:44:24.703Z,"65km SSW of Tok, Alaska",earthquake,0.4,0.3,,,automatic,ak,ak
+2016-05-05T16:58:10.000Z,64.4775,-149.422,21.3,0.5,ml,,,,0.7,ak,ak13517297,2016-05-05T18:48:13.655Z,"18km SW of North Nenana, Alaska",earthquake,0.9,0.3,,,reviewed,ak,ak
+2016-05-05T16:32:32.400Z,19.4491,-63.7821,46,3.3,Md,10,316.8,1.55498376,0.15,pr,pr16126013,2016-05-05T20:51:12.040Z,"144km NE of Road Town, British Virgin Islands",earthquake,2.4,11.1,0,6,reviewed,pr,pr
+2016-05-05T16:26:52.760Z,33.723,-116.8383333,15.35,0.9,ml,37,61,0.07976,0.13,ci,ci37560112,2016-05-05T17:14:58.702Z,"6km ESE of Valle Vista, CA",earthquake,0.23,0.4,0.133,14,reviewed,ci,ci
+2016-05-05T16:15:01.295Z,40.6243,-119.4589,0,1.2,ml,5,186.93,0.735,0.1469,nn,nn00542987,2016-05-06T01:03:24.670Z,"8km NW of Gerlach-Empire, Nevada",earthquake,7.57,,0,1,reviewed,nn,nn
+2016-05-05T16:08:08.420Z,34.1223333,-116.7263333,4.24,1.36,ml,51,31,0.1059,0.12,ci,ci37560096,2016-05-05T17:55:35.900Z,"16km WNW of Morongo Valley, CA",earthquake,0.13,0.39,0.104,23,reviewed,ci,ci
+2016-05-05T16:05:41.110Z,19.1901665,-155.3793335,49.88,2.13,md,41,179,0.05012,0.18,hv,hv61251141,2016-05-05T16:08:53.700Z,"10km E of Pahala, Hawaii",earthquake,0.94,1.04,0.08,4,automatic,hv,hv
+2016-05-05T15:52:21.690Z,17.6186,145.4974,215.97,4.7,mb,,47,2.38,0.79,us,us10005e12,2016-05-05T19:27:31.329Z,"61km SSW of Pagan, Northern Mariana Islands",earthquake,8.4,6.8,0.041,178,reviewed,us,us
+2016-05-05T15:39:20.180Z,38.7933333,-122.8323333,0.58,1.18,md,4,199,0.03242,0.01,nc,nc72631090,2016-05-05T18:41:02.259Z,"6km WNW of The Geysers, California",earthquake,1.26,1.44,0.112,4,reviewed,nc,nc
+2016-05-05T15:18:53.000Z,60.2206,-141.3528,6.5,2.1,ml,,,,1.35,ak,ak13517009,2016-05-05T15:56:57.316Z,"62km ENE of Cape Yakataga, Alaska",earthquake,0.4,0.3,,,automatic,ak,ak
+2016-05-05T15:02:25.940Z,33.7478333,-116.0343333,2.4,0.9,ml,29,72,0.09953,0.14,ci,ci37560072,2016-05-05T17:29:17.736Z,"15km ENE of Coachella, CA",earthquake,0.27,0.52,0.095,13,reviewed,ci,ci
+2016-05-05T14:57:14.000Z,62.4214,-149.1845,1.6,1.7,ml,,,,0.5,ak,ak13517007,2016-05-05T15:31:58.532Z,"45km NE of Y, Alaska",earthquake,0.2,0.2,,,automatic,ak,ak
+2016-05-05T14:27:49.000Z,63.3901,-145.897,0.2,1.8,ml,,,,0.46,ak,ak13517004,2016-05-05T15:06:43.796Z,"63km SSW of Deltana, Alaska",earthquake,0.2,0.2,,,automatic,ak,ak
+2016-05-05T14:16:46.023Z,40.6297,-119.4714,12.7,1.5,ml,3,313.98,0.737,0.0272,nn,nn00542967,2016-05-06T01:02:00.056Z,"9km NW of Gerlach-Empire, Nevada",earthquake,9.3,4.2,0.08,3,reviewed,nn,nn
+2016-05-05T14:16:27.170Z,38.824,-122.8055,-0.04,1.54,md,13,97,0.01788,0.07,nc,nc72631085,2016-05-06T01:49:02.911Z,"6km NW of The Geysers, California",earthquake,0.34,0.44,0.206,13,reviewed,nc,nc
+2016-05-05T14:16:25.010Z,38.8236667,-122.8046667,0.4,,,7,120,0.0173,0.02,nc,nc71102049,2016-05-06T00:14:04.197Z,"6km NW of The Geysers, California",earthquake,1.22,0.49,,,reviewed,nc,nc
+2016-05-05T14:16:24.101Z,40.6218,-119.4819,4.2,1.5,ml,6,166.49,0.726,0.0963,nn,nn00542946,2016-05-06T00:59:56.158Z,"9km WNW of Gerlach-Empire, Nevada",earthquake,3.5,7.7,0.27,5,reviewed,nn,nn
+2016-05-05T13:49:30.890Z,36.4782,-113.9888,11.1,3.8,ml,32,167.94,0.674,0.1806,nn,nn00542944,2016-05-06T01:01:05.643Z,"35km SSE of Bunkerville, Nevada",earthquake,1.79,2.2,0.33,16,reviewed,nn,nn
+2016-05-05T13:41:39.060Z,35.5428333,-120.8841667,6.19,0.88,md,25,78,0.02043,0.06,nc,nc72631075,2016-05-05T23:09:14.100Z,"11km N of Cayucos, California",earthquake,0.24,0.27,0.345,16,reviewed,nc,nc
+2016-05-05T13:27:14.060Z,38.5802,-118.4026,6.5,1.2,ml,10,103.45,0.105,0.1222,nn,nn00542941,2016-05-06T01:01:52.723Z,"20km ENE of Hawthorne, Nevada",earthquake,2.19,3.7,0.31,2,reviewed,nn,nn
+2016-05-05T13:22:49.000Z,63.0444,-151.5709,4.9,2.7,ml,,,,0.72,ak,ak13516716,2016-05-05T13:45:51.551Z,"109km NW of Talkeetna, Alaska",earthquake,0.4,0.4,,,automatic,ak,ak
+2016-05-05T13:18:29.070Z,35.4243333,-120.7185,3.75,2.34,md,76,37,0.03297,0.06,nc,nc72631070,2016-05-05T22:43:02.173Z,"8km SSW of Atascadero, California",earthquake,0.12,0.31,0.178,58,reviewed,nc,nc
+2016-05-05T13:17:22.740Z,35.5256667,-118.3995,3.09,1.31,ml,10,233,0.1497,0.33,ci,ci37140028,2016-05-05T16:59:00.934Z,"11km SE of Bodfish, CA",earthquake,1.52,31.61,0.049,4,reviewed,ci,ci
+2016-05-05T13:17:18.830Z,35.5566667,-118.3366667,3.09,1.44,ml,25,115,0.1387,0.15,ci,ci37560008,2016-05-05T16:32:32.360Z,"14km ESE of Lake Isabella, CA",earthquake,0.24,0.72,0.169,17,reviewed,ci,ci
+2016-05-05T13:06:20.167Z,40.6313,-119.5077,0,1.4,ml,5,149.71,0.728,0.2074,nn,nn00542930,2016-05-06T01:02:21.158Z,"12km WNW of Gerlach-Empire, Nevada",earthquake,6.77,6.5,0.04,2,reviewed,nn,nn
+2016-05-05T12:47:25.980Z,34.1216667,-116.7255,2.86,1.52,ml,76,29,0.105,0.14,ci,ci37560000,2016-05-05T16:28:27.030Z,"16km WNW of Morongo Valley, CA",earthquake,0.1,0.44,0.172,52,reviewed,ci,ci
+2016-05-05T12:43:26.360Z,-0.0148,123.7598,117.15,4.9,mb,,47,1.42,1.5,us,us10005e05,2016-05-05T13:08:30.939Z,"50km SSW of Molibagu, Indonesia",earthquake,6.2,6.2,0.054,109,reviewed,us,us
+2016-05-05T12:41:07.880Z,40.6405,-119.4835,11.4,1.2,ml,4,314.25,0.743,0.0432,nn,nn00542968,2016-05-06T01:02:14.146Z,"11km NW of Gerlach-Empire, Nevada",earthquake,13.36,7.9,0.16,2,reviewed,nn,nn
+2016-05-05T12:40:05.920Z,33.6973333,-116.7908333,16.61,0.88,ml,24,56,0.06789,0.14,ci,ci37559992,2016-05-05T13:16:39.615Z,"8km SW of Idyllwild, CA",earthquake,0.3,0.55,0.235,29,reviewed,ci,ci
+2016-05-05T12:37:20.800Z,18.6084,-67.4462,18,2.7,Md,6,280.8,0.22547714,0.07,pr,pr16126011,2016-05-05T16:02:44.685Z,"36km WNW of Aguadilla, Puerto Rico",earthquake,1,0.5,0,4,reviewed,pr,pr
+2016-05-05T12:33:20.741Z,38.5337,-118.1652,0,0.8,ml,9,106.41,0.101,0.1126,nn,nn00542924,2016-05-06T00:59:39.700Z,"40km E of Hawthorne, Nevada",earthquake,1.74,2.6,0.4,7,reviewed,nn,nn
+2016-05-05T12:27:27.000Z,65.3,-151.4149,1.9,1.3,ml,,,,0.46,ak,ak13516638,2016-05-05T12:58:47.910Z,"34km ENE of Tanana, Alaska",earthquake,0.3,0.3,,,automatic,ak,ak
+2016-05-05T12:25:05.360Z,38.8321667,-122.8105,1.86,1.2,md,7,149,0.02692,0.08,nc,nc72631055,2016-05-05T18:15:03.203Z,"7km W of Cobb, California",earthquake,0.72,0.96,0.226,7,reviewed,nc,nc
+2016-05-05T12:16:35.350Z,38.8056667,-122.8185,2.72,1.51,md,13,87,0.01827,0.04,nc,nc72631050,2016-05-06T00:29:03.974Z,"6km WNW of The Geysers, California",earthquake,0.25,0.34,0.167,13,reviewed,nc,nc
+2016-05-05T12:11:52.000Z,61.7334,-147.4454,34,1.6,ml,,,,0.83,ak,ak13516357,2016-05-05T12:31:01.919Z,"74km E of Sutton-Alpine, Alaska",earthquake,0.4,0.2,,,automatic,ak,ak
+2016-05-05T12:09:48.770Z,2.1193,127.2135,47.37,4.6,mb,,119,1.347,0.89,us,us10005e00,2016-05-05T12:25:58.629Z,"98km WNW of Tobelo, Indonesia",earthquake,9.4,7.9,0.091,36,reviewed,us,us
+2016-05-05T12:03:02.670Z,33.6865,-116.6751667,17.24,0.73,ml,24,127,0.01759,0.14,ci,ci37559984,2016-05-05T16:02:54.704Z,"7km SE of Idyllwild, CA",earthquake,0.34,0.43,0.253,5,reviewed,ci,ci
+2016-05-05T12:02:06.950Z,46.2658333,-122.0716667,9.84,0.14,md,11,222,0.08812,0.12,uw,uw61150141,2016-05-05T18:44:15.950Z,"36km SSE of Morton, Washington",earthquake,0.67,1.4,0.172,6,reviewed,uw,uw
+2016-05-05T11:45:47.500Z,19.3023338,-155.3804932,4.45,1.73,md,26,97,0.03128,0.18,hv,hv61251061,2016-05-05T11:48:48.650Z,"14km NE of Pahala, Hawaii",earthquake,0.41,1.06,0.12,6,automatic,hv,hv
+2016-05-05T11:03:49.533Z,39.9601,-120.7156,10,,,4,144.83,0.049,0.0759,nn,nn00542963,2016-05-06T01:01:37.475Z,"15km E of East Quincy, California",earthquake,5.21,6,,,reviewed,nn,nn
+2016-05-05T11:01:46.850Z,-8.926,-108.3143,10,5.3,mb,,146,19.733,1.11,us,us10005dzs,2016-05-05T16:56:41.000Z,"Central East Pacific Rise",earthquake,14.3,1.9,0.028,417,reviewed,us,us
+2016-05-05T11:01:18.300Z,18.2472,-67.2285,25,2.1,Md,10,144,0.15361191,0.23,pr,pr16126008,2016-05-05T11:28:15.531Z,"6km SW of La Playa, Puerto Rico",earthquake,0.7,1.5,0,9,reviewed,pr,pr
+2016-05-05T11:01:18.000Z,57.3079,-157.8557,12.9,2.8,ml,,,,0.23,ak,ak13516074,2016-05-05T11:21:48.871Z,"129km NNE of Chignik Lake, Alaska",earthquake,1.6,0.4,,,automatic,ak,ak
+2016-05-05T10:55:55.630Z,36.6808,-98.2561,7.34,3.2,mb_lg,,45,0.269,0.59,us,us10005dzr,2016-05-05T11:09:02.706Z,"12km SE of Cherokee, Oklahoma",earthquake,2.4,7.1,0.052,95,reviewed,us,us
+2016-05-05T10:29:27.840Z,33.9741667,-117.2228333,12.35,0.75,ml,34,53,0.04944,0.16,ci,ci37559968,2016-05-05T15:34:49.048Z,"5km N of Moreno Valley, CA",earthquake,0.21,0.44,0.089,11,reviewed,ci,ci
+2016-05-05T10:29:02.270Z,37.4001667,-118.5308333,9.54,0.42,md,4,176,0.05356,0.1,nc,nc72631045,2016-05-05T17:48:02.142Z,"7km WNW of West Bishop, California",earthquake,1.22,1.97,0.27,4,reviewed,nc,nc
+2016-05-05T10:05:46.990Z,34.6823333,-119.5161667,2.43,1.24,ml,21,49,0.1406,0.24,ci,ci37559960,2016-05-05T15:27:15.819Z,"29km NNE of Montecito, CA",earthquake,0.36,0.93,0.166,15,reviewed,ci,ci
+2016-05-05T10:05:08.646Z,37.3764,-117.0945,6.5,0.6,ml,13,206.73,0.153,0.1578,nn,nn00542920,2016-05-06T01:01:27.505Z,"38km SSE of Goldfield, Nevada",earthquake,2.39,4.8,0.12,8,reviewed,nn,nn
+2016-05-05T10:00:55.858Z,40.6428,-119.5209,0,1.4,ml,9,174.28,0.736,0.147,nn,nn00542919,2016-05-06T01:00:03.209Z,"13km WNW of Gerlach-Empire, Nevada",earthquake,3.33,,0.16,4,reviewed,nn,nn
+2016-05-05T09:59:37.286Z,41.8764,-119.642,6.4,0.9,ml,5,220.39,0.138,0.1339,nn,nn00542959,2016-05-06T01:01:02.417Z,"67km ESE of Lakeview, Oregon",earthquake,4.2,5.2,0.21,3,reviewed,nn,nn
+2016-05-05T09:46:31.590Z,36.8346667,-121.5613333,4.84,0.52,md,18,68,0.03365,0.08,nc,nc72631040,2016-05-06T00:02:02.916Z,"2km WSW of San Juan Bautista, California",earthquake,0.23,0.39,0.311,16,reviewed,nc,nc
+2016-05-05T09:38:47.286Z,40.6197,-119.4985,6,0.8,ml,5,199.5,0.72,0.1889,nn,nn00542958,2016-05-06T01:00:51.505Z,"11km WNW of Gerlach-Empire, Nevada",earthquake,4.51,11.1,0.23,2,reviewed,nn,nn
+2016-05-05T09:33:12.000Z,60.3375,-152.4101,89.3,2,ml,,,,0.53,ak,ak13516071,2016-05-05T09:48:50.009Z,"24km SE of Redoubt Volcano, Alaska",earthquake,2.1,2.2,,,automatic,ak,ak
+2016-05-05T09:31:21.100Z,18.8215,-66.8703,8,2.5,Md,3,334.8,0.41951324,0.1,pr,pr16126010,2016-05-05T12:03:55.720Z,"37km N of Hatillo, Puerto Rico",earthquake,8.1,3.9,0,3,reviewed,pr,pr
+2016-05-05T09:30:04.670Z,40.65,-119.4435,0,2.4,ml,11,78.22,0.763,0.2207,nn,nn00542917,2016-05-06T00:58:12.560Z,"9km NW of Gerlach-Empire, Nevada",earthquake,3.63,3.4,0.22,7,reviewed,nn,nn
+2016-05-05T09:24:42.080Z,33.6871667,-116.7943333,16.8,1.33,ml,51,34,0.07239,0.18,ci,ci37559952,2016-05-05T13:17:41.040Z,"9km SW of Idyllwild, CA",earthquake,0.19,0.41,0.237,28,reviewed,ci,ci
+2016-05-05T09:22:22.280Z,33.6953333,-116.7933333,16.43,0.75,ml,33,56,0.07042,0.18,ci,ci37559944,2016-05-05T13:17:34.590Z,"8km SW of Idyllwild, CA",earthquake,0.28,0.5,0.181,24,reviewed,ci,ci
+2016-05-05T09:05:35.330Z,-7.6416,158.4543,51.23,4.9,mb,,46,2.317,1.11,us,us10005dzl,2016-05-05T09:39:15.603Z,"78km NW of Dadali, Solomon Islands",earthquake,8.5,6.4,0.054,190,reviewed,us,us
+2016-05-05T09:04:42.871Z,40.6394,-119.5235,0,1.3,ml,6,149.11,0.732,0.1895,nn,nn00542914,2016-05-06T01:02:07.314Z,"13km WNW of Gerlach-Empire, Nevada",earthquake,4.21,,0.18,3,reviewed,nn,nn
+2016-05-05T09:03:00.221Z,40.6355,-119.518,0,1.2,ml,5,198.42,0.73,0.1982,nn,nn00542984,2016-05-06T01:03:17.701Z,"13km WNW of Gerlach-Empire, Nevada",earthquake,4.41,,0.19,3,reviewed,nn,nn
+2016-05-05T08:59:10.810Z,36.8441,-98.1521,8.88,2.3,ml,,76,0.061,0.22,us,usd000712k,2016-05-05T13:47:35.040Z,"20km ENE of Cherokee, Oklahoma",earthquake,1.5,5.4,0.057,52,reviewed,us,us
+2016-05-05T08:54:57.310Z,20.0904999,-155.8001709,18.59,1.97,ml,38,200,0.04067,0.14,hv,hv61250971,2016-05-05T09:00:49.514Z,"15km WNW of Waimea, Hawaii",earthquake,0.68,0.88,0.33,4,automatic,hv,hv
+2016-05-05T08:54:31.288Z,40.6226,-119.469,13.1,1.4,ml,3,313.72,0.731,0.0228,nn,nn00542976,2016-05-06T01:02:49.720Z,"8km WNW of Gerlach-Empire, Nevada",earthquake,5.15,3.1,0,1,reviewed,nn,nn
+2016-05-05T08:53:55.435Z,40.6533,-119.5157,6.6,1,ml,4,314.35,0.747,0.0996,nn,nn00542974,2016-05-06T01:02:34.609Z,"14km NW of Gerlach-Empire, Nevada",earthquake,6.5,9.4,0.08,2,reviewed,nn,nn
+2016-05-05T08:53:41.000Z,62.2976,-151.0528,82.9,1.4,ml,,,,0.21,ak,ak13515790,2016-05-05T09:25:40.357Z,"49km W of Talkeetna, Alaska",earthquake,0.7,2.4,,,automatic,ak,ak
+2016-05-05T08:53:36.000Z,18.881,-67.1477,11,2.4,Md,5,291.6,0.41232672,0.15,pr,pr16126009,2016-05-05T12:02:34.298Z,"43km N of San Antonio, Puerto Rico",earthquake,1,0.8,0,5,reviewed,pr,pr
+2016-05-05T08:53:11.789Z,40.603,-119.5053,3.9,0.9,ml,5,312.3,0.702,0.2282,nn,nn00542962,2016-05-06T01:01:45.655Z,"10km WNW of Gerlach-Empire, Nevada",earthquake,5.62,7.3,0.14,2,reviewed,nn,nn
+2016-05-05T08:51:28.000Z,60.8953,-149.5856,29.8,2,ml,,,,0.57,ak,ak13515787,2016-05-05T09:25:38.794Z,"39km SSE of Anchorage, Alaska",earthquake,0.2,0.2,,,automatic,ak,ak
+2016-05-05T08:46:36.220Z,37.52,-118.8441667,2.87,0.67,md,17,233,0.07092,0.06,nc,nc72631030,2016-05-06T01:01:19.682Z,"18km SE of Mammoth Lakes, California",earthquake,0.85,2.02,0.28,15,reviewed,nc,nc
+2016-05-05T08:40:47.640Z,19.9863338,-156.2375031,9.55,2.75,ml,53,172,,0.37,hv,hv61250966,2016-05-05T08:46:45.414Z,"39km NW of Kalaoa, Hawaii",earthquake,0.88,1.34,0.42,8,automatic,hv,hv
+2016-05-05T08:38:29.860Z,1.5444,127.1082,116.36,4.5,mb,,148,0.809,0.43,us,us10005dzh,2016-05-05T09:02:52.076Z,"88km NNW of Kota Ternate, Indonesia",earthquake,9.8,8.7,0.104,27,reviewed,us,us
+2016-05-05T08:32:49.640Z,41.43,-112.1606667,0.8,0.25,md,6,150,0.1397,0.03,uu,uu60147237,2016-05-05T17:23:56.400Z,"10km WNW of Willard, Utah",earthquake,0.37,31.61,0.083,5,reviewed,uu,uu
+2016-05-05T08:30:28.870Z,44.805,-112.1375,5.92,0.48,md,9,94,0.28,0.29,mb,mb80143964,2016-05-05T15:20:28.270Z,"40km ENE of Lima, Montana",earthquake,0.67,15.69,0.32,4,reviewed,mb,mb
+2016-05-05T08:27:54.870Z,19.3523331,-155.3011627,2.36,1.81,md,27,59,0.01659,0.18,hv,hv61250961,2016-05-05T08:31:04.590Z,"10km SW of Volcano, Hawaii",earthquake,0.24,0.4,0.35,18,automatic,hv,hv
+2016-05-05T08:26:18.840Z,36.9031667,-121.6313333,6.64,1.94,md,58,27,0.02903,0.11,nc,nc72631020,2016-05-05T23:50:02.866Z,"1km NNE of Aromas, California",earthquake,0.15,0.26,0.205,53,reviewed,nc,nc
+2016-05-05T08:21:41.030Z,20.2982,121.8431,25.1,4.5,mb,,121,2.605,0.98,us,us10005dzk,2016-05-05T09:10:36.599Z,"5km SW of Sabtang, Philippines",earthquake,9.2,6.1,0.109,25,reviewed,us,us
+2016-05-05T08:12:01.000Z,62.8476,-150.9774,94.6,2.3,ml,,,,0.51,ak,ak13515781,2016-05-05T08:30:49.040Z,"73km NW of Talkeetna, Alaska",earthquake,0.3,0.7,,,automatic,ak,ak
+2016-05-05T08:02:31.200Z,37.8751667,-122.2523333,9.06,1.63,md,63,20,0.002514,0.07,nc,nc72631015,2016-05-05T23:39:03.842Z,"1km ENE of Berkeley, California",earthquake,0.11,0.14,0.222,39,reviewed,nc,nc
+2016-05-05T07:56:05.945Z,39.4221,-119.9304,6.2,-0.1,ml,5,219.74,0.153,0.0888,nn,nn00542983,2016-05-06T01:03:10.865Z,"10km S of Mogul, Nevada",earthquake,3.78,7.4,0.21,2,reviewed,nn,nn
+2016-05-05T07:39:15.590Z,38.8331667,-122.8091667,0.61,1.01,md,7,150,0.02739,0.03,nc,nc72631010,2016-05-05T17:02:02.050Z,"7km W of Cobb, California",earthquake,0.6,0.87,0.033,6,reviewed,nc,nc
+2016-05-05T07:33:59.147Z,39.7742,-120.0368,11.1,0.9,ml,16,111.72,0.177,0.1292,nn,nn00542910,2016-05-06T00:58:19.773Z,"11km NNW of Cold Springs, Nevada",earthquake,0.88,1.5,0.32,6,reviewed,nn,nn
+2016-05-05T07:24:05.398Z,40.5937,-119.4596,0,0.8,ml,4,312.63,0.707,0.2079,nn,nn00542942,2016-05-06T00:59:30.198Z,"6km WNW of Gerlach-Empire, Nevada",earthquake,6.83,,0.14,2,reviewed,nn,nn
+2016-05-05T07:22:22.520Z,40.6375,-119.4534,0,1.4,ml,8,187.51,0.749,0.1174,nn,nn00542940,2016-05-06T01:00:30.521Z,"8km NW of Gerlach-Empire, Nevada",earthquake,3.88,,0.16,4,reviewed,nn,nn
+2016-05-05T07:20:17.730Z,40.6521,-119.4737,0.2,2.8,ml,15,77.52,0.757,0.2165,nn,nn00542908,2016-05-06T01:00:40.775Z,"11km NW of Gerlach-Empire, Nevada",earthquake,3.36,2.7,0.15,9,reviewed,nn,nn
+2016-05-05T07:18:50.089Z,40.6301,-119.484,5,1,ml,4,313.8,0.734,0.2028,nn,nn00542938,2016-05-06T00:59:23.349Z,"10km WNW of Gerlach-Empire, Nevada",earthquake,6,,0.06,2,reviewed,nn,nn
+2016-05-05T07:06:00.880Z,37.6365,-118.8885,5.46,0.19,md,19,84,0.01029,0.06,nc,nc72630995,2016-05-05T23:27:04.817Z,"7km E of Mammoth Lakes, California",earthquake,0.38,0.46,0.279,16,reviewed,nc,nc
+2016-05-05T07:01:47.540Z,13.7548,51.8206,10,5.3,mb,,41,2.441,1.19,us,us10005dz1,2016-05-05T15:23:30.040Z,"172km SSE of Sayhut, Yemen",earthquake,5.5,1.9,0.061,92,reviewed,us,us
+2016-05-05T07:00:07.002Z,40.6282,-119.4888,12.1,1.1,ml,4,313.65,0.73,0.045,nn,nn00542935,2016-05-06T00:59:15.903Z,"10km WNW of Gerlach-Empire, Nevada",earthquake,8.01,4.7,0.22,3,reviewed,nn,nn
+2016-05-05T06:51:36.411Z,40.6231,-119.4884,5,1,ml,5,184.59,0.726,0.2481,nn,nn00542934,2016-05-06T00:59:08.853Z,"10km WNW of Gerlach-Empire, Nevada",earthquake,5.7,,0.4,3,reviewed,nn,nn
+2016-05-05T06:49:55.316Z,40.6151,-119.4897,0,1.3,ml,3,313.07,0.718,0.2504,nn,nn00542933,2016-05-06T00:59:01.847Z,"10km WNW of Gerlach-Empire, Nevada",earthquake,8.84,,0.35,3,reviewed,nn,nn
+2016-05-05T06:48:01.934Z,40.6343,-119.4623,12.7,0.5,ml,3,314.31,0.743,0.0638,nn,nn00542932,2016-05-06T00:58:54.823Z,"9km NW of Gerlach-Empire, Nevada",earthquake,9.58,5,0,1,reviewed,nn,nn
+2016-05-05T06:45:57.290Z,33.6966667,-116.7863333,18.32,0.6,ml,17,88,0.06444,0.12,ci,ci37559928,2016-05-05T13:17:13.664Z,"8km SW of Idyllwild, CA",earthquake,0.4,0.61,0.162,15,reviewed,ci,ci
+2016-05-05T06:43:43.000Z,62.6532,-150.6195,79.7,1.8,ml,,,,0.74,ak,ak13515505,2016-05-05T06:59:37.773Z,"45km NW of Talkeetna, Alaska",earthquake,0.3,0.6,,,automatic,ak,ak
+2016-05-05T06:43:36.310Z,45.1496667,-111.5946667,1.78,0.56,ml,10,127,0.326,0.23,mb,mb80143959,2016-05-05T15:12:08.770Z,"23km SW of Big Sky, Montana",earthquake,0.68,1.53,0.071,4,reviewed,mb,mb
+2016-05-05T06:39:43.000Z,60.68,-146.6634,21.5,2.1,ml,,,,0.93,ak,ak13515503,2016-05-05T06:59:36.041Z,"51km WNW of Cordova, Alaska",earthquake,0.4,0.2,,,automatic,ak,ak
+2016-05-05T06:29:04.660Z,45.0311667,-111.854,4.25,2.07,ml,36,49,0.241,0.26,mb,mb80143924,2016-05-05T13:46:24.520Z,"30km SSE of Virginia City, Montana",earthquake,0.35,3.24,0.157,18,reviewed,mb,mb
+2016-05-05T06:23:49.980Z,33.2298333,-116.7561667,6.96,0.79,ml,25,44,0.006504,0.15,ci,ci37559920,2016-05-05T13:17:19.803Z,"2km SSE of Lake Henshaw, CA",earthquake,0.26,0.46,0.082,23,reviewed,ci,ci
+2016-05-05T06:21:32.300Z,18.1287,-63.6948,74,2.8,Md,4,327.6,1.04204573,0.23,pr,pr16126007,2016-05-05T08:26:49.677Z,"65km W of Marigot, Saint Martin",earthquake,2.5,4.6,0,3,reviewed,pr,pr
+2016-05-05T06:17:03.326Z,40.6518,-119.4941,6.3,1.3,ml,4,314.57,0.751,0.1261,nn,nn00542931,2016-05-06T00:58:47.770Z,"12km NW of Gerlach-Empire, Nevada",earthquake,6.51,4.8,0.26,4,reviewed,nn,nn
+2016-05-05T06:06:45.000Z,63.0208,-150.6885,108.7,2.7,ml,,,,0.49,ak,ak13515496,2016-05-05T06:36:53.018Z,"83km NNW of Talkeetna, Alaska",earthquake,0.3,0.6,,,automatic,ak,ak
+2016-05-05T06:05:16.880Z,36.8351667,-121.5653333,5.57,1.98,md,49,34,0.03101,0.08,nc,nc72630990,2016-05-05T23:18:03.799Z,"2km WSW of San Juan Bautista, California",earthquake,0.14,0.22,0.155,51,reviewed,nc,nc
+2016-05-05T05:56:56.350Z,33.7525,-116.0336667,1.91,0.9,ml,31,91,0.1037,0.15,ci,ci37559912,2016-05-05T15:38:24.784Z,"15km ENE of Coachella, CA",earthquake,0.2,0.42,0.101,22,reviewed,ci,ci
+2016-05-05T05:55:30.930Z,33.9523333,-117.1773333,13.79,0.69,ml,28,123,0.006224,0.13,ci,ci37559904,2016-05-05T15:21:58.596Z,"6km ENE of Moreno Valley, CA",earthquake,0.25,0.37,0.197,9,reviewed,ci,ci
+2016-05-05T05:55:24.320Z,33.9506667,-117.1775,13.1,0.8,ml,25,107,0.005113,0.14,ci,ci37559896,2016-05-05T15:15:41.749Z,"5km ENE of Moreno Valley, CA",earthquake,0.25,0.42,0.267,9,reviewed,ci,ci
+2016-05-05T05:48:23.716Z,38.2527,-118.7204,11.6,0.3,ml,6,188.37,0.169,0.0606,nn,nn00542956,2016-05-06T01:00:21.060Z,"31km SSW of Hawthorne, Nevada",earthquake,2.97,5.6,0,1,reviewed,nn,nn
+2016-05-05T05:33:44.640Z,33.7588333,-116.0303333,1.67,0.64,ml,9,123,0.1087,0.12,ci,ci37559880,2016-05-05T14:46:25.649Z,"16km ENE of Coachella, CA",earthquake,0.73,1.8,0.113,7,reviewed,ci,ci
+2016-05-05T05:31:42.000Z,59.6493,-152.0517,25.6,1.7,ml,,,,0.56,ak,ak13515493,2016-05-05T05:49:28.236Z,"18km SW of Anchor Point, Alaska",earthquake,0.6,0.4,,,automatic,ak,ak
+2016-05-05T05:25:07.555Z,40.7997,-119.4421,4.7,1.3,ml,3,320.56,0.904,0.1531,nn,nn00542929,2016-05-06T00:58:40.891Z,"24km NNW of Gerlach-Empire, Nevada",earthquake,14.73,12.5,0.1,2,reviewed,nn,nn
+2016-05-05T05:22:03.660Z,47.2901667,-113.1625,11.06,0.2,md,14,175,0.231,0.17,mb,mb80143939,2016-05-05T14:32:11.660Z,"27km ENE of Seeley Lake, Montana",earthquake,0.97,1.32,0.344,6,reviewed,mb,mb
+2016-05-05T05:16:00.590Z,33.7496667,-116.0293333,4.19,1.67,ml,58,55,0.09979,0.16,ci,ci37559872,2016-05-05T15:00:12.934Z,"15km ENE of Coachella, CA",earthquake,0.13,0.45,0.137,57,reviewed,ci,ci
+2016-05-05T05:15:10.650Z,-21.8361,170.1575,34.61,4.8,mb,,112,2.01,1,us,us10005dyr,2016-05-05T07:13:35.122Z,"205km WNW of Ile Hunter, New Caledonia",earthquake,7.1,4.9,0.124,20,reviewed,us,us
+2016-05-05T05:11:09.696Z,40.6576,-119.4567,0,0.8,ml,4,315.33,0.767,0.1844,nn,nn00542927,2016-05-06T00:58:33.817Z,"10km NW of Gerlach-Empire, Nevada",earthquake,6.58,,0.13,2,reviewed,nn,nn
+2016-05-05T05:09:42.199Z,38.2597,-118.7175,11.4,0.4,ml,4,289.66,0.167,0.0391,nn,nn00542954,2016-05-06T01:00:13.169Z,"30km SSW of Hawthorne, Nevada",earthquake,5.4,8.6,0.24,2,reviewed,nn,nn
+2016-05-05T05:01:32.770Z,36.0365,-117.7798333,1.73,0.36,ml,12,104,0.01632,0.12,ci,ci37559864,2016-05-05T15:48:46.450Z,"15km E of Coso Junction, CA",earthquake,0.25,0.17,0.163,8,reviewed,ci,ci
+2016-05-05T04:58:53.830Z,36.0323333,-117.7806667,2.23,0.24,ml,9,180,0.01437,0.07,ci,ci37559856,2016-05-05T15:45:00.975Z,"15km E of Coso Junction, CA",earthquake,0.28,0.13,0.143,5,reviewed,ci,ci
+2016-05-05T04:45:39.610Z,38.84,-122.7998333,1.59,1.17,md,8,156,0.03218,0.05,nc,nc72630985,2016-05-05T16:35:02.000Z,"6km WNW of Cobb, California",earthquake,0.35,0.77,0.154,8,reviewed,nc,nc
+2016-05-05T04:33:53.743Z,40.6306,-119.4941,4.8,1.3,ml,6,150.39,0.731,0.2433,nn,nn00542903,2016-05-06T00:58:26.713Z,"11km WNW of Gerlach-Empire, Nevada",earthquake,3.91,6.4,0.12,4,reviewed,nn,nn
+2016-05-05T04:31:28.260Z,46.198,-122.1851667,1.65,0.3,ml,9,150,0.004374,0.06,uw,uw61150006,2016-05-05T18:37:41.270Z,"37km NNE of Amboy, Washington",earthquake,0.55,0.38,0.027,5,reviewed,uw,uw
+2016-05-05T04:20:02.392Z,40.6326,-119.4387,2.9,1.5,ml,8,153.33,0.749,0.2914,nn,nn00542901,2016-05-06T00:58:04.469Z,"7km NW of Gerlach-Empire, Nevada",earthquake,4.08,4.7,0.23,6,reviewed,nn,nn
+2016-05-05T04:13:17.240Z,40.6438,-119.4887,0,2.2,ml,14,105.98,0.689,0.2433,nn,nn00542900,2016-05-06T00:57:57.209Z,"11km NW of Gerlach-Empire, Nevada",earthquake,2.05,,0.18,9,reviewed,nn,nn
+2016-05-05T04:02:44.184Z,40.6434,-119.469,0,2.3,ml,13,77.43,0.704,0.254,nn,nn00542898,2016-05-06T00:57:42.645Z,"10km NW of Gerlach-Empire, Nevada",earthquake,3.94,4.7,0.23,9,reviewed,nn,nn
+2016-05-05T03:56:55.234Z,40.6307,-119.4443,4.7,1.5,ml,11,188.15,0.718,0.2212,nn,nn00542897,2016-05-06T00:57:50.029Z,"7km NW of Gerlach-Empire, Nevada",earthquake,3.33,5.5,0.43,6,reviewed,nn,nn
+2016-05-05T03:56:48.600Z,18.4335,-64.1091,65,2.4,Md,4,316.8,0.63690554,0.1,pr,pr16126006,2016-05-05T08:25:10.738Z,"53km E of Road Town, British Virgin Islands",earthquake,1,1.6,0,4,reviewed,pr,pr
+2016-05-05T03:35:41.624Z,40.6436,-119.5096,10.7,0.8,ml,4,314.02,0.74,0.1948,nn,nn00542978,2016-05-06T01:03:03.828Z,"13km WNW of Gerlach-Empire, Nevada",earthquake,13.44,6.3,0,1,reviewed,nn,nn
+2016-05-05T03:29:00.475Z,40.6249,-119.4817,4.2,1.6,ml,8,150.88,0.729,0.2603,nn,nn00542888,2016-05-06T00:57:33.703Z,"9km WNW of Gerlach-Empire, Nevada",earthquake,5.8,7.5,0.39,6,reviewed,nn,nn
+2016-05-05T03:23:52.568Z,36.6246,-117.0975,10.3,-0.4,ml,3,267.56,0.14,0.1796,nn,nn00542977,2016-05-06T01:02:56.545Z,"43km SW of Beatty, Nevada",earthquake,12.46,10.3,0,1,reviewed,nn,nn
+2016-05-05T03:21:46.000Z,63.5138,-150.7997,11.4,1,ml,,,,0.18,ak,ak13515490,2016-05-05T03:56:15.346Z,"93km W of Cantwell, Alaska",earthquake,0.4,0.4,,,automatic,ak,ak
+2016-05-05T03:21:24.050Z,38.8151667,-122.8423333,6.09,0.95,md,7,160,0.03744,0.03,nc,nc72630975,2016-05-05T16:09:04.949Z,"8km WNW of The Geysers, California",earthquake,0.85,0.45,0.127,6,reviewed,nc,nc
+2016-05-05T03:17:10.610Z,36.0385,-120.6048333,3.02,0.52,md,21,123,0.03104,0.07,nc,nc72630970,2016-05-05T17:55:03.505Z,"24km WSW of Coalinga, California",earthquake,0.31,0.67,0.158,8,reviewed,nc,nc
+2016-05-05T03:14:56.800Z,18.9295,-64.4988,35,2.2,Md,4,331.2,0.64768532,0.21,pr,pr16126005,2016-05-05T08:23:40.152Z,"58km NNE of Road Town, British Virgin Islands",earthquake,5.9,13.5,0,4,reviewed,pr,pr
+2016-05-05T03:11:49.500Z,18.937,-64.4746,34,2.6,Md,4,334.8,0.66475331,0.2,pr,pr16126004,2016-05-05T08:22:19.481Z,"59km NNE of Road Town, British Virgin Islands",earthquake,5.7,13.2,0,4,reviewed,pr,pr
+2016-05-05T03:09:12.688Z,40.6359,-119.5082,3.6,1.9,ml,9,104.98,0.733,0.233,nn,nn00542887,2016-05-06T00:57:23.030Z,"12km WNW of Gerlach-Empire, Nevada",earthquake,5.17,5.2,0.39,6,reviewed,nn,nn
+2016-05-05T03:08:28.400Z,18.9655,-64.4907,19,2.4,Md,4,331.2,0.68361793,0.2,pr,pr16126003,2016-05-05T08:20:59.592Z,"62km NNE of Road Town, British Virgin Islands",earthquake,8.1,16.4,0,4,reviewed,pr,pr
+2016-05-05T03:05:27.988Z,40.6103,-119.52,4.9,,,3,312.41,0.706,0.1574,nn,nn00542975,2016-05-06T01:02:41.931Z,"12km WNW of Gerlach-Empire, Nevada",earthquake,10.84,29,,,reviewed,nn,nn
+2016-05-05T03:03:17.140Z,36.8375015,-121.569664,6.01,3.01,ml,50,33,0.05016,0.1,nc,nc72630965,2016-05-05T03:19:26.029Z,"2km WSW of San Juan Bautista, California",earthquake,0.18,0.4,0.257,11,automatic,nc,nc
+2016-05-05T02:59:40.000Z,63.4029,-151.2773,2.2,1.1,ml,,,,0.72,ak,ak13515489,2016-05-05T03:33:32.240Z,"116km W of Cantwell, Alaska",earthquake,0.3,0.5,,,automatic,ak,ak
+2016-05-05T02:48:20.000Z,62.0015,-150.1041,28.3,1.3,ml,,,,0.33,ak,ak13515488,2016-05-05T03:10:16.611Z,"22km SW of Y, Alaska",earthquake,0.3,0.2,,,automatic,ak,ak
+2016-05-05T02:47:46.500Z,40.6501,-119.4433,0,1.8,ml,11,107.82,0.724,0.2018,nn,nn00542885,2016-05-06T00:57:15.948Z,"9km NW of Gerlach-Empire, Nevada",earthquake,2.96,,0.18,7,reviewed,nn,nn
+2016-05-05T02:45:58.390Z,34.3915,-119.5118333,9.86,1.94,ml,29,115,0.008402,0.24,ci,ci37559832,2016-05-05T14:50:28.662Z,"1km SE of Carpinteria, CA",earthquake,0.4,0.81,0.168,38,reviewed,ci,ci
+2016-05-05T02:45:20.170Z,33.4766667,-116.488,8.29,0.68,ml,25,99,0.06987,0.14,ci,ci37559824,2016-05-05T13:18:51.840Z,"19km ESE of Anza, CA",earthquake,0.23,0.58,0.184,22,reviewed,ci,ci
+2016-05-05T02:41:15.160Z,46.6413333,-113.239,3.89,1.02,ml,16,64,0.249,0.17,mb,mb80143954,2016-05-05T15:00:19.240Z,"34km N of Philipsburg, Montana",earthquake,0.38,12.26,0.137,2,reviewed,mb,mb
+2016-05-05T02:39:01.409Z,40.6602,-119.4502,6.1,1.7,ml,15,108,0.722,0.2007,nn,nn00542884,2016-05-06T00:57:08.679Z,"10km NW of Gerlach-Empire, Nevada",earthquake,4.1,8.9,0.15,8,reviewed,nn,nn
+2016-05-05T02:27:22.080Z,33.4728333,-116.4938333,7.72,1.83,ml,58,76,0.07606,0.18,ci,ci37559816,2016-05-05T13:18:47.010Z,"19km ESE of Anza, CA",earthquake,0.18,0.43,0.252,27,reviewed,ci,ci
+2016-05-05T02:25:11.400Z,18.926,-64.5913,8,2.1,Md,3,327.6,0.61534597,0.09,pr,pr16126002,2016-05-05T04:35:15.492Z,"56km N of Road Town, British Virgin Islands",earthquake,2.7,3.7,0,2,reviewed,pr,pr
+2016-05-05T02:23:41.600Z,18.9029,-64.5475,3,2.1,Md,4,327.6,0.60636282,0.33,pr,pr16126001,2016-05-05T04:20:28.791Z,"54km N of Road Town, British Virgin Islands",earthquake,18.3,15.8,0,2,reviewed,pr,pr
+2016-05-05T02:22:43.000Z,60.8494,-145.908,23.3,1.4,ml,,,,0.41,ak,ak13515487,2016-05-05T02:47:33.086Z,"35km NNW of Cordova, Alaska",earthquake,0.5,0.4,,,automatic,ak,ak
+2016-05-05T02:19:50.960Z,40.6461,-119.4608,0,0.9,ml,3,314.81,0.755,0.1862,nn,nn00542896,2016-05-06T00:57:00.488Z,"10km NW of Gerlach-Empire, Nevada",earthquake,10.38,,0,1,reviewed,nn,nn
+2016-05-05T02:19:14.590Z,33.994,-117.1695,12.92,1.18,ml,41,52,0.102,0.2,ci,ci37559808,2016-05-05T13:18:56.840Z,"7km S of Redlands, CA",earthquake,0.23,0.78,0.147,25,reviewed,ci,ci
+2016-05-05T02:18:21.000Z,18.9102,-64.565,5,1.8,Md,3,327.6,0.60726113,0.18,pr,pr16126000,2016-05-05T04:00:55.104Z,"54km N of Road Town, British Virgin Islands",earthquake,13,11.3,0,2,reviewed,pr,pr
+2016-05-05T02:11:43.744Z,40.6317,-119.4785,0,0.7,ml,4,313.95,0.737,0.2031,nn,nn00542894,2016-05-06T00:56:53.682Z,"10km NW of Gerlach-Empire, Nevada",earthquake,8.57,,0,1,reviewed,nn,nn
+2016-05-05T02:04:47.080Z,40.5987,-119.4733,0.8,1,ml,5,299.43,0.707,0.2385,nn,nn00542893,2016-05-06T00:56:46.667Z,"8km WNW of Gerlach-Empire, Nevada",earthquake,19.13,10.2,0.16,2,reviewed,nn,nn
+2016-05-05T02:04:46.930Z,45.8851667,-111.4835,6.02,0.18,ml,4,165,0.28,0.04,mb,mb80143949,2016-05-05T14:52:57.850Z,"5km E of Three Forks, Montana",earthquake,0.41,5.79,,0,reviewed,mb,mb
+2016-05-05T01:58:53.450Z,36.868,-97.3259,7.9,3.1,mb_lg,,112,0.139,0.27,us,us10005dy7,2016-05-05T02:15:56.185Z,"8km NNW of Blackwell, Oklahoma",earthquake,1,5.2,0.06,73,reviewed,us,us
