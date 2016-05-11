@@ -803,3 +803,6 @@
 2016-05-11:	Not a good time to download. HOUR= 2	
 2016-05-11:	Not a good time to download. HOUR= 3	
 2016-05-11:	File should be downloaded. HOUR= 4	Downloaded file for today	
+2016-05-11:	File should be downloaded. HOUR= 5	Already downloaded the file for today	
+2016-05-11:	Not a good time to download. HOUR= 6	
+2016-05-11:	Not a good time to download. HOUR= 7	
