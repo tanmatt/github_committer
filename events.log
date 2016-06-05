@@ -1400,3 +1400,6 @@
 2016-06-04:	Not a good time to download. HOUR= 23	
 2016-06-05:	Not a good time to download. HOUR= 0	
 2016-06-05:	File should be downloaded. HOUR= 1	Downloaded file for today	
+2016-06-05:	File should be downloaded. HOUR= 2	Already downloaded the file for today	
+2016-06-05:	Not a good time to download. HOUR= 3	
+2016-06-05:	Not a good time to download. HOUR= 4	
