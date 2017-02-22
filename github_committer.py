@@ -32,14 +32,12 @@ def download_xls():
     print put_in_dir
     global log_message
     if not os.path.isdir(put_in_dir):
-        print "in if"
         os.makedirs(put_in_dir)
 
-    print wget.download(DOWNLOAD_LINK)
+    wget.download(DOWNLOAD_LINK)
     time.sleep(5)
     os.rename(DOWNLOADED_FILE, put_in_dir + DOWNLOADED_FILE)
     log_message += "Downloaded file for today\t"
-    print "in else"
     log_message += "Already downloaded the file for today\t"
 
 
@@ -67,7 +65,6 @@ def main():
         global log_message
         log_message += "File should be downloaded. HOUR= " + str(HOUR) + "\t"
         do_the_magic()
-        #download_xls()
         _flush_log()
     except Exception, ex:
         log_message += str(ex) + "\t"
