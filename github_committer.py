@@ -39,7 +39,7 @@ def download_xls():
     try:
         #os.rename(DOWNLOADED_FILE, put_in_dir + DOWNLOADED_FILE)
         print os.getcwd()
-        os.remove("rank_1(1).xls")
+        os.remove("rank_1 (1).xls")
         log_message += "Downloaded file for today\t"
     except Exception, ex:
         log_message += "Error moving the file: " + str(ex)
