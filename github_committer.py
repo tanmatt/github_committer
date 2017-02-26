@@ -34,16 +34,15 @@ def download_xls():
     if not os.path.isdir(put_in_dir):
         os.makedirs(put_in_dir)
 
-    #wget.download(DOWNLOAD_LINK)
+    wget.download(DOWNLOAD_LINK)
     time.sleep(5)
     try:
-        #os.rename(DOWNLOADED_FILE, put_in_dir + DOWNLOADED_FILE)
+        os.rename(DOWNLOADED_FILE, put_in_dir + DOWNLOADED_FILE)
         print os.getcwd()
-        os.remove("rank_1 (1).xls")
+        os.remove("rank_1.xls")
         log_message += "Downloaded file for today\t"
     except Exception, ex:
         log_message += "Error moving the file: " + str(ex)
-
 
 
 def do_the_magic():
