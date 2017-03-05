@@ -35,7 +35,10 @@ def download_xls():
         os.makedirs(put_in_dir)
 
     if os.path.isfile("rank_1.xls"):
+        print "Tanmay: inside"
         os.remove("rank_1.xls")
+    else:
+        print "Tanmay: outside"
 
     try:
         wget.download(DOWNLOAD_LINK)
