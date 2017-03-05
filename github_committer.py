@@ -66,7 +66,7 @@ def do_the_magic():
         os.system("git commit -m \"Updated with new file on " + str(HOUR) + "\" ")
         os.system("git push origin " + GIT_BRANCH)
     except Exception, ex:
-        log_message += str(ex) + "\t"
+        log_message += + "Doing magic:" + str(ex) + "\t"
 
 
 def main():
