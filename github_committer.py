@@ -29,15 +29,15 @@ def _flush_log():
 def download_xls():
     # check / create folders
     put_in_dir = "xlsfiles/" + YEAR + "/" + MONTH + "/" + DATE + "/"
-    print put_in_dir
     global log_message
+
     if not os.path.isdir(put_in_dir):
         os.makedirs(put_in_dir)
 
     print "Tanmay: pwd: " + os.getcwd()
     if os.path.isfile("rank_1.xls"):
         print "Tanmay: inside"
-        os.remove("rank_1.xls")
+        os.remove(os.getcwd() + "/rank_1.xls" )
     else:
         print "Tanmay: outside"
 
