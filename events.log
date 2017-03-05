@@ -1,3 +1,4 @@
 
 2017-03-05:	File should be downloaded. HOUR= 3	Error moving the file: [Error 183] Cannot create a file when that file already exists
 2017-03-05:	File should be downloaded. HOUR= 4	Doing magic:remove() takes exactly 1 argument (2 given)	
+2017-03-05:	File should be downloaded. HOUR= 4	Error moving the file: [Error 183] Cannot create a file when that file already exists

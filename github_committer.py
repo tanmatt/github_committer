@@ -31,25 +31,22 @@ def download_xls():
     put_in_dir = "xlsfiles/" + YEAR + "/" + MONTH + "/" + DATE + "/"
     global log_message
 
-    if not os.path.isdir(put_in_dir):
-        os.makedirs(put_in_dir)
-
-    print "Tanmay: pwd: " + os.getcwd()
     if os.path.isfile("rank_1.xls"):
-        print "Tanmay: inside"
-        os.remove(os.getcwd() + "/rank_1.xls" )
-    else:
-        print "Tanmay: outside"
+        os.remove(os.getcwd() + "/rank_1.xls")
 
     try:
-        wget.download(DOWNLOAD_LINK)
-        time.sleep(5)
-        os.rename(DOWNLOADED_FILE, put_in_dir + DOWNLOADED_FILE)
-        time.sleep(2)
-        print os.getcwd()
-        if os.path.isfile("rank_1.xls"):
-            os.remove("rank_1.xls")
-        log_message += "Downloaded file for today\t"
+        if not os.path.isdir(put_in_dir):
+            os.makedirs(put_in_dir)
+            wget.download(DOWNLOAD_LINK)
+            time.sleep(5)
+            os.rename(DOWNLOADED_FILE, put_in_dir + DOWNLOADED_FILE)
+            time.sleep(2)
+            print os.getcwd()
+            if os.path.isfile("rank_1.xls"):
+                os.remove("rank_1.xls")
+            log_message += "Downloaded file for today\t"
+        else:
+            log_message += "Already downloaded file for today\t"
     except Exception, ex:
         log_message += "Error moving the file: " + str(ex)
 
