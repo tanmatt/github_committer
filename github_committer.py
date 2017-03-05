@@ -34,6 +34,7 @@ def download_xls():
     if not os.path.isdir(put_in_dir):
         os.makedirs(put_in_dir)
 
+    print "Tanmay: pwd: " + os.getcwd()
     if os.path.isfile("rank_1.xls"):
         print "Tanmay: inside"
         os.remove("rank_1.xls")
