@@ -7,8 +7,7 @@ import subprocess
 import os
 import time
 
-home_dir = subprocess.check_output(["pwd"]).strip()
-project_dir = home_dir + '/github_committer/'
+project_dir = subprocess.check_output(["pwd"]).strip()
 os.chdir(project_dir)
 FILENAME = project_dir + 'todays_random_hours.txt'
 LOGFILE = project_dir + 'events.log'
