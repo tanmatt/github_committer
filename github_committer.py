@@ -45,10 +45,22 @@ def download_xls():
             if os.path.isfile("rank_1.xls"):
                 os.remove("rank_1.xls")
             log_message += "Downloaded file for today\t"
+            _upload_to_git()
         else:
             log_message += "Already downloaded file for today\t"
     except Exception, ex:
         log_message += "Error moving the file: " + str(ex)
+
+
+def _upload_to_git():
+    try:
+        global log_message
+        # send it back to github
+        os.system("git add -A")
+        os.system("git commit -m \"Updated with new file on " + str(HOUR) + "\" ")
+        os.system("git push origin " + GIT_BRANCH)
+    except Exception, ex:
+        log_message += "Doing magic:" + str(ex) + "\t"
 
 
 def do_the_magic():
@@ -57,11 +69,6 @@ def do_the_magic():
         # confirm the correct branch
         os.system("git checkout " + GIT_BRANCH)
         download_xls()
-
-        # send it back to github
-        os.system("git add -A")
-        os.system("git commit -m \"Updated with new file on " + str(HOUR) + "\" ")
-        os.system("git push origin " + GIT_BRANCH)
     except Exception, ex:
         log_message += "Doing magic:" + str(ex) + "\t"
 
@@ -79,6 +86,7 @@ def main():
     except Exception, ex:
         log_message += str(ex) + "\t"
         _flush_log()
+
 
 if __name__ == '__main__':
     main()
