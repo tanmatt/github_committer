@@ -7,7 +7,6 @@ import time
 import wget
 
 FILENAME = 'todays_random_hours.txt'
-LOGFILE = 'events.log'
 DOWNLOAD_LINK = 'http://www.zacks.com/portfolios/rank/rank_excel.php?rank=1&reference_id=all'
 DOWNLOADED_FILE = "rank_1.xls"
 
@@ -18,59 +17,65 @@ DATE = time.strftime("%d", TIME)
 HOUR = int(time.strftime("%H", TIME))
 GIT_BRANCH = 'zacks'
 
-log_message = "\n" + str(time.strftime("%Y-%m-%d:", TIME)) + "\t"
 
+def is_downloadable():
+    hours = []
+    with file(FILENAME) as random_hours:
+        hours = random_hours.readlines()
+    print "Current Hour: " + HOUR
+    print "Downloadable Hours: " + hours
 
-def _flush_log():
-    with open(LOGFILE, 'a') as f:
-        f.write(log_message)
+    if str(HOUR) in hours:
+        print "File should be downloaded"
+    else:
+        print "File should not be downloaded. Not the right time."
 
 
 def download_xls():
+    print "Downloading of xls started..."
     # check / create folders
     put_in_dir = "xlsfiles/" + YEAR + "/" + MONTH + "/" + DATE + "/"
-    global log_message
 
     if os.path.isfile("rank_1.xls"):
         os.remove(os.getcwd() + "/rank_1.xls")
 
     try:
-        if not os.path.isdir(put_in_dir):
-            os.makedirs(put_in_dir)
-            wget.download(DOWNLOAD_LINK)
-            time.sleep(5)
-            os.rename(DOWNLOADED_FILE, put_in_dir + DOWNLOADED_FILE)
-            time.sleep(2)
-            print os.getcwd()
-            if os.path.isfile("rank_1.xls"):
-                os.remove("rank_1.xls")
-            log_message += "Downloaded file for today\t"
-            _upload_to_git()
-        else:
-            log_message += "Already downloaded file for today\t"
+        if is_downloadable():
+            if not os.path.isdir(put_in_dir):
+                os.makedirs(put_in_dir)
+                wget.download(DOWNLOAD_LINK)
+                time.sleep(5)
+                os.rename(DOWNLOADED_FILE, put_in_dir + DOWNLOADED_FILE)
+                time.sleep(2)
+                print os.getcwd()
+                if os.path.isfile("rank_1.xls"):
+                    os.remove("rank_1.xls")
+                _upload_to_git()
+        print "\rDownloading of xls started...Done"
     except Exception, ex:
-        log_message += "Error moving the file: " + str(ex)
+        raise ex
 
 
 def _upload_to_git():
     try:
-        global log_message
+        print "Uploading to git..."
         # send it back to github
         os.system("git add -A")
         os.system("git commit -m \"Updated with new file on " + str(HOUR) + "\" ")
         os.system("git push origin " + GIT_BRANCH)
+        print "\rUploading to git...Done"
     except Exception, ex:
-        log_message += "Doing magic:" + str(ex) + "\t"
+        raise ex
 
 
 def do_the_magic():
     try:
-        global log_message
+        print "Doing the magic..."
         # confirm the correct branch
         os.system("git checkout " + GIT_BRANCH)
         download_xls()
     except Exception, ex:
-        log_message += "Doing magic:" + str(ex) + "\t"
+        raise ex
 
 
 def main():
@@ -79,13 +84,11 @@ def main():
     :return:
     """
     try:
-        global log_message
-        log_message += "File should be downloaded. HOUR= " + str(HOUR) + "\t"
+        print "Program execution started...."
         do_the_magic()
-        _flush_log()
+        print "Program execution finished..."
     except Exception, ex:
-        log_message += str(ex) + "\t"
-        _flush_log()
+        print "Program execution failed..." + ex
 
 
 if __name__ == '__main__':
