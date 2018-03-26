@@ -14,21 +14,26 @@ TIME = time.gmtime()
 YEAR = time.strftime("%Y", TIME)
 MONTH = time.strftime("%m", TIME)
 DATE = time.strftime("%d", TIME)
-HOUR = int(time.strftime("%H", TIME))
+HOUR = str(int(time.strftime("%H", TIME)))
 GIT_BRANCH = 'zacks'
 
 
 def is_downloadable():
-    hours = []
-    with file(FILENAME) as random_hours:
+    downloadable_hours = []
+    with file(FILENAME, "r") as random_hours:
         hours = random_hours.readlines()
-    print "Current Hour: " + HOUR
-    print "Downloadable Hours: " + hours
+        for hour in hours:
+            downloadable_hours.append(hour.strip())
 
-    if str(HOUR) in hours:
+    print "Current Hour: " + HOUR
+    print "Downloadable Hours: " + str(downloadable_hours)
+
+    if HOUR in downloadable_hours:
         print "File should be downloaded"
+        return True
     else:
         print "File should not be downloaded. Not the right time."
+        return False
 
 
 def download_xls():
@@ -41,17 +46,20 @@ def download_xls():
 
     try:
         if is_downloadable():
+            # make dir if not present
             if not os.path.isdir(put_in_dir):
                 os.makedirs(put_in_dir)
-                wget.download(DOWNLOAD_LINK)
-                time.sleep(5)
-                os.rename(DOWNLOADED_FILE, put_in_dir + DOWNLOADED_FILE)
-                time.sleep(2)
-                print os.getcwd()
-                if os.path.isfile("rank_1.xls"):
-                    os.remove("rank_1.xls")
-                _upload_to_git()
-        print "\rDownloading of xls started...Done"
+
+            wget.download(DOWNLOAD_LINK)
+            time.sleep(5)
+            os.rename(DOWNLOADED_FILE, put_in_dir + DOWNLOADED_FILE)
+            time.sleep(2)
+            print os.getcwd()
+            # remove duplicate file from project root
+            if os.path.isfile("rank_1.xls"):
+                os.remove("rank_1.xls")
+            _upload_to_git()
+            print "\rDownloading of xls started...Done"
     except Exception, ex:
         raise ex
 
@@ -61,7 +69,7 @@ def _upload_to_git():
         print "Uploading to git..."
         # send it back to github
         os.system("git add -A")
-        os.system("git commit -m \"Updated with new file on " + str(HOUR) + "\" ")
+        os.system("git commit -m \"Updated with new file on " + HOUR + "\" ")
         os.system("git push origin " + GIT_BRANCH)
         print "\rUploading to git...Done"
     except Exception, ex:
@@ -88,7 +96,7 @@ def main():
         do_the_magic()
         print "Program execution finished..."
     except Exception, ex:
-        print "Program execution failed..." + ex
+        print "Program execution failed..." + str(ex)
 
 
 if __name__ == '__main__':

@@ -23,8 +23,7 @@ def _flush_log():
 
 def write_to_file(hour_list):
     with open(FILENAME, 'w') as f:
-        for hour in hour_list:
-            f.write(str(hour) + "\n")
+        f.writelines(hour_list)
 
 
 def get_randoms():
@@ -35,9 +34,10 @@ def get_randoms():
     hours_list = []
 
     for i in range(hours_count):
-        hours_list.append(random.randint(1, 23))
+        hours_list.append(str(random.randint(1, 23)))
+        hours_list.append("\n")
 
-    print "hours_list", hours_list
+    print "hours_list" + str(hours_list)
     write_to_file(hours_list)
     log_message += "And it will run on hours = " + str(hours_list)
 
