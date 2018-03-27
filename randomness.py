@@ -31,7 +31,7 @@ def get_randoms():
 
     print "hours_list" + str(hours_list)
     write_to_file(hours_list)
-    
+
 
 if __name__ == '__main__':
     get_randoms()
