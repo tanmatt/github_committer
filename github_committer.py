@@ -50,7 +50,9 @@ def download_xls():
             if not os.path.isdir(put_in_dir):
                 os.makedirs(put_in_dir)
 
+            print "Downloading file now..."
             wget.download(DOWNLOAD_LINK)
+            print "\rDownloading file now...Done"
             time.sleep(5)
             os.rename(DOWNLOADED_FILE, put_in_dir + DOWNLOADED_FILE)
             time.sleep(2)
