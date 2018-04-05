@@ -10,7 +10,7 @@ FILENAME = 'todays_random_hours.txt'
 DOWNLOAD_LINK = 'http://www.zacks.com/portfolios/rank/rank_excel.php?rank=1&reference_id=all'
 DOWNLOADED_FILE = "rank_1.xls"
 
-TIME = time.gmtime()
+TIME = time.localtime()
 YEAR = time.strftime("%Y", TIME)
 MONTH = time.strftime("%m", TIME)
 DATE = time.strftime("%d", TIME)

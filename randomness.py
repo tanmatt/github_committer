@@ -5,14 +5,10 @@ crontab at 23:59:59 everyday
 import random
 import subprocess
 import os
-import time
 
 project_dir = subprocess.check_output(["pwd"]).strip()
 os.chdir(project_dir)
 FILENAME = project_dir + '/todays_random_hours.txt'
-
-TIME = time.gmtime()
-log_message = "\n" + str(time.strftime("%Y-%m-%d:", TIME)) + "\t"
 
 
 def write_to_file(hour_list):
@@ -21,7 +17,7 @@ def write_to_file(hour_list):
 
 
 def get_randoms():
-    hours_count = random.randint(1, 7)
+    hours_count = random.randint(2, 7)
     print "hours_count", hours_count
     hours_list = []
 
