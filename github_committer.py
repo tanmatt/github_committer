@@ -22,7 +22,7 @@ GIT_BRANCH = 'zacks'
 def is_downloadable():
     # return true of --force parameter is passed from command line
     if len(sys.argv) > 1 and sys.argv[1] == "--force":
-        "\nForcing the file download because of --force parameter"
+        print "\nForcing the file download because of --force parameter"
         return True
 
     # else check if the current hour matches with the file content
