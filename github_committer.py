@@ -5,6 +5,7 @@ crontab every 1 hour
 import os
 import time
 import wget
+import sys
 
 FILENAME = 'todays_random_hours.txt'
 DOWNLOAD_LINK = 'http://www.zacks.com/portfolios/rank/rank_excel.php?rank=1&reference_id=all'
@@ -19,6 +20,11 @@ GIT_BRANCH = 'zacks'
 
 
 def is_downloadable():
+    # return true of --force parameter is passed from command line
+    if len(sys.argv) > 1 and sys.argv[1] == "--forced":
+        return True
+
+    # else check if the current hour matches with the file content
     downloadable_hours = []
     with file(FILENAME, "r") as random_hours:
         hours = random_hours.readlines()
