@@ -48,11 +48,7 @@ def download_xls():
     # check / create folders
     put_in_dir = "xlsfiles/" + YEAR + "/" + MONTH + "/" + DATE + "/"
 
-    if os.path.isfile("rank_1.xls"):
-        os.remove(os.getcwd() + "/rank_1.xls")
-
     try:
-        if is_downloadable():
             # make dir if not present
             if not os.path.isdir(put_in_dir):
                 os.makedirs(put_in_dir)
@@ -61,6 +57,11 @@ def download_xls():
             wget.download(DOWNLOAD_LINK)
             print "\rDownloading file now...Done"
             time.sleep(5)
+
+            # remove file if it was already downloaded in the dir
+            if os.path.isfile(put_in_dir + DOWNLOADED_FILE):
+                os.remove(put_in_dir + DOWNLOADED_FILE)
+
             os.rename(DOWNLOADED_FILE, put_in_dir + DOWNLOADED_FILE)
             time.sleep(2)
             print os.getcwd()
