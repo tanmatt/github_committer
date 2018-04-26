@@ -44,6 +44,9 @@ def is_downloadable():
 
 
 def download_xls():
+    if not is_downloadable:
+        return
+
     print("Downloading of xls started...")
     # check / create folders
     put_in_dir = "xlsfiles/" + YEAR + "/" + MONTH + "/" + DATE + "/"
