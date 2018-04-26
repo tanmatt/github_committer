@@ -106,7 +106,7 @@ def main():
         do_the_magic()
         print("Program execution finished...")
     except(Exception):
-        print("Program execution failed..." + str(ex))
+        print("Program execution failed..." + str(Exception))
 
 
 if __name__ == '__main__':
