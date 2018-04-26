@@ -44,7 +44,7 @@ def is_downloadable():
 
 
 def download_xls():
-    if not is_downloadable:
+    if not is_downloadable():
         return
 
     print("Downloading of xls started...")
