@@ -1,220 +1,220 @@
 
 Symbol	Company Name	Industry	Price	Dividend Yield(%)	Price Movers: 1 Week(%)	Price Movers: 4 Week(%)	Biggest Est. Chg. Current Year(%)	Biggest Est. Chg. Next Year(%)	Biggest Surprise Last Qtr(%)	Market Cap (mil)	P/E (F1)	PEG	Projected Earnings Growth (1 Yr)(%)	Projected Earnings Growth (3-5 Yrs)(%)	Date Added	Value Score	Growth Score	Momentum Score	VGM Score	Price Movers: 1 Day(%)	Price / Sales	
-MGRC	McGrath RentCorp	Financial - Leasing Companies	61.00	2.29 %	0.35 %	11.93 %	0.00 %	0.00 %	6.67 %	1,434.87	22.03	2.20	26.17 %	10.00 %	Mar 17,2018	C	F	D	F	0.95 %	3.04	
-NOAH	Noah Holdings Ltd.	Financial - Investment Management	52.62	0.00 %	2.23 %	9.46 %	NA	NA	NA	2,931.40	19.79	NA	16.44 %	NA	Apr 14,2018	F	C	F	F	0.33 %	7.87	
-SBGSY	Schneider Electric SE	Manufacturing - Electronics	17.44	0.20 %	-4.97 %	1.28 %	0.00 %	0.00 %	NA	51,547.40	15.68	2.85	16.84 %	5.50 %	Mar 30,2018	B	B	B	A	-0.34 %	NA	
+MGRC	McGrath RentCorp	Financial - Leasing Companies	61.00	2.23 %	3.83 %	13.70 %	0.00 %	4.12 %	6.67 %	1,471.29	22.59	2.26	NA	10.00 %	Mar 17,2018	C	F	D	F	2.54 %	3.12	
+NOAH	Noah Holdings Ltd.	Financial - Investment Management	52.62	0.00 %	6.58 %	8.70 %	NA	NA	NA	2,975.50	20.08	NA	16.44 %	NA	Apr 14,2018	F	C	F	F	1.50 %	7.99	
+SBGSY	Schneider Electric SE	Manufacturing - Electronics	17.44	0.20 %	-2.76 %	1.96 %	0.00 %	0.00 %	NA	51,651.08	15.71	2.86	16.84 %	5.50 %	Mar 30,2018	B	B	B	A	0.20 %	NA	
 XTEPY	Xtep International Holdings Ltd.	Shoes and Retail Apparel 	60.22	2.34 %	0.00 %	17.41 %	43.90 %	57.72 %	NA	1,338.81	14.58	2.65	NA	5.50 %	Apr 20,2018	B	C	B	B	0.00 %	NA	
-FCCY	1st Constitution Bancorp (NJ)	Banks - Northeast	21.70	1.09 %	1.15 %	2.33 %	4.51 %	4.32 %	5.88 %	183.55	15.79	1.58	31.13 %	10.00 %	May 03,2018	D	D	F	F	1.62 %	3.57	
-ALSN	Allison Transmission Holdings, Inc.	Automotive - Original Equipment	40.12	1.49 %	3.29 %	4.04 %	1.80 %	1.58 %	36.71 %	5,632.08	10.96	1.10	37.97 %	10.00 %	May 03,2018	C	A	A	A	3.13 %	2.32	
-CF	CF Industries Holdings, Inc.	Fertilizers	39.07	3.10 %	-0.69 %	4.57 %	0.74 %	2.51 %	81.82 %	9,021.40	42.73	7.12	-464.00 %	6.00 %	May 03,2018	F	D	C	F	-0.34 %	2.18	
-CBU	Community Bank System, Inc.	Banks - Northeast	57.48	2.37 %	3.61 %	7.93 %	3.33 %	2.04 %	13.89 %	2,916.71	18.52	2.32	11.11 %	8.00 %	May 03,2018	D	C	D	D	2.08 %	5.18	
-CNTE	CONTURA ENERGY	Coal	64.00	0.00 %	-5.53 %	-1.11 %	-10.87 %	25.28 %	-5.42 %	698.46	3.67	NA	84.97 %	NA	May 03,2018	A	D	D	B	-2.96 %	0.36	
-CFR	Cullen/Frost Bankers, Inc.	Banks - Southwest	115.16	1.97 %	5.97 %	10.41 %	5.36 %	5.45 %	8.05 %	7,397.92	17.46	1.84	21.83 %	9.50 %	May 03,2018	C	C	C	C	1.32 %	5.83	
-DAN	Dana Incorporated	Automotive - Original Equipment	23.63	1.69 %	-5.94 %	-9.44 %	2.16 %	1.25 %	13.64 %	3,433.23	8.05	0.80	16.27 %	10.00 %	May 03,2018	A	A	A	A	-0.55 %	0.45	
-ENTA	Enanta Pharmaceuticals, Inc.	Medical - Drugs	96.82	0.00 %	9.11 %	16.64 %	0.00 %	0.00 %	1,460.00 %	1,829.27	111.66	NA	-5.49 %	NA	May 03,2018	F	F	A	F	2.60 %	14.02	
-SSP	E.W. Scripps Company (The)	Broadcast Radio and Television	10.87	1.80 %	-3.14 %	-4.73 %	0.00 %	0.00 %	180.00 %	903.99	16.31	8.15	-274.36 %	2.00 %	May 03,2018	B	F	C	C	-0.36 %	0.99	
-HCI	HCI Group, Inc.	Insurance - Property and Casualty	40.72	3.43 %	-1.45 %	7.59 %	0.00 %	0.00 %	24.75 %	382.49	10.94	NA	-597.33 %	NA	May 03,2018	D	F	B	F	-2.58 %	1.63	
-HUN	Huntsman Corporation	Chemical - Diversified 	29.21	2.24 %	-2.42 %	1.68 %	1.36 %	0.00 %	24.68 %	7,017.09	10.36	1.26	12.90 %	8.25 %	May 03,2018	A	A	A	A	-2.49 %	0.76	
-IPAR	Inter Parfums, Inc.	Cosmetics	50.40	1.66 %	4.87 %	7.09 %	6.23 %	6.73 %	27.27 %	1,582.31	31.49	2.57	21.05 %	12.25 %	May 03,2018	C	D	A	C	-1.17 %	2.68	
-LHCG	LHC Group	Medical - Outpatient and Home Healthcare	73.55	0.00 %	-1.46 %	10.66 %	19.28 %	17.35 %	0.00 %	1,361.33	21.26	1.18	44.63 %	18.08 %	May 03,2018	C	F	A	D	0.04 %	1.27	
-MRC	MRC Global Inc.	Steel - Pipe and Tube	19.13	0.00 %	-1.68 %	11.64 %	0.00 %	0.73 %	-133.33 %	1,708.21	25.13	1.68	2,366.67 %	15.00 %	May 03,2018	B	B	B	A	-0.16 %	0.47	
-NRZ	New Residential Investment Corp.	REIT and Equity Trust	17.67	11.30 %	7.01 %	9.06 %	0.00 %	0.00 %	5.45 %	5,949.60	8.07	NA	-22.61 %	NA	May 03,2018	B	F	A	D	1.26 %	3.69	
-PEB	Pebblebrook Hotel Trust	REIT and Equity Trust - Other	34.86	4.39 %	-1.70 %	2.27 %	3.27 %	1.51 %	4.69 %	2,392.23	13.16	2.63	2.33 %	5.00 %	May 03,2018	C	D	F	F	-0.97 %	3.11	
-PRGX	PRGX Global, Inc.	Business - Services	9.45	0.00 %	0.51 %	4.23 %	0.00 %	0.00 %	41.18 %	220.66	51.84	4.15	-9.52 %	12.50 %	May 03,2018	C	C	B	B	0.51 %	1.34	
-RWEOY	RWE AG	Utility - Electric Power	23.97	5.63 %	-8.55 %	-3.01 %	0.00 %	0.00 %	NA	14,667.82	12.43	NA	NA	NA	May 03,2018	A	B	B	A	-0.42 %	0.31	
-JSAIY	J. Sainsbury PLC	Retail - Supermarkets	16.45	2.75 %	14.65 %	26.92 %	0.90 %	8.18 %	NA	9,339.64	15.13	NA	4.63 %	NA	May 03,2018	A	D	B	A	0.83 %	NA	
-SSD	Simpson Manufacturing Company, Inc.	Building Products - Miscellaneous	58.57	1.43 %	6.34 %	3.99 %	-0.94 %	0.76 %	10.20 %	2,747.40	22.25	4.45	33.84 %	5.00 %	May 03,2018	D	C	A	C	7.63 %	2.74	
-SNV	Synovus Financial Corp.	Banks - Southeast	52.59	1.90 %	0.80 %	5.40 %	3.91 %	5.25 %	10.26 %	6,253.32	14.86	1.86	40.32 %	8.00 %	May 03,2018	D	C	B	C	0.80 %	4.05	
-TRU	TransUnion	Business - Information Services	65.75	0.00 %	-1.27 %	16.93 %	4.91 %	5.28 %	11.76 %	12,034.98	27.11	2.71	29.41 %	10.00 %	May 03,2018	F	B	A	C	0.99 %	5.97	
-URBN	Urban Outfitters, Inc.	Retail - Apparel and Shoes	39.81	0.00 %	2.56 %	7.34 %	1.30 %	1.70 %	9.52 %	4,301.04	17.41	1.45	36.53 %	12.00 %	May 03,2018	B	B	C	A	-1.59 %	1.19	
-VNDA	Vanda Pharmaceuticals Inc.	Medical - Biomedical and Genetics	13.95	0.00 %	-3.08 %	-13.98 %	4.76 %	-4.48 %	66.67 %	737.37	192.96	NA	-120.00 %	NA	May 03,2018	D	B	B	C	1.43 %	4.47	
-WBS	Webster Financial Corporation	Banks - Northeast	60.84	1.71 %	0.80 %	9.93 %	4.52 %	5.44 %	7.59 %	5,586.53	17.11	2.14	37.07 %	8.00 %	May 03,2018	D	B	C	C	0.76 %	4.64	
-WLDN	Willdan Group, Inc.	Engineering - R and D Services	28.80	0.00 %	-0.82 %	-0.72 %	0.00 %	0.00 %	22.22 %	257.83	18.53	NA	33.05 %	NA	May 03,2018	A	B	C	A	1.71 %	0.94	
-WTFC	Wintrust Financial Corporation	Banks - Midwest	90.69	0.83 %	-0.93 %	5.57 %	4.56 %	2.21 %	8.53 %	5,121.59	15.66	1.16	32.05 %	13.50 %	May 03,2018	B	C	D	B	1.78 %	3.86	
-GOLF	Acushnet Holdings Corp.	Leisure and Recreation Products	24.45	2.14 %	1.42 %	4.60 %	0.00 %	0.00 %	-5.88 %	1,811.34	15.61	2.72	26.83 %	5.75 %	May 02,2018	B	F	D	D	0.66 %	1.16	
-AVAV	AeroVironment, Inc.	Aerospace - Defense Equipment	54.84	0.00 %	-1.44 %	17.50 %	10.80 %	39.94 %	0.00 %	1,289.01	53.92	2.70	20.37 %	20.00 %	May 02,2018	F	C	F	F	-1.06 %	4.20	
-ALG	Alamo Group, Inc.	Manufacturing - Farm Equipment	110.82	0.40 %	-1.38 %	-1.05 %	0.00 %	0.00 %	12.24 %	1,278.24	19.08	NA	24.19 %	NA	May 02,2018	C	A	F	B	0.24 %	1.40	
-AMZN	Amazon.com, Inc.	Internet - Commerce	NA	0.00 %	8.37 %	13.66 %	38.99 %	28.88 %	168.03 %	767,755.13	134.05	4.44	159.34 %	30.20 %	May 02,2018	F	D	C	F	1.03 %	3.97	
-BIDU	Baidu, Inc.	Internet - Services	249.80	0.00 %	8.95 %	14.59 %	14.20 %	11.36 %	50.29 %	87,428.60	24.06	1.22	7.05 %	19.77 %	May 02,2018	C	B	B	B	0.49 %	6.45	
-BXE	Bellatrix Exploration Ltd	Oil and Gas - Exploration and Production - Canadian	1.68	0.00 %	20.31 %	30.51 %	-35.29 %	-53.37 %	25.00 %	76.04	NA	NA	-16.06 %	NA	May 02,2018	C	F	F	F	2.67 %	0.39	
+FCCY	1st Constitution Bancorp (NJ)	Banks - Northeast	21.70	1.11 %	1.40 %	1.40 %	4.51 %	4.32 %	5.88 %	181.46	15.61	1.56	31.13 %	10.00 %	May 03,2018	D	D	F	F	-1.14 %	3.53	
+ALSN	Allison Transmission Holdings, Inc.	Automotive - Original Equipment	40.12	1.50 %	2.98 %	2.06 %	1.33 %	3.65 %	36.71 %	5,513.04	10.98	1.10	37.22 %	10.00 %	May 03,2018	C	A	A	A	-0.22 %	2.27	
+CF	CF Industries Holdings, Inc.	Fertilizers	39.07	3.07 %	-1.36 %	5.28 %	0.74 %	2.51 %	17.39 %	9,114.72	43.17	7.20	-464.00 %	6.00 %	May 03,2018	F	D	C	F	1.03 %	2.25	
+CBU	Community Bank System, Inc.	Banks - Northeast	57.48	2.37 %	0.14 %	5.86 %	3.33 %	2.04 %	13.89 %	2,919.76	18.54	2.32	11.11 %	8.00 %	May 03,2018	D	C	D	D	0.10 %	5.18	
+CNTE	CONTURA ENERGY	Coal	64.00	0.00 %	-6.50 %	-2.59 %	0.00 %	0.00 %	-5.42 %	688.03	3.81	NA	75.26 %	NA	May 03,2018	A	D	D	B	-1.49 %	0.36	
+CFR	Cullen/Frost Bankers, Inc.	Banks - Southwest	115.16	1.98 %	5.09 %	8.29 %	5.98 %	6.19 %	8.05 %	7,346.88	17.24	1.81	22.57 %	9.50 %	May 03,2018	C	C	C	C	-0.69 %	5.79	
+DAN	Dana Incorporated	Automotive - Original Equipment	23.63	1.69 %	-6.08 %	-9.88 %	2.86 %	3.76 %	13.64 %	3,437.60	8.00	0.80	17.06 %	10.00 %	May 03,2018	A	A	A	A	0.13 %	0.45	
+ENTA	Enanta Pharmaceuticals, Inc.	Medical - Drugs	96.82	0.00 %	10.14 %	14.39 %	189.47 %	0.00 %	1,460.00 %	1,855.14	39.12	NA	172.53 %	NA	May 03,2018	F	F	A	F	1.41 %	14.22	
+SSP	E.W. Scripps Company (The)	Broadcast Radio and Television	10.87	1.84 %	-8.19 %	-7.96 %	3.31 %	6.67 %	180.00 %	886.06	15.47	7.74	-279.49 %	2.00 %	May 03,2018	B	F	C	C	-1.98 %	0.97	
+HCI	HCI Group, Inc.	Insurance - Property and Casualty	40.72	3.44 %	-2.21 %	4.43 %	5.90 %	1.72 %	24.75 %	381.92	10.32	NA	-626.67 %	NA	May 03,2018	D	F	B	F	-0.15 %	1.63	
+HUN	Huntsman Corporation	Chemical - Diversified 	29.21	2.23 %	-1.32 %	1.85 %	5.88 %	2.63 %	24.68 %	6,986.45	9.98	1.21	18.15 %	8.25 %	May 03,2018	A	A	A	A	0.62 %	0.75	
+IPAR	Inter Parfums, Inc.	Cosmetics	50.40	1.67 %	4.67 %	5.44 %	6.23 %	6.73 %	27.27 %	1,576.05	31.37	2.56	21.05 %	12.25 %	May 03,2018	C	D	A	C	-0.40 %	2.67	
+LHCG	LHC Group	Medical - Outpatient and Home Healthcare	73.55	0.00 %	-2.70 %	5.81 %	8.42 %	5.70 %	0.00 %	1,344.88	21.00	1.16	44.63 %	18.08 %	May 03,2018	C	F	A	D	-1.21 %	1.25	
+MRC	MRC Global Inc.	Steel - Pipe and Tube	19.13	0.00 %	0.42 %	13.46 %	0.00 %	0.73 %	44.44 %	1,747.49	25.71	1.71	2,366.67 %	15.00 %	May 03,2018	B	B	B	A	2.30 %	0.46	
+NRZ	New Residential Investment Corp.	REIT and Equity Trust	17.67	11.32 %	6.19 %	8.34 %	4.56 %	10.24 %	5.45 %	5,939.51	7.71	NA	-19.08 %	NA	May 03,2018	B	F	A	D	-0.17 %	3.69	
+PEB	Pebblebrook Hotel Trust	REIT and Equity Trust - Other	34.86	4.36 %	-0.57 %	2.47 %	4.18 %	2.90 %	4.69 %	2,406.04	13.12	2.62	3.50 %	5.00 %	May 03,2018	C	D	F	F	0.58 %	3.13	
+PRGX	PRGX Global, Inc.	Business - Services	9.45	0.00 %	-2.07 %	2.16 %	13.16 %	8.93 %	41.18 %	211.70	43.95	3.52	4.76 %	12.50 %	May 03,2018	C	C	B	B	-4.06 %	1.28	
+RWEOY	RWE AG	Utility - Electric Power	23.97	5.60 %	-6.59 %	-3.35 %	0.00 %	0.00 %	NA	14,735.44	12.48	NA	NA	NA	May 03,2018	A	B	B	A	0.46 %	0.31	
+JSAIY	J. Sainsbury PLC	Retail - Supermarkets	16.45	2.84 %	10.85 %	21.85 %	3.14 %	8.18 %	NA	9,026.86	14.30	3.76	6.48 %	3.80 %	May 03,2018	A	D	B	A	-3.35 %	NA	
+SSD	Simpson Manufacturing Company, Inc.	Building Products - Miscellaneous	58.57	1.43 %	6.10 %	2.06 %	5.45 %	8.24 %	10.20 %	2,735.26	20.89	4.18	41.92 %	5.00 %	May 03,2018	D	C	A	C	-0.44 %	2.73	
+SNV	Synovus Financial Corp.	Banks - Southeast	52.59	1.90 %	0.04 %	4.08 %	4.68 %	5.88 %	10.26 %	6,241.45	14.72	1.84	41.11 %	8.00 %	May 03,2018	D	C	B	C	-0.19 %	4.04	
+TRU	TransUnion	Business - Information Services	65.75	0.00 %	0.46 %	16.82 %	4.91 %	5.28 %	11.76 %	12,064.36	27.18	2.72	29.41 %	10.00 %	May 03,2018	F	B	A	C	0.24 %	5.98	
+URBN	Urban Outfitters, Inc.	Retail - Apparel and Shoes	39.81	0.00 %	0.63 %	7.42 %	1.04 %	1.62 %	9.52 %	4,320.58	17.49	1.46	36.53 %	12.00 %	May 03,2018	B	B	C	A	0.45 %	1.19	
+VNDA	Vanda Pharmaceuticals Inc.	Medical - Biomedical and Genetics	13.95	0.00 %	-4.12 %	-17.70 %	4.76 %	-4.48 %	380.00 %	726.94	190.23	NA	-120.00 %	NA	May 03,2018	D	B	B	C	-1.41 %	4.24	
+WBS	Webster Financial Corporation	Banks - Northeast	60.84	1.71 %	0.45 %	8.49 %	4.52 %	5.44 %	7.59 %	5,604.96	17.16	2.15	37.07 %	8.00 %	May 03,2018	D	B	C	C	0.33 %	4.65	
+WLDN	Willdan Group, Inc.	Engineering - R and D Services	28.80	0.00 %	-2.87 %	-2.07 %	0.00 %	0.00 %	22.22 %	255.26	18.34	NA	33.05 %	NA	May 03,2018	A	B	C	A	-1.00 %	0.93	
+WTFC	Wintrust Financial Corporation	Banks - Midwest	90.69	0.84 %	-1.54 %	3.34 %	4.56 %	2.21 %	8.53 %	5,101.90	15.60	1.16	32.05 %	13.50 %	May 03,2018	B	C	D	B	-0.38 %	3.84	
+GOLF	Acushnet Holdings Corp.	Leisure and Recreation Products	24.45	2.13 %	1.45 %	4.18 %	0.00 %	0.00 %	-5.88 %	1,821.02	15.69	2.73	26.83 %	5.75 %	May 02,2018	B	F	D	D	0.53 %	1.17	
+AVAV	AeroVironment, Inc.	Aerospace - Defense Equipment	54.84	0.00 %	0.64 %	18.42 %	10.80 %	39.94 %	0.00 %	1,311.01	54.84	2.74	20.37 %	20.00 %	May 02,2018	F	C	F	F	1.71 %	4.27	
+ALG	Alamo Group, Inc.	Manufacturing - Farm Equipment	110.82	0.40 %	-0.78 %	-1.31 %	0.00 %	0.00 %	12.24 %	1,290.70	19.27	NA	24.19 %	NA	May 02,2018	C	A	F	B	0.98 %	1.41	
+AMZN	Amazon.com, Inc.	Internet - Commerce	NA	0.00 %	7.50 %	11.28 %	42.48 %	28.88 %	168.03 %	761,651.00	129.73	4.30	165.93 %	30.20 %	May 02,2018	F	D	C	F	-0.80 %	3.94	
+BIDU	Baidu, Inc.	Internet - Services	249.80	0.00 %	7.95 %	11.37 %	14.20 %	11.36 %	50.29 %	86,620.65	23.84	1.21	7.05 %	19.77 %	May 02,2018	C	B	B	B	-0.92 %	6.39	
+BXE	Bellatrix Exploration Ltd	Oil and Gas - Exploration and Production - Canadian	1.68	0.00 %	25.39 %	35.48 %	-35.29 %	-53.37 %	25.00 %	82.96	NA	NA	-16.06 %	NA	May 02,2018	C	F	F	F	9.09 %	0.42	
 BHOOY	BOOHOO COM PLC	Internet - Commerce	43.58	0.00 %	0.00 %	0.00 %	6.85 %	5.65 %	NA	2,504.28	37.25	NA	NA	NA	May 02,2018	D	D	B	C	0.00 %	NA	
-CIVB	Civista Bancshares, Inc.	Banks - Midwest	23.00	1.20 %	-0.17 %	1.08 %	8.44 %	3.77 %	19.57 %	237.87	13.43	1.68	30.83 %	8.00 %	May 02,2018	B	C	A	B	1.57 %	3.06	
-CY	Cypress Semiconductor Corporation	Semiconductor - Communications 	14.95	2.96 %	-6.37 %	-10.86 %	2.46 %	0.81 %	12.50 %	5,323.61	11.90	0.74	40.45 %	16.14 %	May 02,2018	C	A	A	A	1.85 %	2.24	
-ELLI	Ellie Mae, Inc.	Internet - Software and Services	99.02	0.00 %	9.46 %	5.76 %	0.95 %	2.93 %	277.78 %	3,360.06	55.57	3.09	7.32 %	17.96 %	May 02,2018	F	A	D	D	1.16 %	7.60	
-ENVA	Enova International, Inc.	Financial - Consumer Loans	29.35	0.00 %	29.54 %	34.24 %	4.64 %	4.45 %	45.71 %	996.00	14.07	NA	53.28 %	NA	May 02,2018	A	A	A	A	1.02 %	1.10	
-FFNW	First Financial Northwest, Inc.	Banks - West	16.92	1.66 %	1.51 %	6.86 %	15.56 %	0.00 %	153.85 %	181.42	12.95	1.29	46.07 %	10.00 %	May 02,2018	D	F	C	F	-0.41 %	3.42	
-GDI	Gardner Denver Holdings, Inc.	Electronics - Miscellaneous Components	31.40	0.00 %	-0.22 %	4.81 %	7.68 %	4.11 %	26.67 %	6,172.94	17.10	NA	37.88 %	NA	May 02,2018	D	A	C	B	-1.49 %	2.46	
+CIVB	Civista Bancshares, Inc.	Banks - Midwest	23.00	1.22 %	0.44 %	-0.90 %	8.44 %	3.77 %	19.57 %	234.81	13.26	1.66	30.83 %	8.00 %	May 02,2018	B	C	A	B	-1.29 %	3.02	
+CY	Cypress Semiconductor Corporation	Semiconductor - Communications 	14.95	2.94 %	-6.27 %	-11.75 %	2.46 %	0.81 %	12.50 %	5,359.46	11.98	0.74	40.45 %	16.14 %	May 02,2018	C	A	A	A	0.67 %	2.25	
+ELLI	Ellie Mae, Inc.	Internet - Software and Services	99.02	0.00 %	11.79 %	5.05 %	1.91 %	2.82 %	277.78 %	3,395.38	55.63	3.10	8.54 %	17.96 %	May 02,2018	F	A	D	D	1.05 %	7.68	
+ENVA	Enova International, Inc.	Financial - Consumer Loans	29.35	0.00 %	33.64 %	30.96 %	13.10 %	9.18 %	45.71 %	989.27	12.93	NA	65.69 %	NA	May 02,2018	A	A	A	A	-0.68 %	1.09	
+FFNW	First Financial Northwest, Inc.	Banks - West	16.92	1.65 %	1.56 %	5.03 %	15.56 %	0.00 %	153.85 %	182.39	13.02	1.30	46.07 %	10.00 %	May 02,2018	D	F	C	F	0.53 %	3.44	
+GDI	Gardner Denver Holdings, Inc.	Electronics - Miscellaneous Components	31.40	0.00 %	-0.88 %	5.40 %	7.68 %	4.11 %	26.67 %	6,220.48	17.23	NA	37.88 %	NA	May 02,2018	D	A	C	B	0.77 %	2.48	
 HRIBF	Horiba Ltd.	Industrial Services	61.03	0.00 %	0.00 %	0.00 %	4.99 %	9.27 %	NA	2,595.79	13.81	1.38	NA	10.00 %	May 02,2018	B	F			0.00 %	1.60	
-KMPR	Kemper Corporation	Insurance - Multi line	69.10	1.39 %	16.22 %	20.68 %	5.73 %	5.21 %	59.42 %	3,563.76	17.57	NA	140.24 %	NA	May 02,2018	C	B	B	B	2.44 %	1.29	
-LW	Lamb Weston Holdings Inc.	Food - Miscellaneous	64.14	1.18 %	-0.72 %	9.88 %	4.20 %	3.76 %	13.75 %	9,500.18	24.96	2.07	12.07 %	12.04 %	May 02,2018	C	B	C	C	-0.54 %	2.85	
-MKL	Markel Corporation	Insurance - Property and Casualty	NA	0.00 %	-1.32 %	-0.83 %	8.98 %	1.89 %	30.77 %	15,858.53	29.67	NA	962.98 %	NA	May 02,2018	F	C	C	D	1.01 %	2.55	
-MRCY	Mercury Systems Inc	Computer - Peripheral Equipment	31.72	0.00 %	-24.41 %	-31.97 %	-0.85 %	0.72 %	-14.29 %	1,565.47	23.77	2.29	19.13 %	10.40 %	May 02,2018	D	D	B	D	1.15 %	3.43	
-OSK	Oshkosh Corporation	Automotive - Original Equipment	70.81	1.35 %	-4.71 %	-7.35 %	8.17 %	5.31 %	42.59 %	5,251.93	12.33	0.68	35.53 %	18.25 %	May 02,2018	A	C	C	B	-1.54 %	0.70	
-BPOP	Popular, Inc.	Banks - Southeast	46.47	2.12 %	2.13 %	9.98 %	10.01 %	4.92 %	12.66 %	4,808.89	10.98	NA	60.07 %	NA	May 02,2018	F	F	B	F	1.66 %	2.21	
-SIX	Six Flags Entertainment Corporation New	Leisure and Recreation Services	63.48	4.97 %	6.09 %	2.92 %	4.49 %	5.38 %	6.33 %	5,243.23	22.08	NA	33.33 %	NA	May 02,2018	F	F	B	F	-0.76 %	3.78	
-SKYW	SkyWest, Inc.	Transportation - Airline	58.25	0.69 %	5.14 %	6.39 %	5.70 %	2.48 %	22.62 %	3,041.23	12.57	NA	35.28 %	NA	May 02,2018	B	B	C	B	2.46 %	0.94	
-SP	SP Plus Corporation	Conusmer Services - Miscellaneous	35.95	0.00 %	-2.18 %	0.42 %	0.00 %	0.00 %	0.00 %	813.79	16.27	1.63	30.00 %	10.00 %	May 02,2018	A	B	D	A	2.28 %	0.50	
-SNHY	Sun Hydraulics Corporation	Manufacturing - General Industrial 	48.43	0.74 %	-6.55 %	-7.40 %	12.37 %	20.44 %	12.50 %	1,528.82	22.83	NA	32.50 %	NA	May 02,2018	F	C	D	D	-0.35 %	4.46	
-SIVB	SVB Financial Group	Banks - West	306.01	0.00 %	18.58 %	29.16 %	13.81 %	15.51 %	15.97 %	16,155.70	19.20	1.75	60.54 %	11.00 %	May 02,2018	F	B	A	C	1.95 %	7.44	
+KMPR	Kemper Corporation	Insurance - Multi line	69.10	1.39 %	16.34 %	20.30 %	11.10 %	5.21 %	59.42 %	3,558.61	16.69	NA	152.44 %	NA	May 02,2018	C	B	B	B	-0.14 %	1.29	
+LW	Lamb Weston Holdings Inc.	Food - Miscellaneous	64.14	1.19 %	-2.60 %	7.93 %	3.79 %	3.76 %	13.75 %	9,378.81	24.65	2.05	12.07 %	12.04 %	May 02,2018	C	B	C	C	-1.28 %	2.81	
+MKL	Markel Corporation	Insurance - Property and Casualty	NA	0.00 %	-0.39 %	-1.94 %	8.98 %	1.89 %	30.77 %	15,741.27	29.45	NA	962.98 %	NA	May 02,2018	F	C	C	D	-0.74 %	2.53	
+MRCY	Mercury Systems Inc	Computer - Peripheral Equipment	31.72	0.00 %	-9.14 %	-34.29 %	-0.85 %	0.72 %	-14.29 %	1,530.26	23.24	2.23	19.13 %	10.40 %	May 02,2018	D	D	B	D	-2.25 %	3.36	
+OSK	Oshkosh Corporation	Automotive - Original Equipment	70.81	1.36 %	-4.86 %	-8.92 %	8.17 %	5.31 %	42.59 %	5,232.71	12.29	0.67	35.53 %	18.25 %	May 02,2018	A	C	C	B	-0.37 %	0.70	
+BPOP	Popular, Inc.	Banks - Southeast	46.47	2.15 %	-1.25 %	8.30 %	10.01 %	4.92 %	12.66 %	4,748.60	10.85	NA	60.07 %	NA	May 02,2018	F	F	B	F	-1.25 %	2.18	
+SIX	Six Flags Entertainment Corporation New	Leisure and Recreation Services	63.48	4.91 %	-1.09 %	3.14 %	4.49 %	5.38 %	6.33 %	5,303.38	22.33	NA	33.33 %	NA	May 02,2018	F	F	B	F	1.15 %	3.82	
+SKYW	SkyWest, Inc.	Transportation - Airline	58.25	0.69 %	6.01 %	5.05 %	5.70 %	2.48 %	22.62 %	3,038.62	12.56	NA	35.28 %	NA	May 02,2018	B	B	C	B	-0.09 %	0.94	
+SP	SP Plus Corporation	Conusmer Services - Miscellaneous	35.95	0.00 %	-2.44 %	-0.14 %	0.00 %	0.00 %	2.63 %	813.79	16.27	1.63	30.00 %	10.00 %	May 02,2018	A	B	D	A	0.00 %	0.52	
+SNHY	Sun Hydraulics Corporation	Manufacturing - General Industrial 	48.43	0.74 %	-5.91 %	-7.58 %	12.37 %	20.44 %	12.50 %	1,529.77	22.84	NA	32.50 %	NA	May 02,2018	F	C	D	D	0.06 %	4.46	
+SIVB	SVB Financial Group	Banks - West	306.01	0.00 %	18.80 %	27.08 %	13.81 %	15.51 %	15.97 %	16,184.79	19.24	1.75	60.54 %	11.00 %	May 02,2018	F	B	A	C	0.18 %	7.45	
 SWTUY	SWEDISH ORPHAN	Medical - Biomedical and Genetics	20.24	0.00 %	9.43 %	16.28 %	12.35 %	21.78 %	NA	5,516.73	22.25	1.71	NA	13.00 %	May 02,2018	C	B	B	B	0.00 %	NA	
-TCRD	THL Credit, Inc.	Financial - SBIC & Commercial Industry	7.83	13.78 %	0.13 %	0.13 %	0.00 %	0.00 %	-12.90 %	256.16	6.75	6.75	-4.13 %	1.00 %	May 02,2018	B	F	F	D	-0.88 %	3.25	
-CLUB	Town Sports International Holdings, Inc.	Leisure and Recreation Services	10.00	0.00 %	6.11 %	19.38 %	25.00 %	37.50 %	157.14 %	259.81	NA	NA	-82.35 %	NA	May 02,2018	C	D	A	C	2.69 %	0.63	
-VLPNY	Voestalpine AG	Steel - Speciality	10.45	1.50 %	-2.42 %	3.73 %	6.42 %	NA	NA	9,434.67	9.22	NA	61.29 %	NA	May 02,2018	A	D	A	B	-0.42 %	0.66	
-AU	AngloGold Ashanti Limited	Mining - Gold	9.16	0.51 %	-0.99 %	-4.85 %	6.25 %	31.36 %	NA	3,696.53	7.59	NA	1,883.33 %	NA	May 01,2018	A	D	A	B	0.56 %	NA	
-AIT	Applied Industrial Technologies, Inc.	Manufacturing - General Industrial 	65.05	1.86 %	-8.63 %	-8.69 %	6.50 %	4.95 %	23.53 %	2,499.78	17.14	1.43	32.75 %	12.00 %	May 01,2018	B	D	A	B	1.02 %	0.87	
-ASB	Associated Banc-Corp	Banks - Midwest	26.35	2.26 %	-0.38 %	7.51 %	8.41 %	6.08 %	21.95 %	4,526.06	13.80	1.97	26.32 %	7.00 %	May 01,2018	B	D	A	C	0.19 %	3.52	
-SAM	The Boston Beer Company, Inc.	Beverages - Alcohol	227.85	0.00 %	3.12 %	15.77 %	9.73 %	11.32 %	44.74 %	2,661.98	30.53	3.21	22.63 %	9.50 %	May 01,2018	F	F	F	F	0.38 %	2.88	
-CABO	Cable One, Inc.	Cable Television	620.14	1.11 %	-8.17 %	-5.66 %	0.00 %	0.00 %	-1.53 %	3,628.54	22.90	7.63	27.90 %	3.00 %	May 01,2018	D	B	B	C	-0.35 %	3.78	
-CNQ	Canadian Natural Resources Limited	Oil and Gas - Exploration and Production - Canadian	36.07	2.92 %	0.34 %	10.87 %	12.77 %	11.78 %	-6.25 %	43,899.55	15.48	2.81	151.09 %	5.50 %	May 01,2018	D	F	C	F	-0.75 %	3.41	
-SNP	China Petroleum & Chemical Corporation	Oil and Gas - Integrated - Emerging Markets	97.18	3.67 %	0.26 %	6.03 %	19.78 %	41.95 %	-13.95 %	117,257.46	11.15	3.04	56.01 %	3.67 %	May 01,2018	A	B	B	A	-0.71 %	NA	
-CTXS	Citrix Systems, Inc.	Computer - Software	104.41	0.00 %	8.40 %	13.98 %	7.80 %	4.96 %	22.86 %	14,363.36	19.77	2.18	9.28 %	9.05 %	May 01,2018	D	B	B	B	1.75 %	5.02	
-FIX	Comfort Systems USA, Inc.	Building Products - Air Conditioner and Heating	42.00	0.71 %	0.72 %	1.69 %	4.82 %	3.10 %	41.94 %	1,558.62	16.80	1.68	43.68 %	10.00 %	May 01,2018	C	D	D	D	-0.47 %	0.83	
-CRAI	CRA International,Inc.	Consulting Services	55.89	1.20 %	-1.93 %	4.97 %	6.98 %	3.85 %	44.00 %	461.20	24.72	NA	20.42 %	NA	May 01,2018	A	A	A	A	0.69 %	1.21	
-DVMT	Dell Technologies Inc.	Computers - IT Services	70.70	0.00 %	-1.41 %	-1.94 %	0.00 %	0.00 %	44.85 %	54,941.93	12.41	1.37	-6.65 %	9.05 %	May 01,2018	C	A	A	B	-0.50 %	0.70	
-DCO	Ducommun Incorporated	Aerospace - Defense Equipment	28.52	0.00 %	-7.97 %	-5.22 %	0.00 %	0.00 %	220.59 %	319.47	17.13	NA	24.06 %	NA	May 01,2018	A	B	C	A	-3.16 %	0.57	
-EIG	Employers Holdings Inc	Insurance - Accident and Health	40.35	1.95 %	0.24 %	0.37 %	15.56 %	0.00 %	76.00 %	1,344.72	15.79	NA	-10.03 %	NA	May 01,2018	D	B	D	D	0.37 %	1.70	
-FCN	FTI Consulting, Inc.	Consulting Services	57.40	0.00 %	16.29 %	19.99 %	4.88 %	4.58 %	60.00 %	2,221.58	22.20	NA	14.22 %	NA	May 01,2018	D	F	D	F	0.72 %	1.19	
-GGG	Graco Inc.	Manufacturing - General Industrial 	44.09	1.19 %	-0.98 %	-1.92 %	5.94 %	4.81 %	17.07 %	7,435.00	23.50	2.27	32.17 %	10.33 %	May 01,2018	F	A	D	C	0.84 %	4.83	
-HSII	Heidrick & Struggles International, Inc.	Staffing Firms	37.80	1.39 %	-1.19 %	19.81 %	17.13 %	14.06 %	65.62 %	709.63	20.76	1.54	66.06 %	13.50 %	May 01,2018	F	D	B	F	-0.40 %	1.07	
-KBCSY	KBC Group SA	Banks - Foreign	43.76	2.31 %	-3.07 %	0.28 %	0.00 %	0.00 %	NA	36,242.13	11.64	NA	9.09 %	NA	May 01,2018	F	F	D	F	-0.39 %	3.18	
-LAZ	Lazard Ltd	Financial - Investment Management	53.26	2.98 %	5.70 %	7.14 %	9.11 %	5.30 %	18.87 %	7,144.92	12.66	1.41	15.08 %	8.98 %	May 01,2018	C	B	B	B	1.18 %	2.53	
-MTCH	Match Group, Inc.	Internet - Services	34.58	0.00 %	-18.89 %	-12.95 %	0.00 %	0.00 %	-6.45 %	10,070.65	29.69	2.38	65.33 %	12.50 %	May 01,2018	F	C	C	D	-22.09 %	7.57	
-NYT	The New York Times Company	Publishing - Newspapers	23.03	0.70 %	3.06 %	-1.38 %	1.68 %	3.24 %	30.00 %	3,779.32	25.20	1.94	13.75 %	13.00 %	May 01,2018	D	F	A	F	-2.22 %	2.26	
-PENN	Penn National Gaming, Inc.	Gaming	30.57	0.00 %	14.45 %	19.73 %	4.87 %	6.67 %	23.08 %	2,807.40	19.73	NA	-82.74 %	NA	May 01,2018	B	A	B	A	0.89 %	0.88	
-RMR	The RMR Group Inc.	Real Estate - Operations	78.05	1.32 %	1.54 %	5.85 %	0.00 %	3.72 %	22.45 %	2,368.31	12.06	NA	66.23 %	NA	May 01,2018	F	C	F	D	2.15 %	6.15	
-RUSHA	Rush Enterprises, Inc.	Automotive - Retail and Whole Sales	41.15	0.00 %	0.90 %	0.78 %	5.54 %	1.58 %	48.94 %	1,649.48	13.76	0.92	31.44 %	15.00 %	May 01,2018	A	B	C	A	1.42 %	0.34	
-SEAS	SeaWorld Entertainment, Inc.	Leisure and Recreation Services	16.41	0.00 %	3.41 %	6.32 %	0.00 %	0.00 %	-33.33 %	1,369.85	43.92	NA	66.67 %	NA	May 01,2018	C	D	A	D	2.52 %	1.08	
-SLAB	Silicon Laboratories, Inc.	Semiconductor - Analog and Mixed	96.25	0.00 %	7.30 %	8.09 %	4.50 %	5.97 %	14.47 %	4,128.57	26.51	1.77	10.77 %	15.00 %	May 01,2018	F	D	F	F	2.80 %	5.19	
-SMGZY	Smiths Group PLC	Technology Services	22.39	1.63 %	-1.19 %	4.68 %	-0.25 %	0.00 %	NA	8,860.89	16.63	2.28	9.76 %	7.30 %	May 01,2018	B	B	F	B	0.36 %	NA	
-SMLP	Summit Midstream Partners, LP	Oil and Gas - Production Pipeline - MLB	14.60	15.08 %	0.66 %	11.31 %	-28.47 %	-2.40 %	19.05 %	1,137.27	29.61	NA	-68.29 %	NA	May 01,2018	C	C	F	D	0.00 %	2.33	
-TLRD	Tailored Brands, Inc.	Textile - Apparel	30.83	2.36 %	3.91 %	16.47 %	0.82 %	1.28 %	100.00 %	1,504.38	12.37	0.75	12.27 %	16.50 %	May 01,2018	B	A	C	A	-3.17 %	0.46	
-TKR	Timken Company (The)	Metal Products - Procurement and Fabrication	45.45	2.43 %	1.83 %	-0.22 %	0.00 %	0.00 %	20.24 %	3,458.00	12.45	1.08	35.74 %	11.56 %	May 01,2018	A	C	A	A	3.86 %	1.09	
-VST	Vistra Energy Corp.	Utility - Electric Power	23.00	0.00 %	2.56 %	9.96 %	31.42 %	27.02 %	333.33 %	9,790.03	15.76	1.01	51.04 %	15.66 %	May 01,2018	C	C	D	C	0.00 %	1.80	
-WLK	Westlake Chemical Corporation	Chemical - Plastic	108.12	0.79 %	-1.43 %	-2.86 %	1.54 %	1.34 %	-4.14 %	13,789.68	12.51	1.03	55.76 %	12.18 %	May 01,2018	A	A	A	A	-0.39 %	1.71	
-ECHO	Echo Global Logistics, Inc.	Transportation - Services	26.05	0.00 %	-4.51 %	-9.11 %	11.11 %	9.49 %	42.86 %	750.40	18.89	1.08	62.79 %	17.50 %	Apr 28,2018	B	A	A	A	-3.11 %	0.36	
-SRCE	1st Source Corporation	Banks - Midwest	52.82	1.68 %	-2.69 %	2.82 %	0.30 %	2.66 %	-9.88 %	1,360.57	15.58	1.56	34.80 %	10.00 %	Apr 28,2018	C	F	F	F	0.81 %	4.23	
-HOCPY	Hoya Corp.	Electronics - Miscellaneous Products	53.94	0.36 %	1.00 %	8.85 %	6.42 %	6.47 %	3.23 %	20,635.71	19.18	1.92	20.49 %	10.00 %	Apr 28,2018	C	D	A	D	0.17 %	4.37	
-ILMN	Illumina, Inc.	Medical - Biomedical and Genetics	240.50	0.00 %	1.88 %	5.68 %	5.45 %	4.57 %	40.78 %	35,719.53	50.16	2.51	21.00 %	19.98 %	Apr 28,2018	D	A	F	D	0.86 %	12.17	
-KLAC	KLA-Tencor Corporation	Semiconductor Equipment - Wafer Fabrication	102.17	2.31 %	2.78 %	-4.87 %	2.67 %	2.31 %	2.02 %	15,950.39	12.90	0.79	33.67 %	16.28 %	Apr 28,2018	A	C	C	B	0.58 %	4.08	
-LTS	Ladenburg Thalmann Financial Services Inc	Financial - Investment Bank	3.34	1.20 %	-3.76 %	7.42 %	14.29 %	0.00 %	33.33 %	667.69	NA	NA	-185.71 %	15.00 %	Apr 28,2018	D	F	C	F	0.30 %	0.53	
-LVS	Las Vegas Sands Corp.	Gaming	75.25	4.01 %	1.45 %	5.51 %	13.08 %	4.20 %	20.93 %	59,078.61	19.59	NA	25.66 %	NA	Apr 28,2018	D	A	C	C	2.09 %	4.42	
-LOB	Live Oak Bancshares, Inc.	Banks - Southeast	28.55	0.43 %	-2.09 %	1.44 %	12.00 %	12.12 %	34.78 %	994.36	20.11	NA	12.00 %	NA	Apr 28,2018	C	D	D	D	-0.35 %	3.36	
-SSNC	SS&C Technologies Holdings, Inc.	Computer - Software	48.30	0.56 %	-0.04 %	2.02 %	6.14 %	20.72 %	-1.85 %	11,900.86	20.66	1.40	25.39 %	14.75 %	Apr 28,2018	C	C	A	C	0.68 %	7.04	
-SSEZY	SSE PLC	Electronics - Power Generation	19.18	6.37 %	1.70 %	6.10 %	3.10 %	6.88 %	NA	19,409.67	11.48	9.73	7.05 %	1.18 %	Apr 28,2018	A	A	C	A	-0.93 %	NA	
-SMMF	Summit Financial Group, Inc.	Banks - Southeast	25.72	2.04 %	-5.59 %	2.29 %	4.65 %	3.18 %	17.65 %	317.99	11.34	1.42	19.05 %	8.00 %	Apr 28,2018	B	D	B	C	1.84 %	2.99	
-CDNS	Cadence Design Systems, Inc.	Computer - Software	39.97	0.00 %	0.62 %	11.10 %	3.99 %	3.52 %	5.26 %	11,372.09	24.79	2.07	16.43 %	12.00 %	Apr 27,2018	D	B	B	C	0.70 %	5.73	
-CAT	Caterpillar Inc.	Manufacturing - Construction and Mining	143.86	2.16 %	-0.01 %	-0.44 %	13.76 %	11.83 %	33.65 %	86,355.91	13.90	1.05	51.02 %	13.25 %	Apr 27,2018	B	B	D	B	0.04 %	1.78	
-CME	CME Group Inc.	Securities and Exchanges	156.38	1.79 %	-3.16 %	-2.53 %	4.96 %	2.79 %	0.54 %	53,270.25	22.94	2.18	42.98 %	10.50 %	Apr 27,2018	F	C	C	D	-0.75 %	13.93	
-CSGP	CoStar Group, Inc.	Computers - IT Services	368.30	0.00 %	-4.16 %	4.44 %	4.98 %	1.28 %	20.44 %	13,427.93	49.19	2.94	63.40 %	16.75 %	Apr 27,2018	F	C	B	D	0.63 %	13.26	
-CVRR	CVR Refining, LP	Oil and Gas - Refining and Marketing - Master Limited Partnerships	17.48	10.38 %	4.52 %	31.44 %	101.94 %	50.00 %	391.67 %	2,560.86	8.34	NA	246.67 %	NA	Apr 27,2018	B	F	A	C	0.87 %	0.45	
-BOOM	DMC Global Inc.	Industrial Services	38.90	0.21 %	29.63 %	52.17 %	52.38 %	11.30 %	122.73 %	572.70	20.05	1.00	1,100.00 %	20.00 %	Apr 27,2018	D	D	A	D	-0.52 %	2.59	
-EVR	Evercore Inc	Financial - Investment Bank	102.85	1.56 %	10.92 %	15.41 %	4.28 %	10.13 %	35.76 %	4,231.53	13.81	0.89	36.33 %	15.54 %	Apr 27,2018	B	A	F	B	1.33 %	2.36	
-MMI	Marcus & Millichap, Inc.	Real Estate - Development	34.47	0.00 %	-2.22 %	-3.87 %	0.00 %	0.00 %	21.43 %	1,308.23	17.77	2.96	19.14 %	6.00 %	Apr 27,2018	C	B	C	B	0.41 %	1.82	
-MOMO	Momo Inc.	Internet - Software and Services	35.43	0.00 %	1.48 %	-4.59 %	0.00 %	0.00 %	8.16 %	7,088.00	15.72	NA	27.68 %	NA	Apr 27,2018	D	B	F	D	1.95 %	5.38	
+TCRD	THL Credit, Inc.	Financial - SBIC & Commercial Industry	7.83	13.79 %	0.00 %	0.51 %	0.00 %	0.00 %	-12.90 %	255.83	6.74	6.74	-4.13 %	1.00 %	May 02,2018	B	F	F	D	-0.13 %	3.25	
+CLUB	Town Sports International Holdings, Inc.	Leisure and Recreation Services	10.00	0.00 %	9.89 %	23.46 %	575.00 %	262.50 %	157.14 %	272.05	52.63	NA	-211.76 %	NA	May 02,2018	C	D	A	C	4.71 %	0.66	
+VLPNY	Voestalpine AG	Steel - Speciality	10.45	1.54 %	-4.70 %	1.31 %	6.42 %	NA	NA	9,214.24	9.01	NA	61.29 %	NA	May 02,2018	A	D	A	B	-2.34 %	0.65	
+AU	AngloGold Ashanti Limited	Mining - Gold	9.16	0.51 %	1.66 %	-1.82 %	6.25 %	31.36 %	NA	3,749.75	7.70	NA	1,883.33 %	NA	May 01,2018	A	D	A	B	1.44 %	NA	
+AIT	Applied Industrial Technologies, Inc.	Manufacturing - General Industrial 	65.05	1.84 %	-8.57 %	-9.21 %	6.50 %	4.95 %	23.53 %	2,517.20	17.25	1.44	32.75 %	12.00 %	May 01,2018	B	D	A	B	0.70 %	0.88	
+ASB	Associated Banc-Corp	Banks - Midwest	26.35	2.28 %	-0.57 %	6.25 %	8.41 %	6.08 %	21.95 %	4,500.44	13.72	1.96	26.32 %	7.00 %	May 01,2018	B	D	A	C	-0.57 %	3.50	
+SAM	The Boston Beer Company, Inc.	Beverages - Alcohol	227.85	0.00 %	4.95 %	11.39 %	9.73 %	11.32 %	44.74 %	2,695.10	30.91	3.25	22.63 %	9.50 %	May 01,2018	F	F	F	F	1.24 %	2.91	
+CABO	Cable One, Inc.	Cable Television	620.14	1.13 %	-11.02 %	-8.65 %	0.00 %	0.00 %	-1.53 %	3,555.50	22.44	7.48	27.90 %	3.00 %	May 01,2018	D	B	B	C	-2.01 %	3.70	
+CNQ	Canadian Natural Resources Limited	Oil and Gas - Exploration and Production - Canadian	36.07	2.90 %	-0.50 %	11.16 %	12.77 %	11.78 %	-6.25 %	44,229.22	15.59	2.83	151.09 %	5.50 %	May 01,2018	D	F	C	F	0.73 %	3.44	
+SNP	China Petroleum & Chemical Corporation	Oil and Gas - Integrated - Emerging Markets	97.18	3.66 %	1.60 %	6.59 %	19.78 %	41.95 %	-13.95 %	117,632.79	11.18	3.05	56.01 %	3.67 %	May 01,2018	A	B	B	A	0.32 %	NA	
+CTXS	Citrix Systems, Inc.	Computer - Software	104.41	0.00 %	8.11 %	12.64 %	7.80 %	4.96 %	22.86 %	14,322.21	19.72	2.18	9.28 %	9.05 %	May 01,2018	D	B	B	B	-0.29 %	5.01	
+FIX	Comfort Systems USA, Inc.	Building Products - Air Conditioner and Heating	42.00	0.71 %	0.84 %	2.31 %	4.82 %	3.10 %	41.94 %	1,558.62	16.80	1.68	43.68 %	10.00 %	May 01,2018	C	D	D	D	0.00 %	0.83	
+CRAI	CRA International,Inc.	Consulting Services	55.89	1.22 %	-0.82 %	3.12 %	6.98 %	3.85 %	44.00 %	453.34	24.30	NA	20.42 %	NA	May 01,2018	A	A	A	A	-1.71 %	1.19	
+DVMT	Dell Technologies Inc.	Computers - IT Services	70.70	0.00 %	-1.50 %	-3.11 %	0.00 %	0.00 %	44.85 %	54,395.66	12.28	1.36	-6.65 %	9.05 %	May 01,2018	C	A	A	B	-0.99 %	0.69	
+DCO	Ducommun Incorporated	Aerospace - Defense Equipment	28.52	0.00 %	-6.24 %	-3.81 %	0.00 %	0.00 %	220.59 %	323.89	17.36	NA	24.06 %	NA	May 01,2018	A	B	C	A	1.38 %	0.58	
+EIG	Employers Holdings Inc	Insurance - Accident and Health	40.35	1.98 %	-0.98 %	-3.47 %	15.56 %	0.00 %	76.00 %	1,321.79	15.52	NA	-10.03 %	NA	May 01,2018	D	B	D	D	-1.71 %	1.67	
+FCN	FTI Consulting, Inc.	Consulting Services	57.40	0.00 %	12.29 %	16.48 %	4.88 %	4.58 %	60.00 %	2,167.19	21.65	NA	14.22 %	NA	May 01,2018	D	F	D	F	-2.45 %	1.17	
+GGG	Graco Inc.	Manufacturing - General Industrial 	44.09	1.20 %	-0.38 %	-3.96 %	5.94 %	4.81 %	17.07 %	7,389.75	23.35	2.26	32.17 %	10.33 %	May 01,2018	F	A	D	C	-0.61 %	4.80	
+HSII	Heidrick & Struggles International, Inc.	Staffing Firms	37.80	1.38 %	0.00 %	21.54 %	17.13 %	14.06 %	65.62 %	715.30	20.92	1.55	66.06 %	13.50 %	May 01,2018	F	D	B	F	0.80 %	1.08	
+KBCSY	KBC Group SA	Banks - Foreign	43.76	2.29 %	-1.88 %	1.25 %	0.00 %	0.00 %	NA	36,635.61	11.76	NA	9.09 %	NA	May 01,2018	F	F	D	F	1.09 %	3.22	
+LAZ	Lazard Ltd	Financial - Investment Management	53.26	3.08 %	2.62 %	2.42 %	9.11 %	5.30 %	18.87 %	6,911.34	12.24	1.36	15.08 %	8.98 %	May 01,2018	C	B	B	B	-3.27 %	2.44	
+MTCH	Match Group, Inc.	Internet - Services	34.58	0.00 %	-23.73 %	-18.75 %	-0.10 %	-0.65 %	-6.45 %	9,486.33	28.00	2.24	65.33 %	12.50 %	May 01,2018	F	C	C	D	-5.80 %	7.13	
+NYT	The New York Times Company	Publishing - Newspapers	23.03	0.70 %	2.91 %	-0.86 %	1.68 %	3.24 %	30.00 %	3,790.86	25.27	1.94	13.75 %	13.00 %	May 01,2018	D	F	A	F	0.31 %	2.26	
+PENN	Penn National Gaming, Inc.	Gaming	30.57	0.00 %	16.41 %	17.53 %	4.87 %	6.67 %	23.08 %	2,806.48	19.72	NA	-82.74 %	NA	May 01,2018	B	A	B	A	-0.03 %	0.88	
+RMR	The RMR Group Inc.	Real Estate - Operations	78.05	1.28 %	5.54 %	6.84 %	0.00 %	3.72 %	22.45 %	2,432.19	12.39	NA	66.23 %	NA	May 01,2018	F	C	F	D	2.70 %	6.32	
+RUSHA	Rush Enterprises, Inc.	Automotive - Retail and Whole Sales	41.15	0.00 %	-4.77 %	1.93 %	5.54 %	1.58 %	48.94 %	1,639.13	13.67	0.91	31.44 %	15.00 %	May 01,2018	A	B	C	A	-0.63 %	0.33	
+SEAS	SeaWorld Entertainment, Inc.	Leisure and Recreation Services	16.41	0.00 %	7.19 %	9.77 %	2.21 %	0.32 %	-33.33 %	1,452.20	45.56	NA	71.43 %	NA	May 01,2018	C	D	A	D	6.01 %	1.15	
+SLAB	Silicon Laboratories, Inc.	Semiconductor - Analog and Mixed	96.25	0.00 %	1.10 %	6.83 %	4.50 %	5.97 %	14.47 %	4,160.99	26.72	1.78	10.77 %	15.00 %	May 01,2018	F	D	F	F	0.79 %	5.23	
+SMGZY	Smiths Group PLC	Technology Services	22.39	1.63 %	-1.15 %	5.27 %	-0.25 %	0.00 %	NA	8,860.89	16.63	2.28	9.76 %	7.30 %	May 01,2018	B	B	F	B	0.00 %	NA	
+SMLP	Summit Midstream Partners, LP	Oil and Gas - Production Pipeline - MLB	14.60	15.70 %	-4.25 %	5.40 %	-28.47 %	-2.40 %	19.05 %	1,092.52	28.45	NA	-68.29 %	NA	May 01,2018	C	C	F	D	-3.93 %	2.24	
+TLRD	Tailored Brands, Inc.	Textile - Apparel	30.83	2.34 %	3.32 %	12.64 %	0.82 %	1.28 %	100.00 %	1,518.16	12.48	0.76	12.27 %	16.50 %	May 01,2018	B	A	C	A	0.92 %	0.46	
+TKR	Timken Company (The)	Metal Products - Procurement and Fabrication	45.45	2.38 %	3.65 %	1.45 %	2.45 %	1.89 %	20.24 %	3,539.78	12.44	1.08	38.78 %	11.56 %	May 01,2018	A	C	A	A	2.36 %	1.11	
+VST	Vistra Energy Corp.	Utility - Electric Power	23.00	0.00 %	2.27 %	11.55 %	31.42 %	27.02 %	333.33 %	9,850.01	15.85	1.01	51.04 %	15.66 %	May 01,2018	C	C	D	C	0.61 %	1.81	
+WLK	Westlake Chemical Corporation	Chemical - Plastic	108.12	0.78 %	0.84 %	0.22 %	5.49 %	5.60 %	-4.14 %	13,970.87	12.68	1.04	55.76 %	12.18 %	May 01,2018	A	A	A	A	1.31 %	1.74	
+ECHO	Echo Global Logistics, Inc.	Transportation - Services	26.05	0.00 %	-6.63 %	-10.33 %	11.11 %	9.49 %	42.86 %	739.06	18.61	1.06	62.79 %	17.50 %	Apr 28,2018	B	A	A	A	-1.51 %	0.35	
+SRCE	1st Source Corporation	Banks - Midwest	52.82	1.67 %	-0.70 %	2.54 %	0.30 %	2.66 %	-9.88 %	1,370.95	15.70	1.57	34.80 %	10.00 %	Apr 28,2018	C	F	F	F	0.76 %	4.26	
+HOCPY	Hoya Corp.	Electronics - Miscellaneous Products	53.94	0.36 %	0.20 %	9.28 %	6.42 %	6.47 %	3.23 %	20,574.68	19.13	1.91	20.49 %	10.00 %	Apr 28,2018	C	D	A	D	-0.30 %	4.36	
+ILMN	Illumina, Inc.	Medical - Biomedical and Genetics	240.50	0.00 %	4.03 %	1.15 %	5.45 %	4.57 %	40.78 %	35,353.50	49.64	2.49	21.00 %	19.98 %	Apr 28,2018	D	A	F	D	-1.02 %	12.04	
+KLAC	KLA-Tencor Corporation	Semiconductor Equipment - Wafer Fabrication	102.17	2.31 %	3.57 %	-6.48 %	2.67 %	2.31 %	2.02 %	15,925.45	12.88	0.79	33.67 %	16.28 %	Apr 28,2018	A	C	C	B	-0.16 %	4.08	
+LTS	Ladenburg Thalmann Financial Services Inc	Financial - Investment Bank	3.34	1.20 %	-2.06 %	7.07 %	14.29 %	0.00 %	33.33 %	667.69	NA	NA	-185.71 %	15.00 %	Apr 28,2018	D	F	C	F	0.00 %	0.53	
+LVS	Las Vegas Sands Corp.	Gaming	75.25	3.99 %	4.02 %	7.44 %	13.08 %	4.20 %	20.93 %	59,386.39	19.69	NA	25.66 %	NA	Apr 28,2018	D	A	C	C	0.52 %	4.45	
+LOB	Live Oak Bancshares, Inc.	Banks - Southeast	28.55	0.42 %	0.00 %	0.18 %	12.00 %	12.12 %	34.78 %	1,008.49	20.39	NA	12.00 %	NA	Apr 28,2018	C	D	D	D	1.42 %	3.41	
+SSNC	SS&C Technologies Holdings, Inc.	Computer - Software	48.30	0.58 %	-1.75 %	-1.39 %	6.14 %	20.72 %	-1.85 %	11,498.53	19.96	1.48	25.39 %	13.50 %	Apr 28,2018	C	C	A	C	-3.38 %	6.81	
+SSEZY	SSE PLC	Electronics - Power Generation	19.18	6.35 %	1.16 %	4.92 %	3.10 %	6.88 %	NA	19,470.58	11.52	9.76	7.05 %	1.18 %	Apr 28,2018	A	A	C	A	0.31 %	NA	
+SMMF	Summit Financial Group, Inc.	Banks - Southeast	25.72	2.02 %	-2.06 %	3.21 %	4.65 %	3.18 %	17.65 %	320.61	11.43	1.43	19.05 %	8.00 %	Apr 28,2018	B	D	B	C	0.82 %	3.01	
+CDNS	Cadence Design Systems, Inc.	Computer - Software	39.97	0.00 %	1.04 %	8.97 %	3.99 %	3.52 %	5.26 %	11,267.78	24.56	2.05	16.43 %	12.00 %	Apr 27,2018	D	B	B	C	-0.92 %	5.68	
+CAT	Caterpillar Inc.	Manufacturing - Construction and Mining	143.86	2.17 %	-0.92 %	-0.91 %	13.76 %	11.83 %	33.65 %	86,021.05	13.84	1.04	51.02 %	13.25 %	Apr 27,2018	B	B	D	B	-0.39 %	1.77	
+CME	CME Group Inc.	Securities and Exchanges	156.38	1.79 %	-2.92 %	-2.56 %	4.96 %	2.79 %	0.54 %	53,229.41	22.92	2.18	42.98 %	10.50 %	Apr 27,2018	F	C	C	D	-0.08 %	13.92	
+CSGP	CoStar Group, Inc.	Computers - IT Services	368.30	0.00 %	-0.50 %	2.58 %	4.98 %	1.28 %	20.44 %	13,403.18	49.10	2.93	63.40 %	16.75 %	Apr 27,2018	F	C	B	D	-0.18 %	13.24	
+CVRR	CVR Refining, LP	Oil and Gas - Refining and Marketing - Master Limited Partnerships	17.48	10.31 %	2.65 %	27.37 %	101.94 %	50.00 %	391.67 %	2,575.62	8.39	NA	246.67 %	NA	Apr 27,2018	B	F	A	C	0.58 %	0.45	
+BOOM	DMC Global Inc.	Industrial Services	38.90	0.21 %	24.48 %	47.07 %	52.38 %	11.30 %	122.73 %	578.65	20.26	1.01	1,100.00 %	20.00 %	Apr 27,2018	D	D	A	D	1.04 %	2.62	
+EVR	Evercore Inc	Financial - Investment Bank	102.85	1.56 %	2.90 %	14.17 %	4.28 %	10.13 %	35.76 %	4,237.72	13.83	0.89	36.33 %	15.54 %	Apr 27,2018	B	A	F	B	0.15 %	2.36	
+MMI	Marcus & Millichap, Inc.	Real Estate - Development	34.47	0.00 %	0.61 %	-3.77 %	0.00 %	0.00 %	21.43 %	1,314.33	17.85	2.98	19.14 %	6.00 %	Apr 27,2018	C	B	C	B	0.47 %	1.83	
+MOMO	Momo Inc.	Internet - Software and Services	35.43	0.00 %	3.29 %	-4.63 %	0.00 %	0.00 %	8.16 %	7,058.12	15.65	NA	27.68 %	NA	Apr 27,2018	D	B	F	D	-0.42 %	5.35	
 NNCHY	Nissan Chemical Industries, Ltd.	Chemical - Diversified 	44.45	0.49 %	10.49 %	10.49 %	0.00 %	0.00 %	NA	6,711.95	22.45	1.80	17.24 %	12.50 %	Apr 27,2018	C	C	F	D	0.00 %	4.00	
-PATK	Patrick Industries, Inc.	Building Products - Miscellaneous	57.50	0.00 %	10.19 %	-3.98 %	8.03 %	8.49 %	27.66 %	1,465.00	12.83	1.01	41.82 %	12.73 %	Apr 27,2018	A	A	C	A	1.67 %	0.80	
-RS	Reliance Steel & Aluminum Co.	Metal Products - Distribution	87.30	2.29 %	-0.35 %	2.80 %	12.14 %	4.13 %	14.43 %	6,364.62	11.04	1.23	45.40 %	9.00 %	Apr 27,2018	B	F	A	C	-0.60 %	0.63	
-SAP	SAP SE	Computer - Software	111.95	0.88 %	2.97 %	7.76 %	1.55 %	3.01 %	3.45 %	137,248.47	21.27	2.95	4.58 %	7.21 %	Apr 27,2018	D	C	C	C	0.80 %	5.01	
-TXN	Texas Instruments Incorporated	Semiconductor - General	102.96	2.40 %	5.06 %	1.19 %	9.42 %	5.99 %	9.01 %	101,723.63	19.03	1.98	26.87 %	9.60 %	Apr 27,2018	D	B	C	C	1.94 %	6.63	
-WRD	Wildhorse Resource Development Corporation	Oil and Gas - Exploration and Production - United States	26.46	0.00 %	4.31 %	41.18 %	11.72 %	21.18 %	0.00 %	2,622.36	15.54	0.31	288.37 %	50.00 %	Apr 27,2018	C	B	B	B	-0.88 %	6.14	
-MSA	MSA Safety Incorporporated	Security and Safety Services	86.90	1.60 %	-0.85 %	5.23 %	6.12 %	4.88 %	21.69 %	3,344.06	19.37	NA	23.56 %	NA	Apr 26,2018	D	B	B	C	0.51 %	2.66	
-RCKY	Rocky Brands, Inc.	Shoes and Retail Apparel 	26.50	1.74 %	20.71 %	20.14 %	7.14 %	6.45 %	76.00 %	187.76	16.90	NA	29.31 %	NA	Apr 26,2018	B	A	F	B	6.29 %	0.75	
-TNC	Tennant Company	Manufacturing - General Industrial 	73.80	1.14 %	-1.34 %	7.94 %	6.60 %	0.00 %	80.00 %	1,313.38	36.36	3.64	31.17 %	10.00 %	Apr 26,2018	F	D	F	F	-0.74 %	1.21	
-USAP	Universal Stainless & Alloy Products, Inc.	Steel - Producers	28.77	0.00 %	-1.62 %	2.36 %	6.67 %	0.00 %	21.74 %	207.94	22.36	NA	NA	NA	Apr 26,2018	D	F	D	F	-2.45 %	1.04	
-VIRT	Virtu Financial, Inc.	Financial - Miscellaneous Services	36.25	2.66 %	2.56 %	7.61 %	27.67 %	16.84 %	69.23 %	6,784.18	17.76	NA	256.14 %	NA	Apr 26,2018	F	D	C	F	0.14 %	6.63	
-WDFC	WD-40 Company	Consumer Products - Staples	131.15	1.64 %	0.73 %	0.96 %	3.81 %	5.83 %	10.53 %	1,835.63	32.30	3.23	9.95 %	10.00 %	Apr 26,2018	D	D	F	F	0.04 %	4.66	
-BMTC	Bryn Mawr Bank Corporation	Banks - Northeast	45.10	1.97 %	-3.46 %	2.06 %	1.79 %	2.66 %	34.29 %	904.87	14.29	NA	29.34 %	NA	Apr 25,2018	D	F	A	F	0.11 %	4.35	
-GXP	Great Plains Energy Inc	Utility - Electric Power	32.33	3.37 %	2.83 %	3.58 %	42.42 %	55.84 %	0.00 %	7,047.89	13.90	3.37	35.06 %	4.12 %	Apr 25,2018	C	D	F	D	-0.21 %	2.60	
-PTC	PTC Inc.	Computer - Software	83.51	0.00 %	-0.44 %	6.81 %	1.94 %	3.71 %	9.68 %	9,631.84	60.02	1.57	17.95 %	38.22 %	Apr 25,2018	F	B	C	C	0.58 %	7.95	
-STX	Seagate Technology PLC	Computer- Storage Devices	54.70	4.65 %	-6.97 %	-7.02 %	4.55 %	4.90 %	7.35 %	15,440.49	10.65	0.68	23.54 %	15.60 %	Apr 25,2018	A	B	A	A	-6.36 %	1.44	
-CCK	Crown Holdings, Inc.	Containers - Metal and Glass	47.44	0.00 %	-1.71 %	-4.72 %	24.10 %	25.86 %	17.50 %	6,484.45	8.81	1.26	35.98 %	7.00 %	Apr 24,2018	A	D	A	A	-3.13 %	0.72	
-FFKT	Farmers Capital Bank Corporation	Banks - Southeast	50.60	0.99 %	0.70 %	25.16 %	5.84 %	6.38 %	17.19 %	379.75	17.41	NA	21.85 %	NA	Apr 24,2018	D	C	D	D	0.70 %	4.67	
-GWW	W.W. Grainger, Inc.	Industrial Services	280.89	1.82 %	0.85 %	-0.68 %	6.91 %	5.03 %	22.58 %	15,793.49	19.19	1.59	28.18 %	12.07 %	Apr 24,2018	C	C	D	C	0.21 %	1.48	
-NRG	NRG Energy, Inc.	Utility - Electric Power	30.47	0.39 %	-1.10 %	0.59 %	3.34 %	4.93 %	737.50 %	9,735.60	8.74	NA	222.02 %	NA	Apr 24,2018	A	D	A	B	-1.13 %	0.88	
-TX	Ternium S.A.	Steel - Producers	39.68	2.47 %	6.94 %	23.22 %	42.31 %	24.51 %	38.52 %	8,129.22	8.12	NA	10.86 %	NA	Apr 24,2018	A	D	F	B	2.22 %	0.78	
-ETFC	E*TRADE Financial Corporation	Financial - Investment Bank	60.87	0.00 %	2.59 %	10.64 %	10.98 %	9.02 %	11.39 %	16,184.52	16.84	1.01	65.30 %	16.62 %	Apr 21,2018	C	D	C	C	0.59 %	6.42	
-SIM	Grupo Simec, S.A. de C.V.	Steel - Producers	9.73	0.00 %	-6.20 %	2.03 %	39.44 %	16.30 %	NA	1,581.06	9.63	NA	160.53 %	NA	Apr 21,2018	A	A	D	A	-1.38 %	NA	
-ISRG	Intuitive Surgical, Inc.	Medical - Instruments	449.01	0.00 %	2.54 %	10.93 %	6.72 %	6.57 %	22.61 %	50,705.22	44.20	3.65	12.68 %	12.10 %	Apr 21,2018	D	C	D	D	1.54 %	15.35	
-IRS	IRSA Inversiones Y Representaciones S.A.	Real Estate - Development	21.80	6.03 %	-7.61 %	-7.15 %	226.90 %	30.59 %	NA	1,298.93	4.77	NA	137.00 %	NA	Apr 21,2018	A	B	A	A	-1.57 %	0.27	
-ORRF	Orrstown Financial Services Inc	Banks - Northeast	26.10	1.98 %	0.19 %	9.60 %	10.71 %	4.32 %	46.67 %	220.82	16.93	NA	19.23 %	NA	Apr 21,2018	C	C	B	C	-0.38 %	2.94	
-CE	Celanese Corporation	Chemical - Diversified 	107.08	2.05 %	-3.60 %	7.32 %	7.60 %	6.82 %	18.22 %	14,321.83	11.41	1.28	23.04 %	8.93 %	Apr 20,2018	B	D	B	C	-2.99 %	2.20	
-GS	The Goldman Sachs Group, Inc.	Financial - Investment Bank	234.05	1.27 %	-2.40 %	-5.55 %	6.62 %	2.23 %	22.57 %	89,907.85	10.17	0.82	17.76 %	12.47 %	Apr 20,2018	B	F	C	F	-0.70 %	2.64	
-IBKR	Interactive Brokers Group, Inc.	Financial - Investment Bank	73.57	0.54 %	1.76 %	9.44 %	5.40 %	0.53 %	12.50 %	30,486.98	33.46	1.75	44.44 %	19.10 %	Apr 20,2018	D	F	F	F	-0.20 %	14.25	
-NICE	Nice Ltd.	Internet - Software	97.44	0.00 %	1.64 %	4.48 %	0.00 %	0.35 %	2.27 %	5,813.98	21.05	1.68	12.20 %	12.50 %	Apr 20,2018	F	C	F	F	1.75 %	4.36	
-NTRS	Northern Trust Corporation	Banks - Major Regional	104.56	1.59 %	-1.06 %	1.92 %	5.14 %	2.93 %	13.38 %	23,891.37	16.34	1.40	34.16 %	11.66 %	Apr 20,2018	F	D	B	F	-0.79 %	4.00	
-ATEYY	Advantest Corp.	Electronics - Measuring Instruments	24.83	0.22 %	15.85 %	15.12 %	62.23 %	72.17 %	NA	4,166.60	15.58	1.01	23.08 %	15.50 %	Apr 19,2018	B	B	A	A	0.00 %	2.73	
-AHCHY	Anhui Conch Cement Co.	Building Products - Concrete and Aggregates	31.10	0.92 %	3.64 %	5.20 %	31.22 %	27.55 %	NA	8,148.49	12.64	NA	NA	NA	Apr 19,2018	A	C	A	A	-1.26 %	NA	
-FDEF	First Defiance Financial Corp.	Financial - Savings and Loan	60.98	1.99 %	-1.53 %	3.15 %	5.28 %	2.92 %	17.35 %	613.99	14.07	NA	22.22 %	NA	Apr 19,2018	C	C	F	D	1.07 %	4.01	
-LRCX	Lam Research Corporation	Semiconductor Equipment - Wafer Fabrication	189.52	1.05 %	2.46 %	-3.83 %	4.69 %	6.09 %	9.86 %	31,232.56	10.85	0.61	75.75 %	17.70 %	Apr 19,2018	A	A	D	A	2.88 %	3.03	
-NTAP	NetApp, Inc.	Computer- Storage Devices	67.40	1.18 %	0.00 %	11.91 %	6.15 %	12.84 %	10.00 %	18,178.55	17.09	1.65	25.64 %	10.34 %	Apr 19,2018	C	B	F	B	1.91 %	3.16	
-BZUN	Baozun Inc.	Computers - IT Services	46.53	0.00 %	4.17 %	5.91 %	10.89 %	NA	-12.50 %	2,588.78	41.74	NA	NA	NA	Apr 17,2018	F	F	D	F	1.65 %	4.16	
-IIPR	Innovative Industrial Properties, Inc.	REIT and Equity Trust - Other	34.36	2.92 %	4.55 %	18.88 %	4.55 %	1.16 %	NA	217.96	24.83	NA	105.97 %	NA	Apr 17,2018	F	B	C	D	0.35 %	33.77	
-NVTA	Invitae Corporation	Medical Info Systems	5.49	0.00 %	-2.99 %	8.25 %	2.11 %	0.37 %	-27.87 %	291.73	NA	NA	-15.85 %	NA	Apr 17,2018	F	F	F	F	-0.36 %	4.28	
-KS	KapStone Paper and Packaging Corporation	Paper and Related Products	34.27	1.16 %	-0.12 %	-0.46 %	9.37 %	24.41 %	22.86 %	3,364.95	16.85	1.20	54.55 %	14.03 %	Apr 17,2018	C	F	F	F	-0.03 %	1.00	
-MOH	Molina Healthcare, Inc	Medical - HMOs	82.87	0.00 %	-2.69 %	3.31 %	9.24 %	3.52 %	111.11 %	5,083.46	20.78	1.36	608.93 %	15.33 %	Apr 17,2018	D	F	A	D	-1.01 %	0.26	
-NINE	Nine Energy Service, Inc.	Oil and Gas - Field Services	30.55	0.00 %	1.82 %	16.50 %	9.26 %	11.06 %	6.25 %	702.26	18.67	0.24	-164.54 %	77.38 %	Apr 17,2018	A	C	F	B	-0.82 %	NA	
-HCC	Warrior Met Coal Inc.	Coal	24.00	0.86 %	1.40 %	-18.17 %	8.15 %	5.91 %	16.00 %	1,235.67	3.04	NA	-3.30 %	NA	Apr 17,2018	B	C	B	B	-0.26 %	1.06	
-BKE	Buckle, Inc. (The)	Retail - Apparel and Shoes	22.93	4.41 %	2.48 %	2.25 %	2.31 %	2.88 %	16.00 %	1,108.70	12.82	NA	-4.32 %	NA	Apr 14,2018	A	B	F	B	-1.52 %	1.21	
-CBSH	Commerce Bancshares, Inc.	Banks - Midwest	63.60	1.47 %	-0.65 %	7.52 %	7.28 %	5.17 %	15.00 %	6,802.20	17.72	2.23	29.96 %	7.94 %	Apr 14,2018	D	C	B	C	0.44 %	5.30	
-MSG	The Madison Square Garden Company	Leisure and Recreation Services	238.14	0.00 %	-1.08 %	-1.18 %	8.08 %	29.57 %	70.59 %	5,627.29	223.28	NA	-196.40 %	NA	Apr 14,2018	D	B	B	C	-1.69 %	3.82	
-SOI	Solaris Oilfield Infrastructure, Inc.	Oil and Gas - Field Services	18.64	0.00 %	0.16 %	7.81 %	1.46 %	-1.85 %	5.26 %	839.12	10.46	0.26	262.50 %	40.00 %	Apr 14,2018	B	B	F	C	-3.09 %	12.45	
-CALM	Cal-Maine Foods, Inc.	Agriculture - Products	46.80	0.00 %	-4.42 %	3.48 %	0.00 %	0.00 %	10.00 %	2,312.45	23.19	NA	-233.12 %	NA	Apr 13,2018	F	C	B	D	-2.36 %	1.73	
-PJT	PJT Partners Inc.	Financial - Miscellaneous Services	53.00	0.36 %	1.28 %	8.79 %	9.74 %	2.24 %	17.91 %	1,043.51	23.39	NA	53.90 %	NA	Apr 13,2018	D	A	F	D	-0.31 %	2.09	
-BTE	Baytex Energy Corp	Oil and Gas - Exploration and Production - Canadian	4.50	0.00 %	12.72 %	64.36 %	3.33 %	51.43 %	27.27 %	1,069.33	NA	NA	2,100.00 %	NA	Apr 12,2018	B	D	F	C	1.12 %	1.08	
-STDY	SteadyMed Ltd.	Medical - Drugs	4.60	0.00 %	79.25 %	58.33 %	58.47 %	108.54 %	53.19 %	126.22	NA	NA	76.74 %	NA	Apr 11,2018	F	F	B	F	1.06 %	118.52	
-MT	ArcelorMittal	Steel - Producers	33.71	0.00 %	-4.27 %	4.97 %	3.34 %	8.90 %	12.50 %	33,830.61	8.47	NA	-26.59 %	NA	Apr 10,2018	A	A	B	A	-1.98 %	0.49	
-AAXN	Axon Enterprise, Inc	Security and Safety Services	41.99	0.00 %	-3.01 %	-2.10 %	0.00 %	0.00 %	700.00 %	2,212.77	107.54	4.30	-13.33 %	25.00 %	Apr 10,2018	F	C	C	D	-1.12 %	6.76	
-BB	BlackBerry Limited	Wireless Non-US 	10.85	0.00 %	1.25 %	0.86 %	33.33 %	70.00 %	200.00 %	5,651.81	263.25	14.18	-71.43 %	18.56 %	Apr 10,2018	F	F	C	F	0.57 %	6.06	
-IAC	IAC/InterActiveCorp	Internet - Commerce	130.63	0.00 %	-15.34 %	-11.81 %	0.00 %	0.02 %	27.27 %	11,020.79	22.24	2.67	100.67 %	8.33 %	Apr 10,2018	F	D	C	F	-17.77 %	3.33	
-STLD	Steel Dynamics, Inc.	Steel - Producers	44.70	1.70 %	-3.54 %	0.14 %	12.30 %	9.73 %	5.49 %	10,420.21	9.46	0.79	76.23 %	12.00 %	Apr 10,2018	A	D	A	B	-1.54 %	1.07	
-TOCA	TOCAGEN INC	Medical - Biomedical and Genetics	9.54	0.00 %	-9.39 %	-19.49 %	0.00 %	0.00 %	-3.77 %	182.59	NA	NA	-13.53 %	NA	Apr 10,2018	F	F	A	F	-0.86 %	4,453.49	
-TWTR	Twitter, Inc.	Internet - Software	30.55	0.00 %	-0.56 %	10.02 %	21.58 %	22.20 %	33.33 %	22,752.41	41.83	1.81	63.64 %	23.10 %	Apr 10,2018	F	A	C	C	-0.03 %	8.89	
-UNFI	United Natural Foods, Inc.	Food - Miscellaneous	44.68	0.00 %	-0.02 %	5.03 %	0.00 %	0.00 %	33.96 %	2,252.78	14.45	1.76	20.23 %	8.20 %	Apr 10,2018	A	B	F	A	-0.73 %	0.23	
-CMTL	Comtech Telecommunications Corp.	Wireless Equipment	30.10	1.32 %	-1.84 %	-0.07 %	0.00 %	0.00 %	200.00 %	717.82	26.89	5.38	232.35 %	5.00 %	Apr 07,2018	B	C	B	B	-0.65 %	1.35	
-SUPV	Grupo Supervielle S.A.	Banks - Foreign	25.11	0.19 %	-7.12 %	-15.57 %	0.00 %	0.00 %	3.92 %	1,917.23	10.98	0.45	27.66 %	24.61 %	Apr 07,2018	A	D	D	B	-5.69 %	1.38	
-HDS	HD Supply Holdings, Inc.	Industrial Services	38.45	0.00 %	0.34 %	0.39 %	0.92 %	0.52 %	11.36 %	7,126.53	12.10	0.77	37.23 %	15.73 %	Apr 07,2018	B	C	C	B	-0.77 %	1.23	
-RDSMY	Koninklijke DSM NV	Chemical - Diversified 	26.00	1.60 %	-3.38 %	3.17 %	24.65 %	NA	-20.69 %	18,665.52	14.33	2.02	NA	7.10 %	Apr 07,2018	B	B	C	A	-0.35 %	1.99	
-LGND	Ligand Pharmaceuticals Incorporated	Medical - Biomedical and Genetics	154.95	0.00 %	-2.97 %	-1.15 %	5.64 %	0.00 %	23.58 %	3,328.22	35.40	1.29	35.89 %	27.50 %	Apr 07,2018	D	A	C	C	1.36 %	23.59	
-LYG	Lloyds Banking Group PLC	Banks - Foreign	3.49	6.46 %	-4.59 %	-5.61 %	0.00 %	1.04 %	NA	63,601.95	7.06	NA	-9.09 %	NA	Apr 07,2018	B	C	D	B	-1.12 %	1.84	
-PTGX	Protagonist Therapeutics, Inc.	Medical - Biomedical and Genetics	8.74	0.00 %	-0.68 %	1.62 %	0.00 %	0.00 %	58.33 %	185.99	NA	NA	-68.42 %	NA	Apr 06,2018	F	F	C	F	1.62 %	NA	
-SAIC	SCIENCE APPLICATIONS INTERNATIONAL CORPORATION	Computers - IT Services	84.81	1.44 %	-0.06 %	3.88 %	1.86 %	-3.23 %	43.21 %	3,630.23	20.08	4.02	21.25 %	5.00 %	Apr 06,2018	B	B	D	B	0.13 %	0.82	
-SHEN	Shenandoah Telecommunications Co	Diversified Communication Services	36.65	0.72 %	-5.71 %	4.01 %	17.39 %	0.00 %	180.00 %	1,800.31	67.32	NA	107.69 %	NA	Apr 06,2018	D	B	A	C	-3.71 %	2.95	
-TRCO	Tribune Media Company	Broadcast Radio and Television	35.73	2.72 %	-4.32 %	-8.97 %	0.00 %	0.00 %	62.00 %	3,215.41	18.15	9.07	43.97 %	2.00 %	Apr 06,2018	C	D	D	D	-2.75 %	1.74	
-JCAP	Jernigan Capital, Inc.	REIT and Equity Trust	19.15	7.45 %	-0.37 %	5.45 %	0.00 %	0.00 %	53.33 %	271.02	6.10	NA	135.11 %	NA	Apr 05,2018	F	F	F	F	-2.19 %	22.23	
-LMB	Limbach Holdings, Inc.	Building Products - Maintenance Service	12.84	0.00 %	8.02 %	1.35 %	6.34 %	NA	-157.14 %	96.54	11.74	0.68	395.45 %	17.33 %	Apr 05,2018	A	A	D	A	1.91 %	0.20	
-NGHC	National General Holdings Corp	Insurance - Property and Casualty	25.86	0.62 %	-0.61 %	7.46 %	1.67 %	0.52 %	33.33 %	2,772.66	11.63	NA	104.59 %	NA	Apr 05,2018	B	F	D	D	0.66 %	0.63	
-VBLT	Vascular Biogenics Ltd.	Medical - Biomedical and Genetics	2.20	0.00 %	1.14 %	-1.11 %	0.00 %	0.00 %	380.00 %	66.52	NA	NA	118.92 %	NA	Apr 05,2018	F	A	C	C	1.14 %	NA	
-ARCO	Arcos Dorados Holdings Inc.	Retail - Restaurants	9.10	1.07 %	-0.53 %	3.31 %	0.00 %	0.00 %	NA	1,973.52	24.60	1.27	-37.70 %	19.43 %	Apr 04,2018	B	A	C	A	2.75 %	0.59	
-BSTC	BioSpecifics Technologies Corp	Medical - Drugs	42.30	0.00 %	-1.13 %	-4.21 %	0.00 %	NA	30.77 %	303.02	20.84	NA	18.82 %	NA	Apr 04,2018	C	D	D	D	-0.78 %	11.04	
-MOV	Movado Group Inc.	Retail - Jewelry	38.50	2.07 %	0.78 %	2.80 %	6.94 %	0.00 %	100.00 %	885.45	17.27	NA	12.00 %	NA	Apr 04,2018	A	A	B	A	-2.15 %	1.56	
-SJI	South Jersey Industries, Inc.	Utility - Gas Distribution	30.96	3.64 %	0.42 %	8.49 %	0.89 %	1.29 %	21.95 %	2,844.07	19.45	1.57	28.46 %	12.40 %	Apr 04,2018	C	D	F	D	-0.29 %	2.29	
-KBH	KB Home	Building Products - Home Builders	26.95	0.37 %	5.45 %	-3.08 %	2.53 %	0.78 %	33.33 %	2,350.38	16.69	1.04	-12.43 %	16.03 %	Apr 03,2018	B	F	F	D	2.03 %	0.53	
-LUNA	Luna Innovations Incorporated	Technology Services	3.31	0.00 %	3.98 %	5.92 %	0.00 %	NA	100.00 %	94.97	30.91	NA	NA	NA	Apr 03,2018	D	C	F	D	3.34 %	1.84	
-TST	TheStreet, Inc.	Internet - Content	1.73	0.00 %	-2.87 %	-1.17 %	0.00 %	0.00 %	700.00 %	83.13	84.50	NA	-75.00 %	NA	Apr 03,2018	D	C	D	C	-1.74 %	1.33	
-UNF	Unifirst Corporation	Uniform and Related	160.60	0.09 %	0.00 %	1.65 %	0.00 %	0.00 %	28.97 %	3,248.27	24.12	2.41	25.76 %	10.00 %	Apr 03,2018	B	C	F	C	-0.31 %	1.97	
-INFI	Infinity Pharmaceuticals, Inc.	Medical - Drugs	2.19	0.00 %	-1.82 %	10.20 %	0.00 %	0.00 %	48.15 %	119.50	NA	NA	-10.84 %	NA	Mar 31,2018	F	F	C	F	-1.82 %	NA	
-KFY	Korn/Ferry International	Staffing Firms	53.82	0.74 %	-0.15 %	3.64 %	0.00 %	0.00 %	18.64 %	3,037.57	17.60	NA	17.41 %	NA	Mar 31,2018	C	A	F	B	0.54 %	1.74	
-MU	Micron Technology, Inc.	Semiconductor Memory	45.89	0.00 %	-0.68 %	-9.23 %	0.00 %	0.00 %	2.17 %	54,265.41	4.26	0.43	121.57 %	10.00 %	Mar 31,2018	A	A	D	A	1.76 %	2.10	
-JKS	JinkoSolar Holding Company Limited	Solar	18.18	0.00 %	-7.27 %	-5.89 %	0.00 %	0.00 %	-47.83 %	683.76	11.90	1.19	119.12 %	10.00 %	Mar 30,2018	D	F	D	F	-3.54 %	0.17	
-FCAU	Fiat Chrysler Automobiles N.V.	Automotive - Foreign	22.63	0.00 %	-7.67 %	0.55 %	4.21 %	6.26 %	17.39 %	42,703.25	5.42	0.23	48.53 %	23.70 %	Mar 28,2018	A	A	B	A	0.37 %	0.33	
-WDC	Western Digital Corporation	Computer- Storage Devices	76.77	2.51 %	-7.68 %	-12.52 %	4.82 %	3.39 %	9.67 %	23,742.33	5.45	0.29	59.30 %	19.00 %	Mar 28,2018	A	A	A	A	1.27 %	1.17	
-DXPE	DXP Enterprises, Inc.	Manufacturing - General Industrial 	36.75	0.00 %	0.47 %	-5.64 %	0.00 %	0.00 %	314.29 %	630.45	28.94	NA	46.51 %	NA	Mar 23,2018	B	F	F	D	0.06 %	0.63	
-ADES	Advanced Emissions Solutions, Inc.	Pollution Control	11.06	8.96 %	0.00 %	-2.53 %	0.00 %	0.00 %	81.82 %	229.60	5.52	NA	29.49 %	NA	Mar 15,2018	D	F	F	F	1.27 %	6.43	
-ATHM	Autohome Inc.	Internet - Services	95.04	0.00 %	1.37 %	16.36 %	0.00 %	0.00 %	5.33 %	11,520.82	25.93	0.77	42.97 %	33.48 %	Mar 13,2018	C	A	D	B	-0.05 %	12.41	
-KRO	Kronos Worldwide Inc	Chemical - Diversified 	22.74	3.02 %	-6.32 %	2.32 %	0.00 %	0.00 %	71.43 %	2,611.27	7.36	1.47	62.77 %	5.00 %	Mar 13,2018	B	C	D	B	-2.21 %	1.51	
-NVEE	NV5 Global, Inc.	Consulting Services	60.90	0.00 %	-3.92 %	4.91 %	0.00 %	0.00 %	12.70 %	645.53	19.14	0.96	28.99 %	20.00 %	Mar 13,2018	C	A	D	B	-0.17 %	1.94	
-REGI	Renewable Energy Group, Inc.	Biofuels	13.30	0.00 %	0.77 %	1.15 %	0.00 %	0.00 %	-1,566.67 %	510.94	6.41	NA	NA	NA	Mar 13,2018	A	F	F	D	1.94 %	0.24	
-ESALY	Eisai Co.	Medical - Drugs	67.85	0.78 %	3.10 %	4.81 %	0.00 %	NA	NA	20,009.38	38.12	NA	49.61 %	NA	Mar 10,2018	C	F	B	D	0.21 %	3.94	
-NCS	NCI Building Systems, Inc.	Building Products - Miscellaneous	17.70	0.00 %	2.59 %	2.29 %	0.00 %	0.00 %	55.56 %	1,180.65	13.70	1.37	62.50 %	10.00 %	Mar 10,2018	B	D	D	C	2.00 %	0.66	
-ASHTY	Ashtead Group PLC	Industrial Services	113.32	1.29 %	-5.04 %	2.77 %	2.76 %	3.78 %	29.85 %	13,874.75	12.38	0.83	34.76 %	15.00 %	Mar 09,2018	B	C	D	B	-0.73 %	3.06	
-MED	MEDIFAST INC	Food - Miscellaneous	99.38	1.98 %	-3.03 %	5.29 %	0.00 %	0.00 %	25.00 %	1,167.17	29.77	1.98	41.92 %	15.00 %	Mar 09,2018	F	B	D	D	-3.61 %	3.87	
-ALOG	Analogic Corporation	Computer - Peripheral Equipment	83.15	0.48 %	-0.06 %	-12.14 %	0.00 %	0.00 %	86.76 %	1,040.14	19.67	2.81	90.54 %	7.00 %	Mar 08,2018	C	B	C	B	0.12 %	2.21	
-HGV	Hilton Grand Vacations Inc.	Hotels and Motels	42.74	0.00 %	-1.31 %	0.66 %	0.82 %	1.63 %	1.96 %	4,266.84	15.07	NA	44.67 %	NA	Mar 06,2018	D	D	A	D	-0.02 %	2.49	
-SRI	Stoneridge, Inc.	Electronics - Miscellaneous Components	26.39	0.00 %	-3.84 %	-6.24 %	-1.75 %	-1.01 %	20.00 %	740.85	13.35	1.57	25.48 %	8.50 %	Mar 02,2018	A	A	D	A	-0.15 %	0.90	
-DQ	DAQO New Energy Corp.	Chemical - Specialty	54.26	0.00 %	-1.22 %	2.92 %	35.42 %	49.00 %	24.90 %	551.68	6.38	0.91	-9.77 %	7.00 %	Mar 01,2018	A	A	D	A	-1.69 %	1.56	
-OMAB	Grupo Aeroportuario del Centro Norte S.A.B. de C.V.	Transportation - Services	42.16	3.21 %	-1.85 %	6.76 %	11.15 %	8.93 %	-5.71 %	2,057.24	14.47	4.82	31.96 %	3.00 %	Feb 27,2018	D	C	B	C	-0.71 %	5.12	
-MLNX	Mellanox Technologies, Ltd.	Electronics - Semiconductors	79.90	0.00 %	6.13 %	7.65 %	11.21 %	8.51 %	18.07 %	4,110.17	19.38	1.29	78.51 %	15.00 %	Feb 24,2018	D	A	D	C	0.25 %	4.44	
-TSU	TIM Participacoes S.A.	Wireless Non-US 	21.77	0.37 %	-0.22 %	2.27 %	3.92 %	14.85 %	12.50 %	10,889.79	22.16	0.67	27.50 %	32.98 %	Feb 22,2018	A	A	B	A	-1.14 %	2.14	
-LPX	Louisiana-Pacific Corporation	Building Products - Wood	28.18	1.85 %	-6.29 %	-3.99 %	6.48 %	1.46 %	25.86 %	4,078.89	10.08	2.02	19.74 %	5.00 %	Feb 14,2018	A	A	A	A	-0.67 %	1.49	
-ULTI	The Ultimate Software Group, Inc.	Computer - Software	249.88	0.00 %	0.88 %	1.51 %	0.00 %	0.00 %	14.04 %	7,594.07	44.69	2.02	41.41 %	22.13 %	Feb 08,2018	F	A	B	C	1.18 %	7.68	
-BCC	Boise Cascade, L.L.C.	Building Products - Wood	41.58	0.67 %	-1.31 %	6.55 %	3.89 %	0.00 %	-3.45 %	1,601.33	15.54	2.32	39.79 %	6.70 %	Jan 26,2018	B	A	D	A	-0.24 %	0.36	
+PATK	Patrick Industries, Inc.	Building Products - Miscellaneous	57.50	0.00 %	7.18 %	-5.04 %	8.03 %	8.49 %	27.66 %	1,456.14	12.76	1.00	41.82 %	12.73 %	Apr 27,2018	A	A	C	A	-0.61 %	0.79	
+RS	Reliance Steel & Aluminum Co.	Metal Products - Distribution	87.30	2.29 %	-1.69 %	3.28 %	17.97 %	6.00 %	14.43 %	6,358.06	10.49	1.17	53.13 %	9.00 %	Apr 27,2018	B	F	A	C	-0.10 %	0.63	
+SAP	SAP SE	Computer - Software	111.95	0.88 %	2.84 %	7.19 %	1.55 %	3.01 %	3.45 %	137,567.89	21.32	2.96	4.58 %	7.21 %	Apr 27,2018	D	C	C	C	0.23 %	5.02	
+TXN	Texas Instruments Incorporated	Semiconductor - General	102.96	2.41 %	-0.04 %	-1.20 %	9.42 %	5.99 %	9.01 %	101,290.77	18.94	1.97	26.87 %	9.60 %	Apr 27,2018	D	B	C	C	-0.43 %	6.60	
+WRD	Wildhorse Resource Development Corporation	Oil and Gas - Exploration and Production - United States	26.46	0.00 %	6.09 %	41.63 %	11.72 %	21.18 %	0.00 %	2,678.00	15.87	0.32	288.37 %	50.00 %	Apr 27,2018	C	B	B	B	2.12 %	6.27	
+MSA	MSA Safety Incorporporated	Security and Safety Services	86.90	1.61 %	-1.21 %	3.91 %	6.12 %	4.88 %	21.69 %	3,328.74	19.28	NA	23.56 %	NA	Apr 26,2018	D	B	B	C	-0.46 %	2.65	
+RCKY	Rocky Brands, Inc.	Shoes and Retail Apparel 	26.50	1.66 %	11.11 %	19.10 %	7.14 %	6.45 %	76.00 %	196.28	17.67	NA	29.31 %	NA	Apr 26,2018	B	A	F	B	4.54 %	0.78	
+TNC	Tennant Company	Manufacturing - General Industrial 	73.80	1.14 %	-0.14 %	6.57 %	6.60 %	0.00 %	80.00 %	1,319.64	36.53	3.65	31.17 %	10.00 %	Apr 26,2018	F	D	F	F	0.48 %	1.22	
+USAP	Universal Stainless & Alloy Products, Inc.	Steel - Producers	28.77	0.00 %	1.70 %	1.73 %	6.67 %	0.00 %	21.74 %	209.03	22.48	NA	NA	NA	Apr 26,2018	D	F	D	F	0.52 %	1.04	
+VIRT	Virtu Financial, Inc.	Financial - Miscellaneous Services	36.25	2.65 %	2.98 %	6.15 %	27.67 %	16.84 %	69.23 %	6,821.81	17.86	NA	256.14 %	NA	Apr 26,2018	F	D	C	F	0.55 %	6.66	
+WDFC	WD-40 Company	Consumer Products - Staples	131.15	1.65 %	0.38 %	0.11 %	3.81 %	5.83 %	10.53 %	1,824.50	32.10	3.21	9.95 %	10.00 %	Apr 26,2018	D	D	F	F	-0.61 %	4.64	
+BMTC	Bryn Mawr Bank Corporation	Banks - Northeast	45.10	1.95 %	-1.74 %	1.46 %	1.79 %	2.66 %	34.29 %	913.99	14.43	NA	29.34 %	NA	Apr 25,2018	D	F	A	F	1.01 %	4.39	
+GXP	Great Plains Energy Inc	Utility - Electric Power	32.33	3.40 %	1.35 %	2.99 %	42.42 %	55.84 %	0.00 %	6,978.84	13.76	3.34	35.06 %	4.12 %	Apr 25,2018	C	D	F	D	-0.98 %	2.58	
+PTC	PTC Inc.	Computer - Software	83.51	0.00 %	1.66 %	7.15 %	1.94 %	3.71 %	9.68 %	9,710.91	60.51	1.58	17.95 %	38.22 %	Apr 25,2018	F	B	C	C	0.82 %	8.01	
+STX	Seagate Technology PLC	Computer- Storage Devices	54.70	4.61 %	-6.18 %	-7.18 %	7.52 %	8.14 %	7.35 %	15,702.30	10.45	0.67	26.94 %	15.60 %	Apr 25,2018	A	B	A	A	0.90 %	1.46	
+CCK	Crown Holdings, Inc.	Containers - Metal and Glass	47.44	0.00 %	-5.27 %	-5.54 %	23.83 %	25.86 %	17.50 %	6,371.63	8.66	1.24	35.98 %	7.00 %	Apr 24,2018	A	D	A	A	-1.74 %	0.71	
+FFKT	Farmers Capital Bank Corporation	Banks - Southeast	50.60	0.99 %	0.60 %	22.97 %	5.84 %	6.38 %	17.19 %	380.50	17.45	NA	21.85 %	NA	Apr 24,2018	D	C	D	D	0.20 %	4.68	
+GWW	W.W. Grainger, Inc.	Industrial Services	280.89	1.82 %	1.31 %	-2.62 %	6.91 %	5.03 %	22.58 %	15,735.23	19.12	1.58	28.18 %	12.07 %	Apr 24,2018	C	C	D	C	-0.37 %	1.48	
+NRG	NRG Energy, Inc.	Utility - Electric Power	30.47	0.39 %	-1.96 %	0.26 %	3.34 %	4.93 %	737.50 %	9,681.60	8.69	NA	222.02 %	NA	Apr 24,2018	A	D	A	B	-0.55 %	0.88	
+TX	Ternium S.A.	Steel - Producers	39.68	2.52 %	5.00 %	18.59 %	42.31 %	24.51 %	38.52 %	7,954.81	7.94	NA	10.86 %	NA	Apr 24,2018	A	D	F	B	-2.15 %	0.76	
+ETFC	E*TRADE Financial Corporation	Financial - Investment Bank	60.87	0.00 %	2.20 %	8.95 %	10.98 %	9.02 %	11.39 %	16,139.45	16.80	1.01	65.30 %	16.62 %	Apr 21,2018	C	D	C	C	-0.28 %	6.40	
+SIM	Grupo Simec, S.A. de C.V.	Steel - Producers	9.73	0.00 %	-1.61 %	-3.08 %	39.44 %	16.30 %	NA	1,614.39	9.83	NA	160.53 %	NA	Apr 21,2018	A	A	D	A	2.11 %	NA	
+ISRG	Intuitive Surgical, Inc.	Medical - Instruments	449.01	0.00 %	2.52 %	11.72 %	6.72 %	6.57 %	22.61 %	50,870.63	44.34	3.66	12.68 %	12.10 %	Apr 21,2018	D	C	D	D	0.33 %	15.41	
+IRS	IRSA Inversiones Y Representaciones S.A.	Real Estate - Development	21.80	6.26 %	-12.55 %	-12.65 %	226.90 %	30.59 %	NA	1,250.63	4.59	NA	137.00 %	NA	Apr 21,2018	A	B	A	A	-3.72 %	0.26	
+ORRF	Orrstown Financial Services Inc	Banks - Northeast	26.10	1.99 %	-1.51 %	8.98 %	10.71 %	4.32 %	46.67 %	219.55	16.84	NA	19.23 %	NA	Apr 21,2018	C	C	B	C	-0.57 %	2.92	
+CE	Celanese Corporation	Chemical - Diversified 	107.08	2.02 %	-2.26 %	8.33 %	7.60 %	7.36 %	18.22 %	14,547.35	11.59	1.30	23.04 %	8.93 %	Apr 20,2018	B	D	B	C	1.57 %	2.23	
+GS	The Goldman Sachs Group, Inc.	Financial - Investment Bank	234.05	1.28 %	-2.17 %	-7.35 %	6.62 %	2.23 %	22.57 %	88,912.55	10.06	0.81	17.76 %	12.47 %	Apr 20,2018	B	F	C	F	-1.11 %	2.61	
+IBKR	Interactive Brokers Group, Inc.	Financial - Investment Bank	73.57	0.54 %	2.17 %	6.48 %	5.40 %	0.53 %	12.50 %	30,289.36	33.24	1.74	44.44 %	19.10 %	Apr 20,2018	D	F	F	F	-0.65 %	14.16	
+NICE	Nice Ltd.	Internet - Software	97.44	0.00 %	3.69 %	6.49 %	0.00 %	0.35 %	2.27 %	5,850.00	21.18	1.69	12.20 %	12.50 %	Apr 20,2018	F	C	F	F	0.62 %	4.39	
+NTRS	Northern Trust Corporation	Banks - Major Regional	104.56	1.61 %	-2.12 %	-0.23 %	5.14 %	2.93 %	13.38 %	23,586.83	16.13	1.38	34.16 %	11.66 %	Apr 20,2018	F	D	B	F	-1.27 %	3.95	
+ATEYY	Advantest Corp.	Electronics - Measuring Instruments	24.83	0.21 %	21.06 %	20.30 %	62.23 %	72.17 %	NA	4,354.24	16.28	1.05	23.08 %	15.50 %	Apr 19,2018	B	B	A	A	4.50 %	2.85	
+AHCHY	Anhui Conch Cement Co.	Building Products - Concrete and Aggregates	31.10	0.92 %	6.32 %	7.32 %	31.22 %	27.55 %	NA	8,083.51	12.54	NA	NA	NA	Apr 19,2018	A	C	A	A	-0.80 %	NA	
+FDEF	First Defiance Financial Corp.	Financial - Savings and Loan	60.98	1.97 %	1.68 %	5.76 %	5.28 %	2.92 %	17.35 %	620.92	14.23	NA	22.22 %	NA	Apr 19,2018	C	C	F	D	1.13 %	4.05	
+LRCX	Lam Research Corporation	Semiconductor Equipment - Wafer Fabrication	189.52	1.06 %	1.53 %	-6.02 %	4.69 %	6.09 %	9.86 %	31,089.85	10.80	0.61	75.75 %	17.70 %	Apr 19,2018	A	A	D	A	-0.46 %	3.02	
+NTAP	NetApp, Inc.	Computer- Storage Devices	67.40	1.19 %	0.22 %	8.52 %	6.15 %	12.84 %	10.00 %	18,057.99	16.98	1.64	25.64 %	10.34 %	Apr 19,2018	C	B	F	B	-0.66 %	3.14	
+BZUN	Baozun Inc.	Computers - IT Services	46.53	0.00 %	6.87 %	4.12 %	10.89 %	NA	-12.50 %	2,576.60	41.54	NA	NA	NA	Apr 17,2018	F	F	D	F	-0.47 %	4.14	
+IIPR	Innovative Industrial Properties, Inc.	REIT and Equity Trust - Other	34.36	2.90 %	4.84 %	14.18 %	4.55 %	1.16 %	NA	219.30	24.98	NA	105.97 %	NA	Apr 17,2018	F	B	C	D	0.61 %	33.97	
+NVTA	Invitae Corporation	Medical Info Systems	5.49	0.00 %	-0.54 %	10.00 %	2.11 %	0.37 %	-27.87 %	291.20	NA	NA	-15.85 %	NA	Apr 17,2018	F	F	F	F	-0.18 %	4.27	
+KS	KapStone Paper and Packaging Corporation	Paper and Related Products	34.27	1.17 %	-0.44 %	-0.52 %	9.37 %	24.41 %	22.86 %	3,352.23	16.78	1.20	54.55 %	14.03 %	Apr 17,2018	C	F	F	F	-0.38 %	1.00	
+MOH	Molina Healthcare, Inc	Medical - HMOs	82.87	0.00 %	-0.93 %	2.68 %	23.39 %	9.47 %	111.11 %	5,112.45	18.50	1.35	700.00 %	13.67 %	Apr 17,2018	D	F	A	D	0.57 %	0.26	
+NINE	Nine Energy Service, Inc.	Oil and Gas - Field Services	30.55	0.00 %	2.07 %	20.31 %	0.00 %	0.00 %	6.25 %	709.91	18.87	0.24	-164.54 %	77.38 %	Apr 17,2018	A	C	F	B	1.09 %	NA	
+HCC	Warrior Met Coal Inc.	Coal	24.00	0.83 %	4.99 %	-16.98 %	8.15 %	5.91 %	7.89 %	1,278.83	3.14	NA	-3.30 %	NA	Apr 17,2018	B	C	B	B	3.49 %	0.96	
+BKE	Buckle, Inc. (The)	Retail - Apparel and Shoes	22.93	4.37 %	1.78 %	1.33 %	2.31 %	2.88 %	16.00 %	1,118.46	12.94	NA	-4.32 %	NA	Apr 14,2018	A	B	F	B	0.88 %	1.22	
+CBSH	Commerce Bancshares, Inc.	Banks - Midwest	63.60	1.48 %	-0.89 %	6.30 %	7.28 %	5.17 %	15.00 %	6,780.87	17.66	2.23	29.96 %	7.94 %	Apr 14,2018	D	C	B	C	-0.31 %	5.28	
+MSG	The Madison Square Garden Company	Leisure and Recreation Services	238.14	0.00 %	-1.26 %	-1.80 %	45.98 %	29.57 %	252.00 %	5,604.91	218.31	NA	-198.20 %	NA	Apr 14,2018	D	B	B	C	-0.40 %	3.62	
+SOI	Solaris Oilfield Infrastructure, Inc.	Oil and Gas - Field Services	18.64	0.00 %	4.78 %	14.35 %	-1.27 %	-1.85 %	5.26 %	858.93	10.71	0.27	262.50 %	40.00 %	Apr 14,2018	B	B	F	C	2.36 %	12.75	
+CALM	Cal-Maine Foods, Inc.	Agriculture - Products	46.80	0.00 %	-6.31 %	-2.40 %	0.00 %	0.00 %	10.00 %	2,275.98	22.83	NA	-233.12 %	NA	Apr 13,2018	F	C	B	D	-1.58 %	1.71	
+PJT	PJT Partners Inc.	Financial - Miscellaneous Services	53.00	0.38 %	-2.41 %	0.13 %	9.74 %	2.24 %	-29.03 %	999.75	22.41	NA	53.90 %	NA	Apr 13,2018	D	A	F	D	-4.19 %	1.95	
+BTE	Baytex Energy Corp	Oil and Gas - Exploration and Production - Canadian	4.50	0.00 %	4.90 %	61.29 %	3.33 %	51.43 %	27.27 %	1,064.60	NA	NA	2,100.00 %	NA	Apr 12,2018	B	D	F	C	-0.44 %	1.07	
+STDY	SteadyMed Ltd.	Medical - Drugs	4.60	0.00 %	73.58 %	61.40 %	58.47 %	108.54 %	53.19 %	122.24	NA	NA	76.74 %	NA	Apr 11,2018	F	F	B	F	-3.16 %	114.78	
+MT	ArcelorMittal	Steel - Producers	33.71	0.00 %	-0.09 %	9.63 %	3.34 %	8.90 %	12.50 %	34,371.17	8.60	NA	-26.59 %	NA	Apr 10,2018	A	A	B	A	1.60 %	0.50	
+AAXN	Axon Enterprise, Inc	Security and Safety Services	41.99	0.00 %	-2.35 %	0.02 %	0.00 %	0.00 %	700.00 %	2,238.36	108.78	4.35	-13.33 %	25.00 %	Apr 10,2018	F	C	C	D	1.16 %	6.83	
+BB	BlackBerry Limited	Wireless Non-US 	10.85	0.00 %	4.63 %	3.04 %	33.33 %	70.00 %	200.00 %	5,823.56	271.25	14.61	-71.43 %	18.56 %	Apr 10,2018	F	F	C	F	3.04 %	6.25	
+IAC	IAC/InterActiveCorp	Internet - Commerce	130.63	0.00 %	-17.02 %	-14.05 %	-0.02 %	-0.48 %	27.27 %	10,797.61	21.79	2.62	100.33 %	8.33 %	Apr 10,2018	F	D	C	F	-2.03 %	3.26	
+STLD	Steel Dynamics, Inc.	Steel - Producers	44.70	1.68 %	-3.56 %	0.59 %	12.30 %	9.73 %	5.49 %	10,557.20	9.58	0.80	76.23 %	12.00 %	Apr 10,2018	A	D	A	B	1.31 %	1.08	
+TOCA	TOCAGEN INC	Medical - Biomedical and Genetics	9.54	0.00 %	-3.15 %	-16.53 %	0.00 %	0.00 %	-3.77 %	189.96	NA	NA	-13.53 %	NA	Apr 10,2018	F	F	A	F	4.03 %	4,633.18	
+TWTR	Twitter, Inc.	Internet - Software	30.55	0.00 %	2.69 %	8.14 %	23.02 %	22.20 %	33.33 %	22,940.13	41.69	1.80	65.91 %	23.10 %	Apr 10,2018	F	A	C	C	0.83 %	8.96	
+UNFI	United Natural Foods, Inc.	Food - Miscellaneous	44.68	0.00 %	-0.78 %	2.67 %	0.08 %	0.20 %	33.96 %	2,252.28	14.41	1.76	20.62 %	8.20 %	Apr 10,2018	A	B	F	A	-0.02 %	0.23	
+CMTL	Comtech Telecommunications Corp.	Wireless Equipment	30.10	1.33 %	-1.99 %	0.20 %	0.00 %	0.00 %	200.00 %	710.97	26.64	5.33	232.35 %	5.00 %	Apr 07,2018	B	C	B	B	-0.95 %	1.34	
+SUPV	Grupo Supervielle S.A.	Banks - Foreign	25.11	0.20 %	-7.71 %	-18.55 %	0.00 %	0.00 %	3.92 %	1,827.73	10.47	0.43	27.66 %	24.61 %	Apr 07,2018	A	D	D	B	-4.67 %	1.32	
+HDS	HD Supply Holdings, Inc.	Industrial Services	38.45	0.00 %	0.63 %	0.29 %	0.92 %	0.52 %	11.36 %	7,133.95	12.12	0.77	37.23 %	15.73 %	Apr 07,2018	B	C	C	B	0.10 %	1.23	
+RDSMY	Koninklijke DSM NV	Chemical - Diversified 	26.00	1.58 %	-0.04 %	5.18 %	19.67 %	3.21 %	-20.69 %	18,868.72	14.48	2.04	NA	7.10 %	Apr 07,2018	B	B	C	A	1.09 %	2.02	
+LGND	Ligand Pharmaceuticals Incorporated	Medical - Biomedical and Genetics	154.95	0.00 %	0.15 %	-3.51 %	5.64 %	0.00 %	23.58 %	3,285.60	34.95	1.27	35.89 %	27.50 %	Apr 07,2018	D	A	C	C	-1.28 %	23.29	
+LYG	Lloyds Banking Group PLC	Banks - Foreign	3.49	6.54 %	-3.86 %	-7.43 %	0.00 %	1.04 %	NA	62,881.25	6.98	NA	-9.09 %	NA	Apr 07,2018	B	C	D	B	-1.13 %	1.82	
+PTGX	Protagonist Therapeutics, Inc.	Medical - Biomedical and Genetics	8.74	0.00 %	0.92 %	-3.96 %	0.00 %	0.00 %	58.33 %	185.15	NA	NA	-68.42 %	NA	Apr 06,2018	F	F	C	F	-0.46 %	NA	
+SAIC	SCIENCE APPLICATIONS INTERNATIONAL CORPORATION	Computers - IT Services	84.81	1.46 %	-1.73 %	1.80 %	1.86 %	2.28 %	43.21 %	3,584.17	19.83	3.97	21.25 %	5.00 %	Apr 06,2018	B	B	D	B	-1.27 %	0.80	
+SHEN	Shenandoah Telecommunications Co	Diversified Communication Services	36.65	0.71 %	-5.54 %	1.66 %	17.39 %	0.00 %	180.00 %	1,815.17	67.87	NA	107.69 %	NA	Apr 06,2018	D	B	A	C	0.83 %	2.97	
+TRCO	Tribune Media Company	Broadcast Radio and Television	35.73	2.80 %	-8.34 %	-11.38 %	0.00 %	-2.18 %	62.00 %	3,126.16	17.64	8.82	43.97 %	2.00 %	Apr 06,2018	C	D	D	D	-2.78 %	1.69	
+JCAP	Jernigan Capital, Inc.	REIT and Equity Trust	19.15	7.31 %	1.59 %	6.63 %	0.00 %	0.00 %	53.33 %	276.36	6.22	NA	135.11 %	NA	Apr 05,2018	F	F	F	F	1.97 %	22.67	
+LMB	Limbach Holdings, Inc.	Building Products - Maintenance Service	12.84	0.00 %	8.72 %	2.97 %	6.34 %	NA	-157.14 %	96.84	11.78	0.68	395.45 %	17.33 %	Apr 05,2018	A	A	D	A	0.31 %	0.20	
+NGHC	National General Holdings Corp	Insurance - Property and Casualty	25.86	0.62 %	-0.23 %	5.51 %	1.67 %	0.52 %	33.33 %	2,764.11	11.60	NA	104.59 %	NA	Apr 05,2018	B	F	D	D	-0.31 %	0.63	
+VBLT	Vascular Biogenics Ltd.	Medical - Biomedical and Genetics	2.20	0.00 %	0.00 %	2.33 %	0.00 %	0.00 %	380.00 %	65.77	NA	NA	118.92 %	NA	Apr 05,2018	F	A	C	C	-1.12 %	NA	
+ARCO	Arcos Dorados Holdings Inc.	Retail - Restaurants	9.10	1.10 %	-1.09 %	0.55 %	0.00 %	0.00 %	NA	1,920.76	23.95	1.23	-37.70 %	19.43 %	Apr 04,2018	B	A	C	A	-2.67 %	0.58	
+BSTC	BioSpecifics Technologies Corp	Medical - Drugs	42.30	0.00 %	0.02 %	-4.06 %	0.00 %	NA	30.77 %	304.53	20.94	NA	18.82 %	NA	Apr 04,2018	C	D	D	D	0.50 %	11.10	
+MOV	Movado Group Inc.	Retail - Jewelry	38.50	2.08 %	-3.02 %	1.32 %	6.94 %	0.00 %	100.00 %	883.15	17.23	NA	12.00 %	NA	Apr 04,2018	A	A	B	A	-0.26 %	1.55	
+SJI	South Jersey Industries, Inc.	Utility - Gas Distribution	30.96	3.62 %	2.38 %	8.44 %	0.89 %	1.29 %	21.95 %	2,857.92	19.55	1.58	28.46 %	12.40 %	Apr 04,2018	C	D	F	D	0.49 %	2.30	
+KBH	KB Home	Building Products - Home Builders	26.95	0.37 %	3.34 %	-7.99 %	2.53 %	0.78 %	33.33 %	2,337.37	16.59	1.04	-12.43 %	16.03 %	Apr 03,2018	B	F	F	D	-0.55 %	0.53	
+LUNA	Luna Innovations Incorporated	Technology Services	3.31	0.00 %	2.48 %	-5.43 %	0.00 %	NA	100.00 %	92.46	30.09	NA	NA	NA	Apr 03,2018	D	C	F	D	-2.65 %	1.79	
+TST	TheStreet, Inc.	Internet - Content	1.73	0.00 %	-1.14 %	1.76 %	0.00 %	0.00 %	700.00 %	85.10	86.50	NA	-75.00 %	NA	Apr 03,2018	D	C	D	C	2.37 %	1.36	
+UNF	Unifirst Corporation	Uniform and Related	160.60	0.09 %	-0.12 %	2.19 %	0.00 %	0.00 %	28.97 %	3,259.43	24.20	2.42	25.76 %	10.00 %	Apr 03,2018	B	C	F	C	0.34 %	1.98	
+INFI	Infinity Pharmaceuticals, Inc.	Medical - Drugs	2.19	0.00 %	1.16 %	8.71 %	0.00 %	0.00 %	48.15 %	120.88	NA	NA	-10.84 %	NA	Mar 31,2018	F	F	C	F	1.16 %	NA	
+KFY	Korn/Ferry International	Staffing Firms	53.82	0.74 %	0.22 %	3.24 %	0.00 %	0.00 %	18.64 %	3,042.09	17.63	NA	17.41 %	NA	Mar 31,2018	C	A	F	B	0.15 %	1.74	
+MU	Micron Technology, Inc.	Semiconductor Memory	45.89	0.00 %	-3.59 %	-14.05 %	0.00 %	0.00 %	2.17 %	53,221.62	4.18	0.42	121.57 %	10.00 %	Mar 31,2018	A	A	D	A	-1.92 %	2.06	
+JKS	JinkoSolar Holding Company Limited	Solar	18.18	0.00 %	-1.57 %	-6.04 %	0.00 %	0.00 %	-47.83 %	701.88	12.22	1.22	119.12 %	10.00 %	Mar 30,2018	D	F	D	F	2.65 %	0.18	
+FCAU	Fiat Chrysler Automobiles N.V.	Automotive - Foreign	22.63	0.00 %	-3.62 %	1.85 %	4.21 %	6.26 %	17.39 %	44,106.55	5.60	0.24	48.53 %	23.70 %	Mar 28,2018	A	A	B	A	3.29 %	0.34	
+WDC	Western Digital Corporation	Computer- Storage Devices	76.77	2.61 %	-10.65 %	-17.01 %	4.82 %	3.39 %	9.67 %	22,843.70	5.24	0.28	59.30 %	19.00 %	Mar 28,2018	A	A	A	A	-3.78 %	1.12	
+DXPE	DXP Enterprises, Inc.	Manufacturing - General Industrial 	36.75	0.00 %	1.66 %	-5.11 %	0.00 %	0.00 %	314.29 %	637.91	29.28	NA	46.51 %	NA	Mar 23,2018	B	F	F	D	1.18 %	0.63	
+ADES	Advanced Emissions Solutions, Inc.	Pollution Control	11.06	9.04 %	-0.45 %	-1.07 %	0.00 %	0.00 %	81.82 %	227.54	5.48	NA	29.49 %	NA	Mar 15,2018	D	F	F	F	-0.90 %	6.38	
+ATHM	Autohome Inc.	Internet - Services	95.04	0.00 %	2.13 %	11.43 %	0.00 %	0.00 %	5.33 %	11,232.51	25.28	0.76	42.97 %	33.48 %	Mar 13,2018	C	A	D	B	-2.50 %	12.10	
+KRO	Kronos Worldwide Inc	Chemical - Diversified 	22.74	2.99 %	-3.44 %	1.70 %	0.00 %	0.00 %	71.43 %	2,637.93	7.44	1.49	62.77 %	5.00 %	Mar 13,2018	B	C	D	B	1.02 %	1.53	
+NVEE	NV5 Global, Inc.	Consulting Services	60.90	0.00 %	-0.98 %	5.36 %	0.00 %	0.00 %	12.70 %	669.16	19.84	0.99	28.99 %	20.00 %	Mar 13,2018	C	A	D	B	3.66 %	2.01	
+REGI	Renewable Energy Group, Inc.	Biofuels	13.30	0.00 %	2.31 %	0.76 %	0.00 %	0.00 %	-1,566.67 %	516.77	6.49	NA	NA	NA	Mar 13,2018	A	F	F	D	1.14 %	0.24	
+ESALY	Eisai Co.	Medical - Drugs	67.85	0.77 %	0.47 %	5.39 %	0.00 %	NA	NA	20,122.07	38.33	NA	49.61 %	NA	Mar 10,2018	C	F	B	D	0.56 %	3.96	
+NCS	NCI Building Systems, Inc.	Building Products - Miscellaneous	17.70	0.00 %	-0.28 %	-0.28 %	0.00 %	0.00 %	55.56 %	1,167.42	13.54	1.35	62.50 %	10.00 %	Mar 10,2018	B	D	D	C	-1.12 %	0.65	
+ASHTY	Ashtead Group PLC	Industrial Services	113.32	1.28 %	-0.90 %	3.16 %	2.76 %	3.78 %	29.85 %	13,939.33	12.44	0.83	34.76 %	15.00 %	Mar 09,2018	B	C	D	B	0.47 %	3.08	
+MED	MEDIFAST INC	Food - Miscellaneous	99.38	1.93 %	-0.48 %	5.13 %	0.00 %	0.00 %	25.00 %	1,198.17	30.56	2.04	41.92 %	15.00 %	Mar 09,2018	F	B	D	D	2.66 %	3.97	
+ALOG	Analogic Corporation	Computer - Peripheral Equipment	83.15	0.48 %	-0.24 %	-12.75 %	0.00 %	0.00 %	86.76 %	1,039.51	19.66	2.81	90.54 %	7.00 %	Mar 08,2018	C	B	C	B	-0.06 %	2.21	
+HGV	Hilton Grand Vacations Inc.	Hotels and Motels	42.74	0.00 %	-2.53 %	-1.09 %	0.82 %	1.63 %	1.96 %	4,243.02	14.98	NA	44.67 %	NA	Mar 06,2018	D	D	A	D	-0.56 %	2.48	
+SRI	Stoneridge, Inc.	Electronics - Miscellaneous Components	26.39	0.00 %	-2.84 %	-8.75 %	-1.75 %	-1.01 %	20.00 %	743.67	13.40	1.58	25.48 %	8.50 %	Mar 02,2018	A	A	D	A	0.38 %	0.90	
+DQ	DAQO New Energy Corp.	Chemical - Specialty	54.26	0.00 %	4.40 %	-0.42 %	10.34 %	9.14 %	24.90 %	571.35	6.61	0.94	-9.77 %	7.00 %	Mar 01,2018	A	A	D	A	3.57 %	1.62	
+OMAB	Grupo Aeroportuario del Centro Norte S.A.B. de C.V.	Transportation - Services	42.16	3.19 %	-1.98 %	6.63 %	11.15 %	8.93 %	-5.71 %	2,073.47	14.59	4.86	31.96 %	3.00 %	Feb 27,2018	D	C	B	C	0.79 %	5.16	
+MLNX	Mellanox Technologies, Ltd.	Electronics - Semiconductors	79.90	0.00 %	5.41 %	8.41 %	11.21 %	8.51 %	18.07 %	4,167.54	19.65	1.31	78.51 %	15.00 %	Feb 24,2018	D	A	D	C	1.40 %	4.50	
+TSU	TIM Participacoes S.A.	Wireless Non-US 	21.77	0.38 %	-2.60 %	1.40 %	6.84 %	20.08 %	12.50 %	10,536.32	21.44	0.65	27.50 %	32.98 %	Feb 22,2018	A	A	B	A	-3.25 %	2.07	
+LPX	Louisiana-Pacific Corporation	Building Products - Wood	28.18	1.85 %	-4.61 %	-5.63 %	6.64 %	3.36 %	25.86 %	4,083.24	9.74	1.95	24.03 %	5.00 %	Feb 14,2018	A	A	A	A	0.11 %	1.49	
+ULTI	The Ultimate Software Group, Inc.	Computer - Software	249.88	0.00 %	4.84 %	2.73 %	0.13 %	0.46 %	14.04 %	7,816.80	45.94	2.08	41.67 %	22.13 %	Feb 08,2018	F	A	B	C	2.93 %	7.90	
+BCC	Boise Cascade, L.L.C.	Building Products - Wood	41.58	0.67 %	-1.07 %	6.54 %	0.00 %	0.00 %	-3.45 %	1,603.26	15.56	2.32	39.79 %	6.70 %	Jan 26,2018	B	A	D	A	0.12 %	0.36	
