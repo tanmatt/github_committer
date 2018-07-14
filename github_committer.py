@@ -73,8 +73,8 @@ def download_xls():
                 os.remove("rank_1.xls")
             _upload_to_git()
             print("\rDownloading of xls started...Done")
-    except(Exception):
-        raise Exception
+    except Exception as ex:
+        raise ex
 
 
 def _upload_to_git():
@@ -85,8 +85,8 @@ def _upload_to_git():
         os.system("git commit -m \"Updated with new file on " + HOUR + "\" ")
         os.system("git push origin " + GIT_BRANCH)
         print("\rUploading to git...Done")
-    except(Exception):
-        raise Exception
+    except Exception as ex:
+        raise ex
 
 
 def do_the_magic():
@@ -95,8 +95,8 @@ def do_the_magic():
         # confirm the correct branch
         os.system("git checkout " + GIT_BRANCH)
         download_xls()
-    except(Exception):
-        raise Exception
+    except Exception as ex :
+        raise ex
 
 
 def main():
@@ -108,8 +108,8 @@ def main():
         print("Program execution started....")
         do_the_magic()
         print("Program execution finished...")
-    except(Exception):
-        print("Program execution failed..." + str(Exception))
+    except Exception as ex:
+        print("Program execution failed...", ex)
 
 
 if __name__ == '__main__':
