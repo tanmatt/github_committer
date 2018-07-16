@@ -4,12 +4,14 @@ crontab every 1 hour
 
 import os
 import time
-import wget
+import requests
 import sys
 
 FILENAME = 'todays_random_hours.txt'
 DOWNLOAD_LINK = 'http://www.zacks.com/portfolios/rank/rank_excel.php?rank=1&reference_id=all'
 DOWNLOADED_FILE = "rank_1.xls"
+HEADERS = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
+
 
 TIME = time.localtime()
 YEAR = time.strftime("%Y", TIME)
@@ -42,6 +44,14 @@ def is_downloadable():
         print("File should not be downloaded. Not the right time.")
         return False
 
+def download_file(url):
+    # NOTE the stream=True parameter
+    r = requests.get(url, stream=True, headers=HEADERS)
+    with open(DOWNLOADED_FILE, 'wb') as f:
+        for chunk in r.iter_content(chunk_size=1024):
+            if chunk: # filter out keep-alive new chunks
+                f.write(chunk)
+
 
 def download_xls():
     if not is_downloadable():
@@ -57,7 +67,10 @@ def download_xls():
                 os.makedirs(put_in_dir)
 
             print("Downloading file now...")
-            wget.download(DOWNLOAD_LINK)
+            # todo: Update 'out' to put the file directly onto the directory
+            #wget.download(DOWNLOAD_LINK, out=DOWNLOADED_FILE)
+            download_file(DOWNLOAD_LINK)
+
             print("\rDownloading file now...Done")
             time.sleep(5)
 
