@@ -1,0 +1,223 @@
+
+Symbol	Company Name	Industry	Price	Dividend Yield(%)	Price Movers: 1 Week(%)	Price Movers: 4 Week(%)	Biggest Est. Chg. Current Year(%)	Biggest Est. Chg. Next Year(%)	Biggest Surprise Last Qtr(%)	Market Cap (mil)	P/E (F1)	PEG	Projected Earnings Growth (1 Yr)(%)	Projected Earnings Growth (3-5 Yrs)(%)	Date Added	Value Score	Growth Score	Momentum Score	VGM Score	Price Movers: 1 Day(%)	Price / Sales	
+DELL	Dell Technologies Inc.	Computers - IT Services	42.62	0.00 %	-9.20 %	-59.35 %	5.38 %	5.80 %	6.90 %	32,734.80	6.49	0.54	6.48 %	12.00 %	Jan 01,2019	A	A	A	A	-0.91 %	0.37	
+ITRN	Ituran Location and Control Ltd.	Security and Safety Services	31.75	2.90 %	-5.31 %	-2.07 %	0.00 %	0.00 %	30.43 %	677.60	10.51	0.66	14.83 %	16.00 %	Dec 06,2018	B	C	A	B	-0.13 %	2.88	
+MRUS	Merus N.V.	Medical - Biomedical and Genetics	13.26	0.00 %	-15.54 %	5.49 %	-1.60 %	-11.46 %	25.93 %	301.68	NA	NA	49.18 %	NA	Jan 03,2019	F	F	B	F	-2.14 %	9.41	
+ACAD	ACADIA Pharmaceuticals Inc.	Medical - Biomedical and Genetics	21.77	0.00 %	10.28 %	37.96 %	0.42 %	117.14 %	13.79 %	2,722.87	NA	NA	15.25 %	14.99 %	Jan 17,2019	F	C	F	F	2.06 %	13.10	
+ACRX	AcelRx Pharmaceuticals, Inc.	Medical - Drugs	2.35	0.00 %	-14.55 %	-2.89 %	4.17 %	5.78 %	-5.00 %	145.48	NA	NA	24.55 %	NA	Jan 17,2019	F	D	A	F	0.00 %	63.86	
+AGESY	Ageas SA	Insurance - Multi line	46.17	3.69 %	3.38 %	3.56 %	0.00 %	NA	NA	9,668.00	11.23	1.39	35.82 %	8.07 %	Jan 17,2019	B	B	F	C	1.22 %	0.65	
+AGIO	Agios Pharmaceuticals, Inc.	Medical - Products	56.20	0.00 %	4.29 %	13.51 %	0.00 %	-0.61 %	3.55 %	3,269.64	NA	NA	9.33 %	NA	Jan 17,2019	F	F	D	F	0.34 %	44.08	
+ALL	The Allstate Corporation	Insurance - Property and Casualty	84.54	2.18 %	1.66 %	4.40 %	0.29 %	-0.22 %	-11.06 %	29,119.15	9.18	1.10	19.97 %	8.33 %	Jan 17,2019	A	C	F	B	0.37 %	0.72	
+AAT	American Assets Trust, Inc.	REIT and Equity Trust - Retail	40.90	2.74 %	0.34 %	1.04 %	0.81 %	9.22 %	6.00 %	1,931.39	18.78	3.54	8.85 %	5.30 %	Jan 17,2019	D	D	A	D	0.81 %	5.85	
+ASHTY	Ashtead Group PLC	Industrial Services	98.25	2.83 %	2.26 %	18.20 %	0.00 %	1.12 %	8.43 %	12,086.13	11.05	0.74	32.10 %	15.00 %	Jan 17,2019	C	B	C	B	-0.21 %	2.26	
+CLXT	Calyxt, Inc.	Agriculture - Operations	11.72	0.00 %	1.38 %	3.99 %	0.00 %	0.00 %	17.86 %	381.75	NA	NA	16.96 %	NA	Jan 17,2019	F	F	C	F	3.99 %	908.91	
+CNP	CenterPoint Energy, Inc.	Utility - Electric Power	29.52	3.76 %	1.86 %	3.98 %	0.15 %	0.18 %	-4.88 %	14,795.17	17.55	2.97	16.06 %	5.90 %	Jan 17,2019	C	D	D	D	0.79 %	1.45	
+CPG	Crescent Point Energy Corporation	Oil and Gas - Exploration and Production - Canadian	3.34	8.11 %	-3.19 %	8.44 %	4.36 %	0.00 %	37.50 %	1,837.50	4.30	NA	-250.00 %	NA	Jan 17,2019	A	B	A	A	-0.30 %	0.61	
+CWK	Cushman & Wakefield PLC	Real Estate - Operations	16.30	0.00 %	6.61 %	3.89 %	2.83 %	3.79 %	164.71 %	3,397.26	10.55	1.07	NA	9.82 %	Jan 17,2019	D	A	C	B	2.45 %	NA	
+ESNT	Essent Group Ltd.	Financial - Mortgage & Related Services	37.64	0.00 %	3.04 %	14.27 %	0.07 %	0.00 %	5.36 %	3,693.96	7.38	0.74	48.71 %	10.00 %	Jan 17,2019	B	C	C	B	1.26 %	5.37	
+EXEL	Exelixis, Inc.	Medical - Biomedical and Genetics	22.93	0.00 %	-3.13 %	19.61 %	0.11 %	-4.18 %	115.79 %	6,855.68	18.39	1.41	154.90 %	13.00 %	Jan 17,2019	C	A	A	B	-4.66 %	9.22	
+FBK	FB Financial Corporation	Banks - Northeast	37.78	0.85 %	5.00 %	12.64 %	0.25 %	0.00 %	-2.86 %	1,160.49	12.49	NA	27.57 %	NA	Jan 17,2019	C	C	F	D	2.97 %	3.12	
+FG	FGL Holdings	Insurance - Life Insurance	7.71	0.00 %	4.05 %	20.85 %	3.76 %	7.98 %	3.57 %	1,708.24	5.59	NA	NA	NA	Jan 17,2019	A	B	C	A	2.25 %	1.18	
+GM	General Motors Company	Automotive - Domestic	37.67	4.03 %	7.08 %	7.84 %	4.49 %	4.15 %	48.41 %	53,167.57	6.19	0.73	-4.68 %	8.48 %	Jan 17,2019	A	C	B	A	0.32 %	0.36	
+HSY	Hershey Company (The)	Food - Confectionery	106.70	2.71 %	0.96 %	-0.59 %	0.11 %	0.00 %	-0.64 %	22,377.02	18.83	2.22	12.82 %	8.50 %	Jan 17,2019	C	B	C	C	-0.96 %	2.89	
+HNP	Huaneng Power International, Inc.	Utility - Electric Power	25.88	2.05 %	0.23 %	3.19 %	75.65 %	NA	NA	9,834.66	12.81	0.98	102.50 %	13.14 %	Jan 17,2019	A	F	F	D	1.49 %	0.51	
+LLL	L3 Technologies Inc.	Electronics - Military	175.25	1.83 %	2.53 %	-1.47 %	0.37 %	0.00 %	0.00 %	13,791.75	15.16	1.63	22.08 %	9.29 %	Jan 17,2019	B	D	A	C	-1.63 %	1.37	
+LSCC	Lattice Semiconductor Corporation	Electronics - Semiconductors	7.22	0.00 %	-1.10 %	9.06 %	0.00 %	0.00 %	10.00 %	935.17	18.36	1.60	200.00 %	11.50 %	Jan 17,2019	D	B	C	B	-0.41 %	2.35	
+LRLCY	L'Oreal SA	Cosmetics	44.55	1.50 %	-1.83 %	-2.43 %	0.19 %	0.00 %	NA	124,686.98	25.80	3.58	7.45 %	7.20 %	Jan 17,2019	D	B	D	D	-1.11 %	NA	
+MCHX	Marchex, Inc.	Internet - Services	3.46	0.00 %	10.19 %	28.15 %	0.00 %	NA	100.00 %	145.26	230.67	15.38	66.67 %	15.00 %	Jan 17,2019	D	A	F	D	1.17 %	1.73	
+MKC	McCormick & Company, Incorporated	Food - Miscellaneous	139.57	1.63 %	-0.51 %	-1.68 %	0.00 %	0.00 %	0.00 %	18,376.35	25.97	2.89	17.14 %	9.00 %	Jan 17,2019	D	C	B	D	-0.87 %	3.40	
+MRK	Merck & Co., Inc.	Large Cap Pharmaceuticals	74.61	2.95 %	-1.06 %	1.14 %	-0.41 %	-1.01 %	2.59 %	201,162.73	15.90	1.80	8.79 %	8.85 %	Jan 17,2019	C	C	D	C	0.15 %	4.82	
+MVIS	Microvision, Inc.	Lasers Systems and Components	0.80	0.00 %	12.56 %	29.65 %	3.13 %	NA	100.00 %	80.01	NA	NA	15.15 %	NA	Jan 17,2019	F	D	F	F	NA	4.36	
+MBT	Mobile TeleSystems OJSC	Wireless Non-US 	8.08	1.42 %	1.38 %	10.23 %	1.46 %	1.60 %	NA	7,559.65	6.97	0.67	-5.10 %	10.43 %	Jan 17,2019	A	C	C	A	2.80 %	1.02	
+MONOY	MONOTARO	Internet - Commerce	23.20	0.33 %	-11.72 %	-9.79 %	0.00 %	0.92 %	NA	5,812.17	51.56	2.40	19.35 %	21.50 %	Jan 17,2019	F	A	B	C	4.91 %	6.51	
+NSTG	NanoString Technologies, Inc.	Medical - Products	20.85	0.00 %	2.76 %	43.99 %	4.30 %	-41.82 %	6.67 %	642.84	NA	NA	-40.76 %	NA	Jan 17,2019	F	F	D	F	-2.39 %	5.74	
+NMIH	NMI Holdings Inc	Insurance - Property and Casualty	19.84	0.00 %	6.95 %	18.09 %	0.00 %	0.12 %	12.20 %	1,315.44	8.79	NA	191.23 %	NA	Jan 17,2019	D	B	F	D	1.95 %	5.19	
+NOVN	Novan Inc.	Medical - Drugs	1.57	0.00 %	10.56 %	46.73 %	0.00 %	0.00 %	15.63 %	40.91	NA	NA	53.02 %	NA	Jan 17,2019	F	D	F	F	21.71 %	15.88	
+NVS	Novartis AG	Large Cap Pharmaceuticals	87.95	2.17 %	1.14 %	4.14 %	0.00 %	-1.02 %	0.00 %	203,164.50	15.90	1.87	8.52 %	8.50 %	Jan 17,2019	B	D	C	C	0.09 %	3.94	
+QBIO	Q Biomed Inc.	Medical Services	1.77	0.00 %	-5.86 %	28.25 %	0.00 %	0.00 %	41.67 %	25.29	NA	NA	NA	NA	Jan 17,2019	F	D	A	F	-1.67 %	NA	
+RDN	Radian Group Inc.	Insurance - Multi line	17.86	0.06 %	4.20 %	13.69 %	0.37 %	0.49 %	12.70 %	3,810.14	6.50	1.30	45.60 %	5.00 %	Jan 17,2019	B	B	B	A	2.35 %	3.03	
+RGSE	Real Goods Solar, Inc.	Solar	0.54	0.00 %	5.41 %	-1.72 %	0.00 %	0.00 %	-53.13 %	41.94	NA	NA	NA	NA	Jan 17,2019	D	B	C	D	NA	2.82	
+SRRK	Scholar Rock Holding Corporation	Medical - Biomedical and Genetics	15.93	0.00 %	-21.10 %	-21.18 %	11.38 %	3.92 %	-157.41 %	402.03	NA	NA	NA	NA	Jan 17,2019	F	D	A	F	-2.69 %	NA	
+SO	Southern Company (The)	Utility - Electric Power	46.87	5.12 %	3.03 %	3.51 %	0.12 %	0.32 %	6.54 %	48,224.01	15.55	3.46	0.66 %	4.50 %	Jan 17,2019	C	D	B	C	0.17 %	2.03	
+SR	Spire Inc.	Utility - Gas Distribution	75.65	3.13 %	2.72 %	-0.04 %	0.00 %	0.62 %	11.86 %	3,833.65	20.20	5.10	0.81 %	3.96 %	Jan 17,2019	D	F	D	F	1.46 %	1.95	
+SURF	Surface Oncology, Inc.	Medical - Products	5.16	0.00 %	-3.91 %	32.65 %	39.90 %	48.94 %	8.82 %	142.84	NA	NA	NA	NA	Jan 17,2019	F	F	A	F	-2.46 %	NA	
+WSR	Whitestone REIT	REIT and Equity Trust - Other	13.93	8.18 %	2.05 %	8.32 %	0.00 %	0.00 %	-3.33 %	554.04	11.68	NA	-4.80 %	NA	Jan 17,2019	D	D	D	F	1.98 %	4.10	
+AER	Aercap Holdings N.V.	Financial - Leasing Companies	45.40	0.00 %	2.92 %	1.57 %	1.10 %	2.68 %	15.48 %	6,738.83	6.80	0.57	9.16 %	12.00 %	Jan 16,2019	A	F	F	C	-0.33 %	1.39	
+ALRM	Alarm.com Holdings, Inc.	Security and Safety Services	57.65	0.00 %	5.34 %	18.82 %	0.08 %	0.32 %	44.00 %	2,767.38	41.74	2.45	39.13 %	17.05 %	Jan 16,2019	D	A	F	D	2.22 %	6.96	
+ALDR	Alder BioPharmaceuticals, Inc.	Medical - Biomedical and Genetics	11.65	0.00 %	13.11 %	14.33 %	-2.72 %	20.98 %	19.47 %	796.01	NA	NA	6.67 %	NA	Jan 16,2019	F	F	F	F	1.48 %	NA	
+ALE	Allete, Inc.	Utility - Electric Power	74.59	3.00 %	1.03 %	-3.32 %	0.19 %	0.00 %	9.33 %	3,835.76	20.93	NA	6.27 %	NA	Jan 16,2019	C	D	D	D	0.30 %	2.76	
+ASLN	ASLAN Pharmaceuticals Ltd.	Medical - Biomedical and Genetics	3.56	0.00 %	-19.09 %	-8.01 %	7.73 %	NA	79.41 %	114.01	NA	NA	NA	NA	Jan 16,2019	D	F	B	D	1.71 %	NA	
+CLD	Cloud Peak Energy Inc	Coal	0.35	0.00 %	-11.12 %	-30.97 %	19.15 %	0.00 %	300.00 %	26.30	NA	NA	-11.63 %	NA	Jan 16,2019	A	C	B	A	NA	0.03	
+CMPGY	Compass Group PLC	Retail - Restaurants	21.31	1.37 %	-1.34 %	1.57 %	0.00 %	0.00 %	NA	33,882.90	19.46	3.24	20.88 %	6.00 %	Jan 16,2019	C	B	C	B	-2.25 %	NA	
+CVS	CVS Health Corporation	Retail - Pharmacies and Drug Stores	63.92	3.13 %	-3.21 %	-6.81 %	0.20 %	-0.45 %	1.17 %	65,121.64	8.50	0.78	18.98 %	10.88 %	Jan 16,2019	A	C	A	A	0.28 %	0.35	
+DNLMY	DUNELM GP PLC	Textile - Home Furnishing	7.87	5.56 %	0.00 %	0.00 %	1.72 %	0.00 %	NA	1,589.10	13.34	NA	9.26 %	NA	Jan 16,2019	B	A			0.00 %	NA	
+FOXF	Fox Factory Holding Corp.	Automotive - Domestic	63.82	0.00 %	-1.24 %	8.65 %	0.00 %	0.00 %	9.09 %	2,424.40	26.01	1.45	38.36 %	17.89 %	Jan 16,2019	D	A	B	C	1.46 %	4.15	
+KEP	Korea Electric Power Corporation	Utility - Electric Power	15.22	1.90 %	2.91 %	3.12 %	14.46 %	NA	NA	19,541.38	16.02	3.20	-195.79 %	5.00 %	Jan 16,2019	A	F	F	D	-0.91 %	0.47	
+OBNK	Origin Bancorp, Inc.	Banks - Southeast	35.93	0.36 %	0.56 %	6.46 %	0.40 %	0.00 %	1.96 %	848.71	14.15	NA	NA	NA	Jan 16,2019	C	D	B	D	2.13 %	3.95	
+PARR	Par Pacific Holdings, Inc.	Oil and Gas - Refining and Marketing	16.59	0.00 %	5.00 %	15.05 %	16.72 %	211.88 %	-55.56 %	761.08	13.20	NA	-49.15 %	NA	Jan 16,2019	A	B	B	A	3.43 %	0.24	
+RICOY	Ricoh Co.	Office Automation and Equipment	9.74	1.32 %	0.31 %	-4.04 %	0.69 %	1.23 %	26.92 %	7,060.31	13.43	13.43	-143.20 %	1.00 %	Jan 16,2019	B	B	B	B	0.00 %	0.38	
+SBGL	Sibanye Gold Limited	Mining - Gold	2.73	0.00 %	-10.20 %	11.43 %	0.00 %	NA	NA	672.59	6.66	NA	-1,125.00 %	NA	Jan 16,2019	A	C	A	A	0.00 %	NA	
+SMAR	Smartsheet Inc.	Internet - Software	26.77	0.00 %	1.59 %	14.70 %	0.00 %	0.00 %	43.75 %	2,776.61	NA	NA	NA	NA	Jan 16,2019	F	C	F	F	0.87 %	17.51	
+SONVY	SONOVA HOLDING	Medical - Instruments	35.88	0.83 %	6.60 %	12.28 %	6.25 %	6.17 %	NA	11,736.71	23.45	2.35	16.79 %	10.00 %	Jan 16,2019	C	B	A	B	0.59 %	NA	
+TMK	Torchmark Corporation	Insurance - Life Insurance	81.26	0.79 %	1.94 %	9.16 %	0.06 %	0.79 %	4.61 %	9,063.77	12.27	0.90	27.39 %	13.70 %	Jan 16,2019	A	F	C	C	0.94 %	2.11	
+VLOWY	Vallourec SA	Oil and Gas - Speciality - International	0.42	0.00 %	-1.78 %	-2.33 %	76.19 %	200.00 %	NA	947.60	NA	NA	18.52 %	NA	Jan 16,2019	C	F	D	D	NA	0.20	
+ALSN	Allison Transmission Holdings, Inc.	Automotive - Original Equipment	47.51	1.26 %	3.06 %	11.01 %	0.26 %	0.00 %	16.51 %	6,159.11	9.68	0.97	73.68 %	10.00 %	Jan 15,2019	B	B	A	A	-0.36 %	2.32	
+APRN	Blue Apron Holdings, Inc.	Food - Miscellaneous	1.43	0.00 %	38.83 %	83.24 %	0.00 %	0.00 %	18.18 %	277.06	NA	NA	58.54 %	NA	Jan 15,2019	F	C	D	D	-5.30 %	0.39	
+BA	The Boeing Company	Aerospace - Defense	352.06	1.94 %	2.39 %	10.17 %	0.71 %	-1.46 %	3.77 %	199,929.72	19.33	1.45	25.00 %	13.33 %	Jan 15,2019	C	B	D	B	-0.05 %	2.04	
+EURN	Euronav NV	Transportation - Shipping	7.70	0.00 %	-1.66 %	5.62 %	9.68 %	0.00 %	6.90 %	1,225.91	135.88	NA	-866.67 %	NA	Jan 15,2019	B	F	B	D	-0.65 %	2.54	
+GNMSF	Genmab A/S	Medical - Biomedical and Genetics	160.80	0.00 %	-6.43 %	0.75 %	1.98 %	0.00 %	-25.00 %	9,854.02	34.65	NA	22.96 %	NA	Jan 15,2019	D	D	A	D	0.00 %	24.26	
+JBL	Jabil, Inc.	Electronics - Manufacturing Services	24.94	1.28 %	3.70 %	5.01 %	0.59 %	-0.07 %	5.88 %	3,858.59	8.39	0.70	13.36 %	12.00 %	Jan 15,2019	B	D	D	C	0.89 %	0.17	
+LAUR	Laureate Education Inc.	Schools	15.25	0.00 %	0.26 %	4.74 %	0.00 %	0.00 %	18.18 %	3,416.61	30.65	2.55	220.83 %	12.00 %	Jan 15,2019	B	A	F	A	0.39 %	0.82	
+SUN	Sunoco LP	Oil and Gas - Refining and Marketing - Master Limited Partnerships	28.99	11.39 %	1.47 %	7.73 %	2.91 %	4.70 %	76.92 %	2,867.78	12.15	NA	-38.86 %	NA	Jan 15,2019	A	D	F	B	0.07 %	0.18	
+TRP	TransCanada Corporation	Oil and Gas - Production and Pipelines	41.22	4.91 %	3.13 %	6.65 %	-1.76 %	-3.38 %	28.81 %	37,840.83	14.40	2.08	18.07 %	6.92 %	Jan 15,2019	C	D	F	F	0.19 %	3.62	
+USM	United States Cellular Corporation	Wireless National	57.41	0.00 %	1.25 %	9.67 %	0.00 %	0.00 %	70.83 %	4,928.71	39.27	39.27	179.31 %	1.00 %	Jan 15,2019	C	A	C	B	0.09 %	1.25	
+WIX	Wix.com Ltd.	Computers - IT Services	101.57	0.00 %	3.62 %	18.66 %	0.12 %	0.14 %	56.00 %	4,762.45	68.80	NA	9,200.00 %	NA	Jan 15,2019	F	A	F	D	0.23 %	8.53	
+ATUS	Altice USA, Inc.	Communication - Components	18.05	0.00 %	-1.47 %	6.30 %	4.69 %	4.27 %	200.00 %	12,905.77	28.38	NA	-150.00 %	NA	Jan 12,2019	B	B	A	A	3.68 %	1.36	
+AEE	Ameren Corporation	Utility - Electric Power	66.67	2.85 %	3.56 %	-0.80 %	0.31 %	-0.09 %	17.19 %	16,287.20	20.30	2.99	20.14 %	6.78 %	Jan 12,2019	C	C	C	C	0.95 %	2.60	
+BVNRY	BAVARIAN NORDIC	Medical - Biomedical and Genetics	7.60	0.00 %	-0.26 %	8.73 %	-85.87 %	NA	135.71 %	736.67	116.92	NA	-289.66 %	NA	Jan 12,2019	D	F	F	F	0.00 %	12.98	
+CATB	Catabasis Pharmaceuticals, Inc.	Medical - Biomedical and Genetics	6.24	0.00 %	19.54 %	20.02 %	0.00 %	0.00 %	50.00 %	44.33	NA	NA	61.90 %	NA	Jan 12,2019	F	D	C	F	13.45 %	NA	
+CFMS	ConforMIS, Inc.	Medical - Instruments	0.53	0.00 %	12.15 %	21.90 %	0.00 %	-9.09 %	40.00 %	33.53	NA	NA	37.90 %	NA	Jan 12,2019	F	B	F	D	NA	0.38	
+CCR	CONSOL Coal Resources LP	Coal	17.07	12.01 %	-3.29 %	5.96 %	0.00 %	0.00 %	0.00 %	469.80	8.03	NA	54.11 %	NA	Jan 12,2019	B	B	F	A	-0.64 %	1.36	
+ESL	Esterline Technologies Corporation	Aerospace - Defense Equipment	121.81	0.00 %	0.86 %	0.06 %	1.27 %	0.00 %	35.51 %	3,610.55	25.55	2.68	14.39 %	9.52 %	Jan 12,2019	C	A	C	B	0.21 %	1.77	
+IDA	IDACORP, Inc.	Utility - Electric Power	94.65	2.66 %	1.06 %	-2.52 %	-0.11 %	NA	14.77 %	4,769.68	21.41	8.33	5.70 %	2.57 %	Jan 12,2019	D	C	F	D	0.99 %	3.50	
+MSG	The Madison Square Garden Company	Leisure and Recreation Services	271.09	0.00 %	0.13 %	5.32 %	0.00 %	0.00 %	27.27 %	6,415.35	1,549.09	NA	-96.97 %	NA	Jan 12,2019	F	F	D	F	-0.20 %	4.19	
+MEET	MeetMe, Inc.	Internet - Software	5.43	0.00 %	-3.38 %	36.09 %	4.94 %	NA	11.11 %	401.50	12.78	0.64	-7.69 %	20.00 %	Jan 12,2019	C	C	A	B	0.18 %	2.41	
+NOC	Northrop Grumman Corporation	Aerospace - Defense	255.74	1.88 %	1.42 %	0.94 %	3.05 %	4.54 %	50.34 %	44,401.50	13.46	0.91	43.67 %	14.81 %	Jan 12,2019	B	B	A	A	-1.24 %	1.55	
+PVL	Enduro Royalty Trust	Oil and Gas - Royalty Trust - United States	2.56	17.77 %	3.23 %	12.77 %	28.57 %	NA	400.00 %	84.48	28.44	NA	-79.41 %	NA	Jan 12,2019	C	B	A	A	0.39 %	1.70	
+PRQR	ProQR Therapeutics N.V.	Medical - Biomedical and Genetics	15.20	0.00 %	-6.81 %	-9.42 %	5.68 %	23.99 %	46.15 %	588.48	NA	NA	36.08 %	NA	Jan 12,2019	F	C	A	D	0.66 %	NA	
+SNAP	Snap Inc.	Internet - Software	5.64	0.00 %	-10.19 %	4.25 %	0.04 %	-4.78 %	14.29 %	7,282.46	NA	NA	13.11 %	NA	Jan 12,2019	F	D	A	F	-13.76 %	6.77	
+TWTR	Twitter, Inc.	Internet - Software	32.47	0.00 %	0.68 %	-1.40 %	-0.23 %	-0.11 %	50.00 %	24,717.80	36.81	1.67	81.82 %	22.05 %	Jan 12,2019	D	B	A	C	-1.67 %	8.63	
+WMMVY	Wal-Mart de Mexico SAB de CV	Retail - Supermarkets	26.12	4.27 %	0.11 %	9.24 %	5.45 %	NA	NA	NA	22.52	1.99	5.10 %	11.32 %	Jan 12,2019	C	B	F	C	-0.84 %	NA	
+WSBC	WesBanco, Inc.	Banks - Southeast	39.46	2.94 %	1.96 %	8.74 %	2.07 %	0.00 %	5.19 %	2,154.44	11.75	1.18	28.16 %	10.00 %	Jan 12,2019	C	D	B	C	2.02 %	4.53	
+CLBS	Caladrius Biosciences, Inc.	Medical - Biomedical and Genetics	4.97	0.00 %	1.22 %	18.62 %	0.00 %	0.00 %	33.33 %	48.92	NA	NA	1.69 %	NA	Jan 11,2019	F	F	D	F	-0.20 %	NA	
+DECK	Deckers Outdoor Corporation	Shoes and Retail Apparel 	114.86	0.00 %	-9.29 %	-6.44 %	1.03 %	0.68 %	38.37 %	3,344.98	16.68	1.47	20.03 %	11.33 %	Jan 11,2019	C	D	A	C	0.87 %	1.70	
+EVRG	Evergy Inc.	Alternative Energy - Other	56.29	3.38 %	0.41 %	-3.08 %	0.20 %	0.00 %	4.76 %	14,829.89	19.17	2.48	14.54 %	7.72 %	Jan 11,2019	B	B	A	B	-0.11 %	4.04	
+EXPD	Expeditors International of Washington, Inc.	Transportation - Services	67.03	1.34 %	-2.39 %	0.49 %	0.04 %	0.07 %	17.95 %	11,568.71	19.59	2.45	32.66 %	8.00 %	Jan 11,2019	C	C	A	C	0.04 %	1.48	
+HSBC	HSBC Holdings plc	Banks - Foreign	41.54	4.81 %	0.24 %	2.97 %	0.00 %	0.00 %	NA	165,561.08	10.68	1.14	NA	9.33 %	Jan 11,2019	C	F	D	F	0.78 %	NA	
+MN	Manning & Napier, Inc.	Financial - Investment Management	2.06	3.88 %	-10.44 %	17.05 %	-4.55 %	-5.56 %	25.00 %	31.59	9.81	NA	-42.50 %	NA	Jan 11,2019	A	D	D	C	0.98 %	0.19	
+MTG	MGIC Investment Corporation	Insurance - Multi line	11.53	0.00 %	4.25 %	14.95 %	0.65 %	1.21 %	33.33 %	4,169.13	7.42	1.48	27.94 %	5.00 %	Jan 11,2019	B	C	A	A	2.40 %	3.76	
+RC	Ready Capital Corp	REIT and Equity Trust	14.84	10.78 %	2.20 %	1.85 %	1.12 %	-0.27 %	20.00 %	475.85	8.21	NA	29.58 %	NA	Jan 11,2019	A	C	A	A	1.85 %	2.40	
+SCS	Steelcase Inc.	Business - Office Products	16.08	3.36 %	-1.77 %	11.20 %	1.79 %	1.91 %	20.00 %	1,877.79	14.17	NA	25.27 %	NA	Jan 11,2019	B	B	A	A	-1.59 %	0.57	
+SNX	SYNNEX Corporation	Business - Software Services	89.47	1.56 %	4.94 %	12.50 %	1.17 %	1.44 %	12.31 %	4,577.38	7.58	NA	8.45 %	NA	Jan 11,2019	B	F	A	C	-1.58 %	0.23	
+TLND	Talend S.A.	Internet - Software and Services	39.01	0.00 %	6.56 %	15.11 %	-1.28 %	0.00 %	18.18 %	1,136.88	NA	NA	30.77 %	NA	Jan 11,2019	F	F	F	F	2.66 %	5.98	
+APYX	Bovie Medical Corporation	Medical - Products	8.64	0.00 %	9.23 %	59.70 %	2.25 %	6.25 %	90.91 %	286.88	NA	NA	-70.59 %	30.00 %	Jan 10,2019	F	F	F	F	-0.35 %	7.88	
+RKDA	Arcadia Biosciences, Inc.	Agriculture - Products	3.98	0.00 %	14.70 %	4.74 %	0.00 %	NA	59.29 %	19.00	NA	NA	36.30 %	NA	Jan 10,2019	F	D	C	F	7.86 %	7.76	
+CASY	Caseys General Stores, Inc.	Retail - Convenience Stores	133.04	0.87 %	2.68 %	3.75 %	2.72 %	0.67 %	16.13 %	4,870.00	26.51	2.98	31.76 %	8.90 %	Jan 10,2019	B	A	A	A	0.26 %	0.53	
+GALT	Galectin Therapeutics Inc.	Medical - Drugs	4.72	0.00 %	3.06 %	-0.21 %	12.50 %	NA	22.22 %	194.16	NA	NA	22.45 %	NA	Jan 10,2019	D	B	B	C	3.06 %	NA	
+TCMD	Tactile Systems Technology, Inc.	Medical - Instruments	61.37	0.00 %	2.13 %	36.20 %	8.33 %	-57.27 %	80.00 %	1,133.66	283.25	14.16	42.86 %	20.00 %	Jan 10,2019	D	B	F	D	2.99 %	8.58	
+ACOR	Acorda Therapeutics, Inc.	Medical - Biomedical and Genetics	16.80	0.00 %	-1.06 %	14.91 %	3.55 %	-1.39 %	13.33 %	798.98	NA	NA	-44.57 %	NA	Jan 09,2019	D	A	D	C	1.39 %	1.35	
+AEG	Aegon NV	Insurance - Multi line	5.09	5.41 %	4.95 %	9.23 %	1.54 %	NA	NA	13,644.61	5.78	NA	-35.71 %	NA	Jan 09,2019	A	F	D	C	2.41 %	0.37	
+AAXN	Axon Enterprise, Inc	Security and Safety Services	49.63	0.00 %	-1.25 %	10.73 %	0.00 %	0.24 %	66.67 %	2,918.78	54.48	2.18	77.78 %	25.00 %	Jan 09,2019	F	A	F	D	0.57 %	7.30	
+CBM	Cambrex Corporation	Medical - Biomedical and Genetics	42.51	0.00 %	-7.02 %	8.61 %	0.00 %	0.00 %	-16.95 %	1,426.64	14.52	1.45	-6.31 %	10.00 %	Jan 09,2019	A	F	C	C	-0.56 %	2.46	
+DNLI	Denali Therapeutics Inc.	Medical - Biomedical and Genetics	21.17	0.00 %	5.32 %	5.80 %	0.00 %	0.00 %	-80.95 %	2,010.24	NA	NA	78.27 %	NA	Jan 09,2019	F	F	F	F	0.81 %	NA	
+DSW	DSW Inc.	Retail - Apparel and Shoes	26.45	3.78 %	-0.19 %	10.02 %	-1.51 %	-2.56 %	32.08 %	2,125.21	14.99	1.67	16.45 %	9.00 %	Jan 09,2019	B	A	F	B	-0.15 %	0.69	
+HLUYY	H Lundbeck A/S	Large Cap Pharmaceuticals	45.77	2.07 %	-0.93 %	4.20 %	5.05 %	0.00 %	38.27 %	9,112.81	15.18	2.17	45.82 %	7.00 %	Jan 09,2019	C	A	F	B	0.93 %	3.18	
+SSW	Seaspan Corporation	Transportation - Shipping	9.05	5.52 %	-4.03 %	15.58 %	0.00 %	0.00 %	44.00 %	1,120.14	8.79	0.56	57.58 %	15.70 %	Jan 09,2019	A	B	C	A	-0.44 %	1.10	
+SSNC	SS&C Technologies Holdings, Inc.	Computer - Software	47.91	0.67 %	1.25 %	7.47 %	-0.19 %	-0.08 %	1.28 %	12,016.19	13.47	1.00	46.11 %	13.50 %	Jan 09,2019	C	C	D	C	1.53 %	4.36	
+STM	STMicroelectronics N.V.	Semiconductor - General	14.14	1.44 %	1.80 %	7.45 %	1.13 %	0.00 %	10.81 %	12,677.78	10.55	2.11	41.84 %	5.00 %	Jan 09,2019	B	F	F	D	1.22 %	1.34	
+SYN	Synthetic Biologics, Inc	Medical - Biomedical and Genetics	0.60	0.00 %	-12.06 %	-5.83 %	0.00 %	0.00 %	29.55 %	8.06	NA	NA	NA	NA	Jan 09,2019	F	D	B	F	NA	NA	
+ADAP	Adaptimmune Therapeutics PLC	Medical - Biomedical and Genetics	5.31	0.00 %	-8.92 %	29.20 %	0.54 %	-2.55 %	266.67 %	501.35	NA	NA	-16.25 %	NA	Jan 08,2019	F	C	A	D	0.19 %	8.05	
+WAAS	AquaVenture Holdings Ltd.	Utility - Water Supply	21.42	0.00 %	1.18 %	16.35 %	3.55 %	NA	52.38 %	572.58	NA	NA	25.51 %	NA	Jan 08,2019	D	A	D	C	0.52 %	4.21	
+ADM	Archer Daniels Midland Company	Agriculture - Operations	43.30	3.09 %	0.53 %	2.12 %	0.21 %	1.34 %	15.00 %	24,275.90	11.98	NA	46.50 %	NA	Jan 08,2019	A	D	B	B	-0.41 %	0.38	
+ALOT	AstroNova, Inc.	Technology Services	19.36	1.45 %	-0.21 %	0.36 %	0.00 %	0.00 %	81.82 %	134.61	41.19	3.43	-25.40 %	12.00 %	Jan 08,2019	C	C	B	C	-2.27 %	1.02	
+AXON	Axovant Sciences Ltd.	Medical - Biomedical and Genetics	1.10	0.00 %	-3.51 %	2.80 %	0.00 %	-9.50 %	26.32 %	134.51	NA	NA	-39.32 %	NA	Jan 08,2019	F	F	C	F	1.85 %	NA	
+BRG	Bluerock Residential Growth REIT, Inc.	REIT and Equity Trust - Residential	10.19	6.38 %	0.49 %	4.30 %	0.00 %	0.00 %	5.88 %	241.27	13.27	1.33	23.21 %	10.00 %	Jan 08,2019	B	B	B	B	0.79 %	1.41	
+CCBG	Capital City Bank Group	Banks - Southeast	24.29	1.48 %	1.21 %	6.40 %	0.60 %	NA	13.79 %	414.35	14.46	NA	37.50 %	NA	Jan 08,2019	B	F	A	C	2.58 %	2.82	
+CCOI	Cogent Communications Holdings, Inc.	Wireless National	48.01	4.67 %	-0.44 %	6.08 %	0.12 %	0.37 %	5.88 %	2,231.11	50.60	6.32	73.68 %	8.00 %	Jan 08,2019	D	A	D	C	0.04 %	4.35	
+FTR	Frontier Communications Corporation	Wireline - Regional - Rural	2.64	0.00 %	1.15 %	15.79 %	0.00 %	0.00 %	65.00 %	278.65	NA	NA	NA	1.00 %	Jan 08,2019	A	A	F	A	1.93 %	0.03	
+GTX	Garrett Motion Inc.	Automotive - Original Equipment	14.30	0.00 %	8.17 %	15.79 %	4.49 %	3.90 %	NA	1,058.44	4.24	0.17	NA	25.54 %	Jan 08,2019	A	F	C	C	6.00 %	NA	
+GTN	Gray Television, Inc.	Broadcast Radio and Television	16.33	0.00 %	-0.43 %	0.86 %	0.00 %	0.00 %	14.75 %	1,449.30	12.47	1.25	96.58 %	10.00 %	Jan 08,2019	B	B	B	A	0.31 %	1.46	
+HTHIY	Hitachi Ltd.	Diversified Operations	64.40	2.24 %	13.01 %	17.73 %	4.91 %	5.02 %	86.87 %	31,127.74	7.72	0.59	12.70 %	13.00 %	Jan 08,2019	A	B	B	A	-1.75 %	0.35	
+INVE	Identiv, Inc.	Computer - Peripheral Equipment	5.71	0.00 %	27.45 %	39.27 %	10.00 %	NA	66.67 %	88.40	NA	NA	10.53 %	NA	Jan 08,2019	D	A	B	B	9.60 %	1.20	
+INSG	Inseego Corp.	Internet - Software	5.87	0.00 %	15.55 %	64.89 %	0.00 %	20.45 %	-200.00 %	430.81	61.79	NA	82.76 %	NA	Jan 08,2019	F	D	F	F	1.91 %	2.23	
+IONS	Ionis Pharmaceuticals, Inc.	Medical - Drugs	57.18	0.00 %	-0.05 %	12.43 %	4.63 %	4,300.00 %	76.92 %	7,866.34	177.11	NA	-262.50 %	NA	Jan 08,2019	D	F	C	F	-1.85 %	13.57	
+MNK	Mallinckrodt public limited company	Medical - Generic Drugs	20.01	0.00 %	3.84 %	12.86 %	1.26 %	-0.48 %	16.67 %	1,667.10	2.68	0.22	-5.47 %	12.00 %	Jan 08,2019	A	F	F	D	0.30 %	0.63	
+MMI	Marcus & Millichap, Inc.	Real Estate - Development	36.94	0.00 %	1.46 %	11.80 %	0.00 %	0.00 %	15.22 %	1,427.78	17.06	2.84	27.16 %	6.00 %	Jan 08,2019	C	A	B	B	1.23 %	1.81	
+MGP	MGM Growth Properties LLC	REIT and Equity Trust - Other	28.98	6.18 %	1.47 %	3.69 %	2.92 %	4.10 %	0.00 %	2,055.01	12.46	1.46	11.44 %	8.54 %	Jan 08,2019	B	C	B	A	1.33 %	2.20	
+NWL	Newell Brands Inc.	Consumer Products - Staples	20.55	4.48 %	4.16 %	0.74 %	0.60 %	0.15 %	107.69 %	9,592.74	12.32	2.53	-55.64 %	4.87 %	Jan 08,2019	B	C	D	C	-1.15 %	0.85	
+ONVO	Organovo Holdings, Inc.	Medical - Biomedical and Genetics	1.12	0.00 %	1.82 %	13.13 %	0.00 %	0.00 %	37.50 %	129.80	NA	NA	-21.88 %	NA	Jan 08,2019	F	F	C	F	3.70 %	33.37	
+PGR	The Progressive Corporation	Insurance - Property and Casualty	62.60	1.80 %	2.12 %	2.84 %	1.57 %	2.09 %	37.72 %	36,465.26	12.76	1.74	81.37 %	7.33 %	Jan 08,2019	B	A	C	A	0.92 %	1.17	
+SFL	Ship Finance International Limited	Transportation - Shipping	11.54	12.13 %	-1.20 %	1.94 %	-8.91 %	NA	26.92 %	1,414.89	9.82	NA	-21.85 %	NA	Jan 08,2019	B	F	F	F	-0.26 %	3.57	
+SOHO	Sotherly Hotels Inc.	REIT and Equity Trust - Other	6.51	7.68 %	1.72 %	7.25 %	NA	NA	500.00 %	92.50	5.76	NA	3.00 %	NA	Jan 08,2019	A	C	B	A	0.93 %	0.54	
+STXB	Spirit of Texas Bancshares, Inc.	Banks - Southeast	21.75	0.00 %	-4.81 %	4.17 %	5.49 %	0.00 %	NA	213.42	12.57	NA	NA	NA	Jan 08,2019	C	C	A	C	-2.03 %	3.44	
+SPSC	SPS Commerce, Inc.	Business - Services	87.53	0.00 %	0.01 %	6.41 %	1.29 %	1.89 %	26.83 %	1,546.18	42.74	2.14	93.75 %	20.00 %	Jan 08,2019	F	A	C	C	-2.03 %	6.41	
+TGTX	TG Therapeutics, Inc.	Medical - Products	4.62	0.00 %	-6.10 %	19.38 %	0.00 %	0.00 %	21.82 %	382.98	NA	NA	-6.28 %	NA	Jan 08,2019	F	F	C	F	0.00 %	2,519.63	
+VLRX	Valeritas Holdings, Inc.	Medical - Products	0.41	0.00 %	-1.54 %	21.82 %	0.00 %	0.00 %	12.50 %	10.18	NA	NA	84.32 %	NA	Jan 08,2019	F	C	A	D	NA	0.40	
+VSI	Vitamin Shoppe, Inc	Food - Natural Foods Products	4.92	0.00 %	-5.38 %	-3.72 %	0.00 %	0.00 %	200.00 %	118.18	21.39	NA	-53.85 %	NA	Jan 08,2019	A	A	C	A	-3.72 %	0.10	
+ZAGG	ZAGG Inc	Electronics - Miscellaneous Components	11.12	0.00 %	-3.64 %	20.93 %	0.00 %	0.00 %	21.43 %	309.06	7.28	0.97	40.21 %	7.50 %	Jan 08,2019	A	D	D	B	1.55 %	0.56	
+CRMT	America's Car-Mart, Inc.	Automotive - Retail and Whole Sales	68.81	0.00 %	-3.44 %	-2.74 %	0.00 %	0.00 %	43.64 %	466.25	11.73	0.63	63.06 %	18.75 %	Jan 05,2019	B	C	F	B	0.06 %	0.72	
+APH	Amphenol Corporation	Electronics - Connectors	81.35	1.13 %	1.08 %	2.15 %	0.00 %	2.42 %	5.32 %	24,512.96	20.27	1.69	18.59 %	11.96 %	Jan 05,2019	C	C	D	D	0.30 %	3.09	
+ASMB	Assembly Biosciences, Inc.	Medical - Generic Drugs	21.29	0.00 %	-3.23 %	4.06 %	1.32 %	18.01 %	14.71 %	542.11	NA	NA	-65.98 %	NA	Jan 05,2019	F	F	D	F	-0.42 %	37.69	
+AEYE	Audioeye, Inc.	Internet - Software	8.99	0.00 %	13.51 %	16.75 %	10.00 %	78.57 %	-5.56 %	67.86	NA	NA	56.80 %	NA	Jan 05,2019	F	D	B	F	8.97 %	14.27	
+CHKE	Cherokee Inc.	Textile - Apparel	0.75	0.00 %	0.01 %	20.56 %	0.00 %	0.00 %	100.00 %	10.67	NA	NA	-57.75 %	15.00 %	Jan 05,2019	F	D	C	F	NA	0.42	
+CLDR	Cloudera, Inc.	Internet - Software	11.89	0.00 %	2.59 %	6.35 %	6.45 %	21.08 %	72.73 %	1,825.31	NA	NA	-46.38 %	8.00 %	Jan 05,2019	F	B	D	D	-0.25 %	4.20	
+CGNX	Cognex Corporation	Electronics - Testing Equipment	41.40	0.48 %	0.29 %	10.19 %	0.00 %	0.00 %	14.29 %	7,128.71	28.55	1.90	-15.17 %	15.00 %	Jan 05,2019	D	C	D	D	-0.48 %	8.98	
+DAVA	Endava PLC Sponsored ADR	Computers - IT Services	23.38	0.00 %	-2.71 %	-11.79 %	1.53 %	-4.68 %	57.14 %	1,239.60	30.10	NA	9.86 %	NA	Jan 05,2019	D	A	D	C	1.63 %	NA	
+ELGX	Endologix, Inc.	Medical - Dental Supplies	0.76	0.00 %	18.75 %	25.62 %	0.00 %	0.00 %	40.00 %	78.63	NA	NA	-41.67 %	NA	Jan 05,2019	F	D	D	F	NA	0.47	
+SUPV	Grupo Supervielle S.A.	Banks - Foreign	9.20	1.17 %	-1.08 %	16.90 %	1.20 %	4.87 %	60.00 %	669.39	8.19	6.77	-49.47 %	1.21 %	Jan 05,2019	D	D	C	D	-1.92 %	0.53	
+NGVT	Ingevity Corporation	Chemical - Specialty	88.31	0.00 %	2.13 %	11.43 %	0.00 %	0.00 %	11.54 %	3,706.25	18.90	1.57	49.22 %	12.00 %	Jan 05,2019	D	A	F	C	2.46 %	3.42	
+KEYS	Keysight Technologies Inc.	Electronics - Measuring Instruments	69.05	0.00 %	2.95 %	14.95 %	0.00 %	0.00 %	10.99 %	12,956.66	18.33	NA	16.36 %	NA	Jan 05,2019	D	A	C	B	0.79 %	3.34	
+KNOP	KNOT Offshore Partners LP	Transportation - Shipping	18.97	10.97 %	-0.68 %	3.27 %	0.00 %	NA	1.59 %	620.21	7.50	NA	19.91 %	NA	Jan 05,2019	B	D	C	C	0.64 %	2.30	
+MOH	Molina Healthcare, Inc	Medical - HMOs	135.97	0.00 %	4.12 %	15.94 %	3.57 %	10.79 %	64.85 %	8,483.03	14.71	1.30	1,551.79 %	11.33 %	Jan 05,2019	B	C	A	B	0.64 %	0.44	
+RECN	Resources Connection, Inc.	Staffing Firms	16.41	3.17 %	0.67 %	13.48 %	15.61 %	14.14 %	43.48 %	520.60	16.41	NA	2.04 %	NA	Jan 05,2019	A	A	B	A	1.17 %	0.72	
+RGCO	RGC Resources Inc.	Oil and Gas - Refining and Marketing	30.17	1.03 %	1.24 %	9.04 %	0.00 %	0.00 %	350.00 %	241.47	29.29	NA	8.42 %	NA	Jan 05,2019	D	F	D	F	1.93 %	3.68	
+ATH	Athene Holding Ltd.	Insurance - Life Insurance	43.39	0.00 %	3.46 %	7.11 %	1.84 %	3.91 %	14.71 %	8,667.46	5.86	0.41	4.77 %	14.19 %	Jan 04,2019	A	D	B	B	4.23 %	0.94	
+BMA	Macro Bank Inc.	Banks - Foreign	49.95	4.47 %	-1.23 %	29.50 %	3.57 %	7.25 %	0.71 %	3,289.51	6.75	0.49	-30.29 %	13.72 %	Jan 04,2019	A	B	B	A	-5.31 %	1.33	
+COUP	COUPA SOFTWARE	Internet - Software	68.83	0.00 %	4.86 %	8.68 %	0.00 %	0.00 %	366.67 %	4,091.59	560.24	NA	-157.14 %	NA	Jan 04,2019	F	B	C	D	0.66 %	17.10	
+GIII	G-III Apparel Group, LTD.	Textile - Apparel	33.05	0.00 %	4.69 %	18.20 %	0.00 %	2.11 %	3.30 %	1,631.20	12.04	0.80	71.88 %	15.00 %	Jan 04,2019	C	F	D	D	1.88 %	0.54	
+HMC	Honda Motor Co., Ltd.	Automotive - Foreign	29.51	2.65 %	2.82 %	10.28 %	0.00 %	0.00 %	35.44 %	52,476.95	7.94	2.74	2.76 %	2.90 %	Jan 04,2019	A	D	C	B	0.24 %	0.38	
+LSXMK	Liberty Media Corporation	Satellite and Communication	38.69	0.00 %	1.60 %	3.23 %	0.00 %	0.00 %	-5.17 %	8,317.65	14.65	NA	-35.95 %	NA	Jan 04,2019	B	F	C	D	1.42 %	1.46	
+MBRX	Moleculin Biotech, Inc.	Medical - Biomedical and Genetics	1.39	0.00 %	-1.27 %	25.23 %	0.00 %	NA	23.08 %	37.71	NA	NA	2.13 %	NA	Jan 04,2019	D	D	D	F	-2.11 %	NA	
+ADUS	Addus HomeCare Corporation	Medical - Outpatient and Home Healthcare	64.33	0.00 %	-2.82 %	-2.90 %	0.00 %	0.00 %	4.35 %	842.62	26.80	1.79	21.25 %	15.00 %	Jan 03,2019	C	C	A	C	1.31 %	1.72	
+BCML	Bay Commercial Bank	Banks - West	21.57	0.00 %	-7.35 %	2.13 %	0.00 %	0.00 %	-26.19 %	223.53	9.85	0.98	7.89 %	10.00 %	Jan 03,2019	C	F	A	D	-1.01 %	3.64	
+CEPU	Central Puerto S.A. Sponsored ADR	Alternative Energy - Other	10.17	2.76 %	2.31 %	15.83 %	17.98 %	35.34 %	-23.90 %	1,539.76	3.78	NA	139.72 %	NA	Jan 03,2019	A	F	B	C	-1.07 %	NA	
+ROCK	Gibraltar Industries, Inc.	Building Products - Miscellaneous	35.91	0.00 %	-0.72 %	7.00 %	4.30 %	NA	1.43 %	1,151.45	14.81	NA	21.05 %	NA	Jan 03,2019	B	D	D	B	0.00 %	1.13	
+KMPR	Kemper Corporation	Insurance - Multi line	72.44	1.33 %	2.69 %	12.10 %	0.00 %	0.00 %	32.50 %	4,690.28	13.29	NA	166.46 %	NA	Jan 03,2019	C	A	F	B	2.14 %	1.41	
+RCII	Rent-A-Center, Inc.	Consumer Services - Miscellaneous	16.64	0.00 %	-0.78 %	12.74 %	55.60 %	NA	10.34 %	890.48	9.46	NA	270.37 %	NA	Jan 03,2019	A	A	B	A	1.46 %	0.34	
+SP	SP Plus Corporation	Consumer Services - Miscellaneous	33.85	0.00 %	6.61 %	21.54 %	0.00 %	NA	4.92 %	769.76	13.10	1.31	30.59 %	10.00 %	Jan 03,2019	B	A	F	A	1.77 %	0.52	
+NWSA	News Corporation	Film and Television Production and Distribution	12.38	1.62 %	1.39 %	4.56 %	0.00 %	0.00 %	183.33 %	7,240.37	35.37	3.81	-20.45 %	9.29 %	Jan 01,2019	D	A	D	C	0.00 %	0.76	
+HCC	Warrior Met Coal Inc.	Coal	24.40	0.82 %	1.16 %	6.23 %	0.12 %	0.50 %	-15.20 %	1,287.26	4.06	NA	5.45 %	NA	Jan 01,2019	A	D	A	A	1.96 %	1.02	
+OPK	OPKO Health, Inc.	Medical - Instruments	3.73	0.00 %	2.19 %	30.88 %	-18.14 %	0.00 %	37.50 %	2,088.16	NA	NA	24.14 %	12.00 %	Dec 29,2018	D	D	F	F	-1.32 %	2.17	
+NEP	NextEra Energy Partners, LP	Alternative Energy - Other	42.71	4.21 %	-0.72 %	3.14 %	4.98 %	5.11 %	28.89 %	2,392.26	20.97	2.33	500.00 %	9.00 %	Dec 27,2018	B	C	B	B	2.20 %	2.95	
+NCNA	NuCana PLC Sponsored ADR	Medical - Biomedical and Genetics	14.66	0.00 %	-5.36 %	-3.17 %	7.05 %	11.88 %	61.54 %	466.35	NA	NA	47.17 %	NA	Dec 27,2018	D	F	B	F	-7.04 %	NA	
+BB	BlackBerry Limited	Wireless Non-US 	7.66	0.00 %	2.54 %	4.22 %	22.50 %	6.45 %	50.00 %	4,192.73	46.90	2.53	14.29 %	18.56 %	Dec 25,2018	C	B	F	C	1.73 %	4.75	
+EBF	Ennis, Inc.	Office Supplies	19.42	4.63 %	-5.59 %	11.29 %	5.00 %	NA	NA	507.34	13.21	NA	13.95 %	NA	Dec 25,2018	B	D	A	B	-0.87 %	1.31	
+LZB	La-Z-Boy Incorporated	Furniture	29.84	1.74 %	-1.16 %	13.29 %	0.00 %	0.00 %	11.63 %	1,397.51	14.16	NA	16.57 %	NA	Dec 25,2018	A	C	B	B	-0.43 %	0.84	
+SAR	Saratoga Investment Corp	Financial - SBIC & Commercial Industry	22.13	9.58 %	2.36 %	9.50 %	4.47 %	5.56 %	18.18 %	166.87	8.61	NA	-12.29 %	NA	Dec 25,2018	D	F	A	F	0.96 %	3.72	
+SHLX	Shell Midstream Partners, L.P.	Oil and Gas - Production Pipeline - MLB	19.32	7.91 %	-0.82 %	0.68 %	0.49 %	-3.58 %	19.05 %	4,324.03	9.92	3.31	19.53 %	3.00 %	Dec 25,2018	C	C	B	C	2.38 %	8.49	
+AZUL	AZUL SA	Transportation - Airline	29.22	0.00 %	3.62 %	17.77 %	0.47 %	22.61 %	212.50 %	9,401.64	16.28	NA	-8.55 %	NA	Dec 22,2018	D	C	D	D	-1.55 %	3.70	
+ATKR	Atkore International Group Inc.	Wire and Cable Products	21.84	0.00 %	-0.27 %	11.77 %	0.00 %	0.00 %	9.72 %	1,031.07	7.34	NA	7.19 %	NA	Dec 19,2018	A	C	D	B	-0.18 %	0.56	
+IMKTA	Ingles Markets, Incorporated	Retail - Supermarkets	29.98	2.20 %	3.41 %	5.34 %	0.00 %	0.00 %	NA	607.36	9.37	1.03	-33.47 %	9.10 %	Dec 13,2018	A	C	C	A	2.57 %	0.15	
+SHWDY	Showa Denko K.K.	Chemical - Diversified 	33.00	0.46 %	8.73 %	-0.75 %	0.00 %	0.00 %	NA	49,404.63	3.41	NA	NA	NA	Dec 13,2018	D	C	B	D	-1.93 %	NA	
+XPER	Tessera Holding Corporation	Technology Services	20.45	3.91 %	-1.49 %	21.15 %	0.00 %	0.00 %	16.67 %	990.15	8.67	NA	131.39 %	NA	Dec 13,2018	B	B	B	A	1.24 %	3.01	
+SCWX	SecureWorks Corp.	Computers - IT Services	16.40	0.00 %	-3.47 %	6.98 %	0.00 %	0.00 %	220.00 %	1,339.91	1,968.00	NA	-102.94 %	NA	Dec 12,2018	F	A	B	C	0.12 %	2.63	
+VRNT	Verint Systems Inc.	Computer - Software	45.78	0.00 %	4.09 %	0.99 %	-0.16 %	0.10 %	19.72 %	2,988.14	14.45	1.45	12.81 %	10.00 %	Dec 12,2018	C	B	F	D	0.39 %	2.45	
+ANF	Abercrombie & Fitch Company	Retail - Apparel and Shoes	19.38	4.13 %	-7.67 %	3.25 %	3.89 %	3.39 %	83.33 %	1,276.08	20.40	1.34	46.15 %	15.25 %	Dec 11,2018	B	B	A	A	1.15 %	0.35	
+BFR	BBVA Banco Frances S.A.	Banks - Foreign	12.83	1.63 %	0.86 %	21.50 %	0.00 %	0.00 %	88.00 %	2,620.14	8.39	NA	32.46 %	NA	Dec 11,2018	D	F	D	F	0.16 %	NA	
+MRVL	Marvell Technology Group Ltd.	Semiconductor - Communications 	16.64	1.44 %	-2.63 %	12.74 %	0.00 %	-1.10 %	3.13 %	10,939.14	13.34	1.42	5.04 %	9.38 %	Dec 11,2018	C	C	B	B	-1.19 %	4.00	
+NXEO	NEXEO SOLUTIONS	Chemical - Plastic	9.00	0.00 %	0.11 %	5.76 %	1.94 %	0.00 %	23.81 %	807.28	9.34	0.31	29.73 %	30.62 %	Dec 11,2018	A	A	C	A	-0.88 %	0.20	
+VIV	Telefonica Brasil S.A.	Diversified Communication Services	12.53	5.78 %	-4.93 %	6.01 %	0.00 %	0.00 %	140.00 %	21,159.32	13.85	1.34	71.76 %	10.37 %	Dec 11,2018	C	C	C	C	-2.49 %	1.70	
+NOVT	Novanta Inc.	Electronics - Miscellaneous Components	67.21	0.00 %	0.15 %	8.04 %	0.00 %	-1.30 %	17.31 %	2,345.97	28.97	NA	31.88 %	NA	Dec 08,2018	D	A	C	C	-0.41 %	3.88	
+SNPS	Synopsys, Inc.	Computer - Software	88.95	0.00 %	2.29 %	5.74 %	0.00 %	0.00 %	0.00 %	13,299.36	20.95	2.10	8.70 %	10.00 %	Dec 08,2018	D	C	F	D	0.54 %	4.26	
+CROX	Crocs, Inc.	Textile - Apparel	30.53	0.00 %	-2.68 %	22.32 %	0.00 %	13.64 %	450.00 %	2,039.44	28.98	1.93	2,400.00 %	15.00 %	Dec 07,2018	D	A	C	B	1.60 %	1.90	
+RH	Restoration Hardware Holdings Inc.	Retail - Home Furnishings	126.05	0.00 %	-4.04 %	2.74 %	0.01 %	4.49 %	36.22 %	2,674.31	15.17	0.87	172.46 %	17.50 %	Dec 06,2018	A	A	B	A	-1.20 %	1.07	
+FUJIY	Fujifilm Holdings Corp.	Semiconductor Equipment - Photomasks	41.77	1.27 %	3.89 %	8.49 %	0.00 %	0.00 %	22.22 %	17,783.54	14.65	1.86	-1.72 %	7.89 %	Dec 05,2018	B	C	C	B	-0.96 %	0.81	
+TECD	Tech Data Corporation	Retail - Computer Hardware	91.62	0.00 %	3.83 %	11.72 %	2.17 %	0.00 %	37.90 %	3,419.05	8.38	0.96	20.09 %	8.72 %	Dec 04,2018	A	B	F	A	-0.27 %	0.09	
+VEEV	Veeva Systems Inc.	Internet - Software	101.67	0.00 %	5.35 %	16.78 %	0.00 %	0.00 %	18.42 %	14,772.65	64.35	3.31	69.89 %	19.45 %	Dec 04,2018	F	B	D	D	0.27 %	18.13	
+AVAV	AeroVironment, Inc.	Aerospace - Defense Equipment	73.10	0.00 %	-2.29 %	4.24 %	0.00 %	0.00 %	81.25 %	1,749.16	49.39	1.98	37.04 %	25.00 %	Dec 01,2018	D	D	D	D	-0.95 %	5.26	
+CATM	Cardtronics PLC	Financial Transaction Services	29.14	0.00 %	-4.05 %	7.17 %	-0.58 %	-0.88 %	47.62 %	1,343.57	14.16	1.18	-31.67 %	12.00 %	Nov 30,2018	A	D	C	B	-2.51 %	0.97	
+PLYM	PLYMOUTH IND RE	REIT and Equity Trust - Other	13.90	10.79 %	-9.74 %	12.55 %	-5.26 %	-12.20 %	7.69 %	67.02	8.58	NA	218.42 %	NA	Nov 30,2018	B	A	C	A	1.09 %	1.52	
+TITN	Titan Machinery Inc.	Automotive - Retail and Whole Sales	17.12	0.00 %	3.63 %	23.79 %	8.00 %	6.27 %	36.11 %	380.38	23.78	NA	-700.00 %	NA	Nov 30,2018	A	A	D	A	3.88 %	0.30	
+SHEN	Shenandoah Telecommunications Co	Diversified Communication Services	46.88	0.58 %	-2.94 %	3.88 %	0.00 %	0.00 %	106.67 %	2,323.31	34.05	NA	250.00 %	NA	Nov 29,2018	D	A	D	C	-0.91 %	3.77	
+BEL	Belmond Ltd.	Hotels and Motels	24.86	0.00 %	0.24 %	0.00 %	1.33 %	0.00 %	21.43 %	2,560.34	65.42	4.36	150.00 %	15.00 %	Nov 28,2018	F	A	C	C	-0.08 %	4.48	
+CPIX	Cumberland Pharmaceuticals Inc.	Medical - Drugs	5.99	0.00 %	-6.26 %	-2.76 %	0.00 %	0.00 %	73.68 %	93.01	NA	NA	NA	NA	Nov 28,2018	C	F	B	F	3.03 %	2.39	
+MMS	Maximus, Inc.	Government Services	69.11	1.45 %	0.83 %	6.87 %	0.00 %	0.00 %	0.00 %	4,432.25	18.87	1.89	7.65 %	10.00 %	Nov 24,2018	B	B	D	B	0.86 %	1.85	
+SCVL	Shoe Carnival, Inc.	Retail - Apparel and Shoes	40.27	0.79 %	6.14 %	23.91 %	1.68 %	1.52 %	24.59 %	621.54	16.64	NA	62.42 %	NA	Nov 17,2018	B	A	A	A	1.90 %	0.60	
+VNDA	Vanda Pharmaceuticals Inc.	Medical - Biomedical and Genetics	30.17	0.00 %	6.23 %	22.49 %	0.00 %	0.00 %	1,900.00 %	1,582.41	50.56	1.44	245.71 %	35.00 %	Nov 14,2018	C	A	B	B	3.00 %	8.58	
+UNT	Unit Corporation	Oil and Gas - Field Services	17.29	0.00 %	-1.26 %	6.53 %	12.11 %	22.61 %	25.00 %	934.66	9.53	NA	81.48 %	NA	Nov 09,2018	A	B	C	A	0.64 %	1.12	
+VRNA	Verona Pharma PLC American Depositary Share	Medical - Biomedical and Genetics	6.80	0.00 %	-28.80 %	-25.27 %	6.78 %	18.04 %	53.06 %	89.26	NA	NA	14.52 %	NA	Nov 09,2018	C	C	A	B	4.94 %	NA	
+DXPE	DXP Enterprises, Inc.	Manufacturing - General Industrial 	31.71	0.00 %	-1.86 %	6.77 %	0.00 %	NA	17.95 %	557.15	14.22	NA	94.19 %	NA	Nov 08,2018	B	B	B	A	1.02 %	0.48	
+AMOT	Allied Motion Technologies, Inc.	Instruments - Control	43.80	0.27 %	-3.40 %	-3.01 %	0.00 %	NA	44.44 %	415.47	18.72	1.87	52.46 %	10.00 %	Nov 07,2018	C	B	A	B	0.44 %	1.38	
+SAVE	Spirit Airlines, Inc.	Transportation - Airline	60.76	0.00 %	2.20 %	5.14 %	15.58 %	3.76 %	5.76 %	4,147.75	9.61	0.35	30.93 %	27.51 %	Nov 02,2018	A	D	A	B	3.76 %	1.33	
+BEAT	BioTelemetry, Inc.	Medical Services	69.49	0.00 %	5.37 %	17.68 %	0.00 %	0.00 %	65.62 %	2,314.21	39.04	3.90	86.60 %	10.00 %	Nov 01,2018	D	A	C	B	2.83 %	5.97	
+HKMPF	Hikma Pharmaceuticals Plc	Medical - Drugs	21.40	0.00 %	0.00 %	-10.83 %	-0.72 %	-0.68 %	NA	5,154.55	15.45	1.66	32.38 %	9.30 %	Oct 17,2018	C	F	D	D	0.00 %	NA	
